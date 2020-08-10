@@ -2,21 +2,21 @@ Size of base set?
 1.
 id: 65535
 meet-irreducibles: abc abd acd bcd 
-max antichain: abcabdacdbcd
+max antichain: abc abd acd bcd 
 dimension: 4
 
 2.
 id: 65407
 abc \to d
 meet-irreducibles: ab ac bc abd acd bcd 
-max antichain: abacbc
+max antichain: ab ac bc 
 dimension: 3
 
 3.
 id: 65399
 ab \to d
 meet-irreducibles: ac bc abd acd bcd 
-max antichain: acbcabd
+max antichain: ac bc abd 
 dimension: 3
 
 4.
@@ -24,21 +24,21 @@ id: 65367
 ac \to d
 ab \to d
 meet-irreducibles: a bc abd acd bcd 
-max antichain: bcabdacd
+max antichain: bc abd acd 
 dimension: 3
 
 5.
 id: 63351
 ab \to cd
 meet-irreducibles: ac bc ad bd acd bcd 
-max antichain: acbcadbd
+max antichain: ac bc ad bd 
 dimension: 4
 
 6.
 id: 65365
 a \to d
 meet-irreducibles: bc abd acd bcd 
-max antichain: bcabdacd
+max antichain: bc abd acd 
 dimension: 3
 
 7.
@@ -47,7 +47,7 @@ bc \to d
 ac \to d
 ab \to d
 meet-irreducibles: a b c abd acd bcd 
-max antichain: abc
+max antichain: a b c 
 dimension: 3
 
 8.
@@ -55,7 +55,7 @@ id: 63319
 ac \to d
 ab \to cd
 meet-irreducibles: a bc ad bd acd bcd 
-max antichain: abcbd
+max antichain: a bc bd 
 dimension: 3
 
 9.
@@ -63,7 +63,7 @@ id: 65301
 bc \to d
 a \to d
 meet-irreducibles: b c abd acd bcd 
-max antichain: abdacdbcd
+max antichain: abd acd bcd 
 dimension: 3
 
 10.
@@ -71,7 +71,7 @@ id: 63317
 ab \to cd
 a \to d
 meet-irreducibles: bc ad bd acd bcd 
-max antichain: bcadbd
+max antichain: bc ad bd 
 dimension: 3
 
 11.
@@ -80,7 +80,7 @@ bc \to d
 ac \to d
 ab \to cd
 meet-irreducibles: a b c ad bd acd bcd 
-max antichain: abc
+max antichain: a b c 
 dimension: 3
 
 12.
@@ -89,7 +89,7 @@ ad \to c
 bc \to d
 ab \to cd
 meet-irreducibles: a b ac bd acd bcd 
-max antichain: ab
+max antichain: a b 
 dimension: 2
 
 13.
@@ -97,7 +97,7 @@ id: 65297
 b \to d
 a \to d
 meet-irreducibles: c abd acd bcd 
-max antichain: abdacdbcd
+max antichain: abd acd bcd 
 dimension: 3
 
 14.
@@ -106,14 +106,14 @@ bc \to d
 ab \to cd
 a \to d
 meet-irreducibles: b c ad bd acd bcd 
-max antichain: bcad
+max antichain: b c ad 
 dimension: 3
 
 15.
 id: 62805
 a \to cd
 meet-irreducibles: bc bd acd bcd 
-max antichain: bcbdacd
+max antichain: bc bd acd 
 dimension: 3
 
 16.
@@ -122,7 +122,7 @@ bc \to d
 ab \to cd
 a \to c
 meet-irreducibles: b ac bd acd bcd 
-max antichain: bac
+max antichain: b ac 
 dimension: 2
 
 17.
@@ -130,7 +130,7 @@ id: 63239
 c \to d
 ab \to cd
 meet-irreducibles: a b ad bd acd bcd 
-max antichain: ab
+max antichain: a b 
 dimension: 2
 
 18.
@@ -139,7 +139,7 @@ c \to d
 b \to d
 a \to d
 meet-irreducibles: abd acd bcd 
-max antichain: abdacdbcd
+max antichain: abd acd bcd 
 dimension: 3
 
 19.
@@ -148,7 +148,7 @@ ab \to cd
 b \to d
 a \to d
 meet-irreducibles: c ad bd acd bcd 
-max antichain: cadbd
+max antichain: c ad bd 
 dimension: 3
 
 20.
@@ -157,7 +157,7 @@ ab \to cd
 b \to d
 a \to c
 meet-irreducibles: ac bd acd bcd 
-max antichain: acbd
+max antichain: ac bd 
 dimension: 2
 
 21.
@@ -166,7 +166,7 @@ c \to d
 ab \to cd
 a \to d
 meet-irreducibles: b ad bd acd bcd 
-max antichain: bad
+max antichain: b ad 
 dimension: 2
 
 22.
@@ -174,14 +174,14 @@ id: 62741
 bc \to d
 a \to cd
 meet-irreducibles: b c bd acd bcd 
-max antichain: bc
+max antichain: b c 
 dimension: 2
 
 23.
 id: 54613
 a \to bcd
 meet-irreducibles: bc bd cd bcd 
-max antichain: bcbdcd
+max antichain: bc bd cd 
 dimension: 3
 
 24.
@@ -191,7 +191,7 @@ ab \to cd
 b \to d
 a \to d
 meet-irreducibles: ad bd acd bcd 
-max antichain: adbd
+max antichain: ad bd 
 dimension: 2
 
 25.
@@ -199,7 +199,7 @@ id: 62737
 b \to d
 a \to cd
 meet-irreducibles: c bd acd bcd 
-max antichain: cbd
+max antichain: c bd 
 dimension: 2
 
 26.
@@ -207,7 +207,7 @@ id: 62725
 c \to d
 a \to cd
 meet-irreducibles: b bd acd bcd 
-max antichain: bacd
+max antichain: b acd 
 dimension: 2
 
 27.
@@ -215,7 +215,7 @@ id: 54549
 bc \to d
 a \to bcd
 meet-irreducibles: b c bd cd bcd 
-max antichain: bc
+max antichain: b c 
 dimension: 2
 
 28.
@@ -224,7 +224,7 @@ c \to d
 b \to d
 a \to cd
 meet-irreducibles: bd acd bcd 
-max antichain: bdacd
+max antichain: bd acd 
 dimension: 2
 
 29.
@@ -232,7 +232,7 @@ id: 61713
 b \to cd
 a \to cd
 meet-irreducibles: c d acd bcd 
-max antichain: cd
+max antichain: c d 
 dimension: 2
 
 30.
@@ -240,7 +240,7 @@ id: 54545
 b \to d
 a \to bcd
 meet-irreducibles: c bd cd bcd 
-max antichain: cbd
+max antichain: c bd 
 dimension: 2
 
 31.
@@ -249,7 +249,7 @@ c \to d
 b \to cd
 a \to cd
 meet-irreducibles: d acd bcd 
-max antichain: acdbcd
+max antichain: acd bcd 
 dimension: 2
 
 32.
@@ -258,7 +258,7 @@ c \to d
 b \to d
 a \to bcd
 meet-irreducibles: bd cd bcd 
-max antichain: bdcd
+max antichain: bd cd 
 dimension: 2
 
 33.
@@ -266,7 +266,7 @@ id: 53521
 b \to cd
 a \to bcd
 meet-irreducibles: c d cd bcd 
-max antichain: cd
+max antichain: c d 
 dimension: 2
 
 34.
@@ -275,7 +275,7 @@ c \to d
 b \to cd
 a \to bcd
 meet-irreducibles: d cd bcd 
-max antichain: d
+max antichain: d 
 dimension: 1
 Yay!
 485 total convex geometries and 34 non-isomorphic geometries found!

@@ -361,6 +361,7 @@ void matroid_to_convexgeo(ull matroid)
             continue;
         }
         print_set(meet_irrs[i]);
+        cout << " ";
     }
     cout << endl;
     int dim = max_antichain_size(irreducibles);

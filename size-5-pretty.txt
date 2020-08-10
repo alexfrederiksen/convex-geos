@@ -2,28 +2,28 @@ Size of base set?
 1.
 id: 4294967295
 meet-irreducibles: abcd abce abde acde bcde 
-max antichain: abcdabceabdeacdebcde
+max antichain: abcd abce abde acde bcde 
 dimension: 5
 
 2.
 id: 4294934527
 abcd \to e
 meet-irreducibles: abc abd acd bcd abce abde acde bcde 
-max antichain: abcabdacdbcd
+max antichain: abc abd acd bcd 
 dimension: 4
 
 3.
 id: 4294934399
 abc \to e
 meet-irreducibles: abd acd bcd abce abde acde bcde 
-max antichain: abdacdbcdabce
+max antichain: abd acd bcd abce 
 dimension: 4
 
 4.
 id: 4286545791
 abc \to de
 meet-irreducibles: abd acd bcd abe ace bce abde acde bcde 
-max antichain: abdacdbcdabeacebce
+max antichain: abd acd bcd abe ace bce 
 dimension: 6
 
 5.
@@ -31,14 +31,14 @@ id: 4294932351
 abd \to e
 abc \to e
 meet-irreducibles: ab acd bcd abce abde acde bcde 
-max antichain: acdbcdabceabde
+max antichain: acd bcd abce abde 
 dimension: 4
 
 6.
 id: 4294932343
 ab \to e
 meet-irreducibles: acd bcd abce abde acde bcde 
-max antichain: acdbcdabceabde
+max antichain: acd bcd abce abde 
 dimension: 4
 
 7.
@@ -47,7 +47,7 @@ acd \to e
 abd \to e
 abc \to e
 meet-irreducibles: ab ac ad bcd abce abde acde bcde 
-max antichain: abacadbcd
+max antichain: ab ac ad bcd 
 dimension: 4
 
 8.
@@ -55,7 +55,7 @@ id: 4286543743
 abd \to e
 abc \to de
 meet-irreducibles: ab acd bcd abe ace bce abde acde bcde 
-max antichain: abacdbcdacebce
+max antichain: ab acd bcd ace bce 
 dimension: 5
 
 9.
@@ -63,7 +63,7 @@ id: 4294924151
 acd \to e
 ab \to e
 meet-irreducibles: ac ad bcd abce abde acde bcde 
-max antichain: bcdabceabdeacde
+max antichain: bcd abce abde acde 
 dimension: 4
 
 10.
@@ -71,7 +71,7 @@ id: 4286543735
 abc \to de
 ab \to e
 meet-irreducibles: acd bcd abe ace bce abde acde bcde 
-max antichain: acdbcdabeacebce
+max antichain: acd bcd abe ace bce 
 dimension: 5
 
 11.
@@ -81,7 +81,7 @@ acd \to e
 abd \to e
 abc \to e
 meet-irreducibles: ab ac bc ad bd cd abce abde acde bcde 
-max antichain: abacbcadbdcd
+max antichain: ab ac bc ad bd cd 
 dimension: 6
 
 12.
@@ -90,7 +90,7 @@ acd \to e
 abd \to e
 abc \to de
 meet-irreducibles: ab ac ad bcd abe ace bce abde acde bcde 
-max antichain: abacadbcdbce
+max antichain: ab ac ad bcd bce 
 dimension: 5
 
 13.
@@ -99,7 +99,7 @@ abe \to d
 acd \to e
 abc \to de
 meet-irreducibles: ab ac abd bcd ace bce abde acde bcde 
-max antichain: abacbcdbce
+max antichain: ab ac bcd bce 
 dimension: 4
 
 14.
@@ -108,7 +108,7 @@ bcd \to e
 acd \to e
 ab \to e
 meet-irreducibles: ac bc ad bd cd abce abde acde bcde 
-max antichain: acbcadbdcd
+max antichain: ac bc ad bd cd 
 dimension: 5
 
 15.
@@ -117,7 +117,7 @@ acd \to e
 abc \to de
 ab \to e
 meet-irreducibles: ac ad bcd abe ace bce abde acde bcde 
-max antichain: acadbcdabebce
+max antichain: ac ad bcd abe bce 
 dimension: 5
 
 16.
@@ -125,14 +125,14 @@ id: 4286535039
 ad \to e
 abc \to de
 meet-irreducibles: ab ac bcd abe ace bce abde acde bcde 
-max antichain: abacbcdbce
+max antichain: ab ac bcd bce 
 dimension: 4
 
 17.
 id: 4286019447
 ab \to de
 meet-irreducibles: acd bcd ace bce abde acde bcde 
-max antichain: acdbcdacebceabde
+max antichain: acd bcd ace bce abde 
 dimension: 5
 
 18.
@@ -142,7 +142,7 @@ acd \to e
 abd \to e
 abc \to de
 meet-irreducibles: ab ac bc ad bd cd abe ace bce abde acde bcde 
-max antichain: abacbcadbdcd
+max antichain: ab ac bc ad bd cd 
 dimension: 6
 
 19.
@@ -150,7 +150,7 @@ id: 4294924119
 ac \to e
 ab \to e
 meet-irreducibles: ad bcd abce abde acde bcde 
-max antichain: bcdabceabdeacde
+max antichain: bcd abce abde acde 
 dimension: 4
 
 20.
@@ -159,7 +159,7 @@ acd \to e
 abc \to de
 ab \to d
 meet-irreducibles: ac abd bcd ace bce abde acde bcde 
-max antichain: acabdbcdbce
+max antichain: ac abd bcd bce 
 dimension: 4
 
 21.
@@ -169,7 +169,7 @@ bcd \to e
 acd \to e
 abc \to de
 meet-irreducibles: ab ac bc abd cd ace bce abde acde bcde 
-max antichain: abacbccd
+max antichain: ab ac bc cd 
 dimension: 4
 
 22.
@@ -178,7 +178,7 @@ ad \to e
 abc \to de
 ab \to e
 meet-irreducibles: ac bcd abe ace bce abde acde bcde 
-max antichain: acbcdabebce
+max antichain: ac bcd abe bce 
 dimension: 4
 
 23.
@@ -188,7 +188,7 @@ acd \to e
 abc \to de
 ab \to e
 meet-irreducibles: ac bc ad bd cd abe ace bce abde acde bcde 
-max antichain: acbcadbdcdabe
+max antichain: ac bc ad bd cd abe 
 dimension: 6
 
 24.
@@ -197,7 +197,7 @@ abc \to de
 ac \to e
 ab \to d
 meet-irreducibles: abd bcd ace bce abde acde bcde 
-max antichain: abdbcdacebce
+max antichain: abd bcd ace bce 
 dimension: 4
 
 25.
@@ -205,7 +205,7 @@ id: 4286011255
 acd \to e
 ab \to de
 meet-irreducibles: ac ad bcd ace bce abde acde bcde 
-max antichain: acadbcdbce
+max antichain: ac ad bcd bce 
 dimension: 4
 
 26.
@@ -214,7 +214,7 @@ bcd \to e
 ad \to e
 abc \to de
 meet-irreducibles: ab ac bc bd cd abe ace bce abde acde bcde 
-max antichain: abacbcbdcd
+max antichain: ab ac bc bd cd 
 dimension: 5
 
 27.
@@ -224,14 +224,14 @@ bcd \to e
 abc \to de
 ac \to e
 meet-irreducibles: ab bc abd cd ace bce abde acde bcde 
-max antichain: abbccdace
+max antichain: ab bc cd ace 
 dimension: 4
 
 28.
 id: 4151801719
 ab \to cde
 meet-irreducibles: acd bcd ace bce ade bde acde bcde 
-max antichain: acdbcdacebceadebde
+max antichain: acd bcd ace bce ade bde 
 dimension: 6
 
 29.
@@ -239,7 +239,7 @@ id: 4294907199
 ad \to e
 bc \to e
 meet-irreducibles: ab ac bd cd abce abde acde bcde 
-max antichain: abacbdcd
+max antichain: ab ac bd cd 
 dimension: 4
 
 30.
@@ -248,7 +248,7 @@ ad \to e
 ac \to e
 ab \to e
 meet-irreducibles: a bcd abce abde acde bcde 
-max antichain: bcdabceabdeacde
+max antichain: bcd abce abde acde 
 dimension: 4
 
 31.
@@ -257,7 +257,7 @@ bcd \to e
 ac \to e
 ab \to e
 meet-irreducibles: bc ad bd cd abce abde acde bcde 
-max antichain: bcadbdcd
+max antichain: bc ad bd cd 
 dimension: 4
 
 32.
@@ -266,7 +266,7 @@ abe \to d
 cd \to e
 abc \to de
 meet-irreducibles: ab ac bc abd ace bce abde acde bcde 
-max antichain: abacbc
+max antichain: ab ac bc 
 dimension: 3
 
 33.
@@ -275,7 +275,7 @@ abc \to de
 ac \to e
 ab \to e
 meet-irreducibles: ad bcd abe ace bce abde acde bcde 
-max antichain: adbcdabeacebce
+max antichain: ad bcd abe ace bce 
 dimension: 5
 
 34.
@@ -285,7 +285,7 @@ acd \to e
 abc \to de
 ab \to d
 meet-irreducibles: ac bc abd cd ace bce abde acde bcde 
-max antichain: acbcabdcd
+max antichain: ac bc abd cd 
 dimension: 4
 
 35.
@@ -295,7 +295,7 @@ ad \to e
 abc \to de
 ab \to e
 meet-irreducibles: ac bc bd cd abe ace bce abde acde bcde 
-max antichain: acbcbdcdabe
+max antichain: ac bc bd cd abe 
 dimension: 5
 
 36.
@@ -305,7 +305,7 @@ cd \to e
 abc \to de
 ac \to e
 meet-irreducibles: ab bc abd ace bce abde acde bcde 
-max antichain: abbcace
+max antichain: ab bc ace 
 dimension: 3
 
 37.
@@ -313,7 +313,7 @@ id: 4286010743
 ad \to e
 ab \to de
 meet-irreducibles: ac bcd ace bce abde acde bcde 
-max antichain: acbcdbceabde
+max antichain: ac bcd bce abde 
 dimension: 4
 
 38.
@@ -323,7 +323,7 @@ abc \to de
 ac \to e
 ab \to d
 meet-irreducibles: bc abd cd ace bce abde acde bcde 
-max antichain: bcabdcdace
+max antichain: bc abd cd ace 
 dimension: 4
 
 39.
@@ -332,7 +332,7 @@ bcd \to e
 acd \to e
 ab \to de
 meet-irreducibles: ac bc ad bd cd ace bce abde acde bcde 
-max antichain: acbcadbdcd
+max antichain: ac bc ad bd cd 
 dimension: 5
 
 40.
@@ -340,7 +340,7 @@ id: 4151793527
 acd \to e
 ab \to cde
 meet-irreducibles: ac ad bcd ace bce ade bde acde bcde 
-max antichain: acadbcdbcebde
+max antichain: ac ad bcd bce bde 
 dimension: 5
 
 41.
@@ -349,7 +349,7 @@ bd \to e
 ad \to e
 abc \to de
 meet-irreducibles: ab ac bc cd abe ace bce abde acde bcde 
-max antichain: abacbccd
+max antichain: ab ac bc cd 
 dimension: 4
 
 42.
@@ -358,7 +358,7 @@ ad \to e
 bc \to e
 ab \to e
 meet-irreducibles: ac bd cd abce abde acde bcde 
-max antichain: abceabdeacdebcde
+max antichain: abce abde acde bcde 
 dimension: 4
 
 43.
@@ -367,7 +367,7 @@ ace \to d
 bcd \to e
 ab \to de
 meet-irreducibles: ac bc bd acd ae bce abde acde bcde 
-max antichain: acbcbdae
+max antichain: ac bc bd ae 
 dimension: 4
 
 44.
@@ -376,7 +376,7 @@ cd \to e
 abc \to de
 ab \to d
 meet-irreducibles: ac bc abd ace bce abde acde bcde 
-max antichain: acbcabd
+max antichain: ac bc abd 
 dimension: 3
 
 45.
@@ -385,7 +385,7 @@ ad \to e
 abc \to de
 bc \to e
 meet-irreducibles: ab ac bd cd abe ace bce abde acde bcde 
-max antichain: abacbdcdbce
+max antichain: ab ac bd cd bce 
 dimension: 5
 
 46.
@@ -395,7 +395,7 @@ ad \to e
 ac \to e
 ab \to e
 meet-irreducibles: a bc bd cd abce abde acde bcde 
-max antichain: abcbdcd
+max antichain: a bc bd cd 
 dimension: 4
 
 47.
@@ -405,7 +405,7 @@ abc \to de
 bc \to e
 ac \to e
 meet-irreducibles: ab abd cd ace bce abde acde bcde 
-max antichain: abcdacebce
+max antichain: ab cd ace bce 
 dimension: 4
 
 48.
@@ -415,7 +415,7 @@ abc \to de
 ac \to e
 ab \to e
 meet-irreducibles: a bcd abe ace bce abde acde bcde 
-max antichain: bcdabeacebce
+max antichain: bcd abe ace bce 
 dimension: 4
 
 49.
@@ -425,7 +425,7 @@ abc \to de
 ac \to e
 ab \to e
 meet-irreducibles: bc ad bd cd abe ace bce abde acde bcde 
-max antichain: bcadbdcdabeace
+max antichain: bc ad bd cd abe ace 
 dimension: 6
 
 50.
@@ -433,14 +433,14 @@ id: 4286011223
 ac \to e
 ab \to de
 meet-irreducibles: ad bcd ace bce abde acde bcde 
-max antichain: adbcdacebce
+max antichain: ad bcd ace bce 
 dimension: 4
 
 51.
 id: 4294923605
 a \to e
 meet-irreducibles: bcd abce abde acde bcde 
-max antichain: bcdabceabdeacde
+max antichain: bcd abce abde acde 
 dimension: 4
 
 52.
@@ -449,7 +449,7 @@ bc \to e
 ac \to e
 ab \to e
 meet-irreducibles: ad bd cd abce abde acde bcde 
-max antichain: adbdcdabce
+max antichain: ad bd cd abce 
 dimension: 4
 
 53.
@@ -458,7 +458,7 @@ bcd \to e
 ad \to e
 ab \to de
 meet-irreducibles: ac bc bd cd ace bce abde acde bcde 
-max antichain: acbcbdcd
+max antichain: ac bc bd cd 
 dimension: 4
 
 54.
@@ -467,7 +467,7 @@ bcd \to e
 acd \to e
 ab \to cde
 meet-irreducibles: ac bc ad bd cd ace bce ade bde acde bcde 
-max antichain: acbcadbdcd
+max antichain: ac bc ad bd cd 
 dimension: 5
 
 55.
@@ -476,7 +476,7 @@ ace \to d
 bd \to e
 ab \to de
 meet-irreducibles: ac bc acd ae bce abde acde bcde 
-max antichain: acbcae
+max antichain: ac bc ae 
 dimension: 3
 
 56.
@@ -486,7 +486,7 @@ abc \to de
 bc \to e
 ab \to e
 meet-irreducibles: ac bd cd abe ace bce abde acde bcde 
-max antichain: acbdcdabebce
+max antichain: ac bd cd abe bce 
 dimension: 5
 
 57.
@@ -495,7 +495,7 @@ ace \to d
 bcd \to e
 ab \to cde
 meet-irreducibles: ac bc bd acd ae bce ade bde acde bcde 
-max antichain: acbcbdae
+max antichain: ac bc bd ae 
 dimension: 4
 
 58.
@@ -506,7 +506,7 @@ abc \to de
 bc \to e
 ac \to e
 meet-irreducibles: ab c abd ace bce abde acde bcde 
-max antichain: abacebce
+max antichain: ab ace bce 
 dimension: 3
 
 59.
@@ -516,7 +516,7 @@ bc \to e
 ac \to e
 ab \to d
 meet-irreducibles: abd cd ace bce abde acde bcde 
-max antichain: abdcdacebce
+max antichain: abd cd ace bce 
 dimension: 4
 
 60.
@@ -527,7 +527,7 @@ abc \to de
 ac \to e
 ab \to e
 meet-irreducibles: a bc bd cd abe ace bce abde acde bcde 
-max antichain: bcbdcdabeace
+max antichain: bc bd cd abe ace 
 dimension: 5
 
 61.
@@ -536,7 +536,7 @@ ad \to e
 ac \to e
 ab \to de
 meet-irreducibles: a bcd ace bce abde acde bcde 
-max antichain: bcdacebceabde
+max antichain: bcd ace bce abde 
 dimension: 4
 
 62.
@@ -545,7 +545,7 @@ bcd \to e
 ac \to e
 ab \to de
 meet-irreducibles: bc ad bd cd ace bce abde acde bcde 
-max antichain: bcadbdcdace
+max antichain: bc ad bd cd ace 
 dimension: 5
 
 63.
@@ -553,7 +553,7 @@ id: 4294907221
 bcd \to e
 a \to e
 meet-irreducibles: bc bd cd abce abde acde bcde 
-max antichain: abceabdeacdebcde
+max antichain: abce abde acde bcde 
 dimension: 4
 
 64.
@@ -561,7 +561,7 @@ id: 4283914071
 ac \to de
 ab \to de
 meet-irreducibles: ad bcd ae bce abde acde bcde 
-max antichain: adbcdaebce
+max antichain: ad bcd ae bce 
 dimension: 4
 
 65.
@@ -569,7 +569,7 @@ id: 4151793495
 ac \to e
 ab \to cde
 meet-irreducibles: ad bcd ace bce ade bde acde bcde 
-max antichain: adbcdacebcebde
+max antichain: ad bcd ace bce bde 
 dimension: 5
 
 66.
@@ -579,7 +579,7 @@ ad \to e
 abc \to de
 ac \to e
 meet-irreducibles: ab bc cd abe ace bce abde acde bcde 
-max antichain: abbccdace
+max antichain: ab bc cd ace 
 dimension: 4
 
 67.
@@ -587,7 +587,7 @@ id: 4286534997
 abc \to de
 a \to e
 meet-irreducibles: bcd abe ace bce abde acde bcde 
-max antichain: bcdabeacebce
+max antichain: bcd abe ace bce 
 dimension: 4
 
 68.
@@ -597,7 +597,7 @@ bc \to e
 ac \to e
 ab \to e
 meet-irreducibles: a bd cd abce abde acde bcde 
-max antichain: abceabdeacdebcde
+max antichain: abce abde acde bcde 
 dimension: 4
 
 69.
@@ -606,7 +606,7 @@ bcd \to e
 ac \to d
 ab \to de
 meet-irreducibles: bc bd acd ae bce abde acde bcde 
-max antichain: bcbdacdae
+max antichain: bc bd acd ae 
 dimension: 4
 
 70.
@@ -616,7 +616,7 @@ bc \to e
 ac \to e
 ab \to e
 meet-irreducibles: ad bd cd abe ace bce abde acde bcde 
-max antichain: adbdcdabeacebce
+max antichain: ad bd cd abe ace bce 
 dimension: 6
 
 71.
@@ -626,7 +626,7 @@ abc \to de
 ac \to e
 ab \to d
 meet-irreducibles: bc abd ace bce abde acde bcde 
-max antichain: bcabdace
+max antichain: bc abd ace 
 dimension: 3
 
 72.
@@ -634,7 +634,7 @@ id: 4285990775
 cd \to e
 ab \to de
 meet-irreducibles: ac bc ad bd ace bce abde acde bcde 
-max antichain: acbcadbd
+max antichain: ac bc ad bd 
 dimension: 4
 
 73.
@@ -644,7 +644,7 @@ ad \to e
 bc \to e
 ac \to e
 meet-irreducibles: ab cd abce abde acde bcde 
-max antichain: abceabdeacdebcde
+max antichain: abce abde acde bcde 
 dimension: 4
 
 74.
@@ -654,7 +654,7 @@ bd \to e
 ad \to e
 abc \to de
 meet-irreducibles: ab ac bc d abe ace bce abde acde bcde 
-max antichain: abacbcd
+max antichain: ab ac bc d 
 dimension: 4
 
 75.
@@ -664,7 +664,7 @@ ad \to e
 abc \to de
 ab \to e
 meet-irreducibles: ac bc cd abe ace bce abde acde bcde 
-max antichain: acbccdabe
+max antichain: ac bc cd abe 
 dimension: 4
 
 76.
@@ -675,7 +675,7 @@ bc \to e
 ac \to e
 ab \to d
 meet-irreducibles: c abd ace bce abde acde bcde 
-max antichain: abdacebce
+max antichain: abd ace bce 
 dimension: 3
 
 77.
@@ -684,7 +684,7 @@ abe \to d
 abc \to de
 c \to e
 meet-irreducibles: ab abd ace bce abde acde bcde 
-max antichain: abacebce
+max antichain: ab ace bce 
 dimension: 3
 
 78.
@@ -693,7 +693,7 @@ ae \to d
 bd \to e
 ab \to de
 meet-irreducibles: ac bc acd bce abde acde bcde 
-max antichain: acbcabde
+max antichain: ac bc abde 
 dimension: 3
 
 79.
@@ -702,7 +702,7 @@ ace \to d
 bd \to e
 ab \to cde
 meet-irreducibles: ac bc acd ae bce ade bde acde bcde 
-max antichain: acbcaebde
+max antichain: ac bc ae bde 
 dimension: 4
 
 80.
@@ -711,7 +711,7 @@ ad \to e
 bc \to e
 ab \to de
 meet-irreducibles: ac bd cd ace bce abde acde bcde 
-max antichain: acbdcdbce
+max antichain: ac bd cd bce 
 dimension: 4
 
 81.
@@ -720,7 +720,7 @@ cd \to e
 ac \to e
 ab \to de
 meet-irreducibles: bc ad bd ace bce abde acde bcde 
-max antichain: bcadbdace
+max antichain: bc ad bd ace 
 dimension: 4
 
 82.
@@ -731,7 +731,7 @@ abc \to de
 ac \to e
 ab \to e
 meet-irreducibles: a bc cd abe ace bce abde acde bcde 
-max antichain: bccdabeace
+max antichain: bc cd abe ace 
 dimension: 4
 
 83.
@@ -741,7 +741,7 @@ bd \to e
 bc \to e
 ab \to de
 meet-irreducibles: b ac acd ae bce abde acde bcde 
-max antichain: bacae
+max antichain: b ac ae 
 dimension: 3
 
 84.
@@ -751,7 +751,7 @@ ad \to e
 ac \to e
 ab \to de
 meet-irreducibles: a bc bd cd ace bce abde acde bcde 
-max antichain: abcbdcd
+max antichain: a bc bd cd 
 dimension: 4
 
 85.
@@ -760,7 +760,7 @@ ad \to e
 ac \to de
 ab \to de
 meet-irreducibles: a bcd ae bce abde acde bcde 
-max antichain: bcdbceabdeacde
+max antichain: bcd bce abde acde 
 dimension: 4
 
 86.
@@ -769,7 +769,7 @@ ad \to e
 ac \to e
 ab \to cde
 meet-irreducibles: a bcd ace bce ade bde acde bcde 
-max antichain: bcdacebceadebde
+max antichain: bcd ace bce ade bde 
 dimension: 5
 
 87.
@@ -778,7 +778,7 @@ bcd \to e
 ac \to de
 ab \to de
 meet-irreducibles: bc ad bd cd ae bce abde acde bcde 
-max antichain: bcadbdcdae
+max antichain: bc ad bd cd ae 
 dimension: 5
 
 88.
@@ -787,7 +787,7 @@ bcd \to e
 ac \to e
 ab \to cde
 meet-irreducibles: bc ad bd cd ace bce ade bde acde bcde 
-max antichain: bcadbdcdace
+max antichain: bc ad bd cd ace 
 dimension: 5
 
 89.
@@ -796,7 +796,7 @@ bcd \to e
 abc \to de
 a \to e
 meet-irreducibles: bc bd cd abe ace bce abde acde bcde 
-max antichain: bcbdcdabeace
+max antichain: bc bd cd abe ace 
 dimension: 5
 
 90.
@@ -804,7 +804,7 @@ id: 4149696343
 ac \to de
 ab \to cde
 meet-irreducibles: ad bcd ae bce ade bde acde bcde 
-max antichain: adbcdaebcebde
+max antichain: ad bcd ae bce bde 
 dimension: 5
 
 91.
@@ -815,7 +815,7 @@ bc \to e
 ac \to e
 ab \to e
 meet-irreducibles: a b cd abce abde acde bcde 
-max antichain: abceabdeacdebcde
+max antichain: abce abde acde bcde 
 dimension: 4
 
 92.
@@ -824,7 +824,7 @@ bd \to e
 ac \to d
 ab \to de
 meet-irreducibles: bc acd ae bce abde acde bcde 
-max antichain: bcacdae
+max antichain: bc acd ae 
 dimension: 3
 
 93.
@@ -832,7 +832,7 @@ id: 4286010709
 ab \to de
 a \to e
 meet-irreducibles: bcd ace bce abde acde bcde 
-max antichain: bcdacebceabde
+max antichain: bcd ace bce abde 
 dimension: 4
 
 94.
@@ -843,7 +843,7 @@ bc \to e
 ac \to e
 ab \to e
 meet-irreducibles: a bd cd abe ace bce abde acde bcde 
-max antichain: bdcdabeacebce
+max antichain: bd cd abe ace bce 
 dimension: 5
 
 95.
@@ -852,7 +852,7 @@ bcd \to e
 ac \to d
 ab \to cde
 meet-irreducibles: bc bd acd ae bce ade bde acde bcde 
-max antichain: bcbdacdae
+max antichain: bc bd acd ae 
 dimension: 4
 
 96.
@@ -863,7 +863,7 @@ ad \to e
 abc \to de
 ab \to e
 meet-irreducibles: ac bc d abe ace bce abde acde bcde 
-max antichain: acbcdabe
+max antichain: ac bc d abe 
 dimension: 4
 
 97.
@@ -871,7 +871,7 @@ id: 4286513279
 d \to e
 abc \to de
 meet-irreducibles: ab ac bc abe ace bce abde acde bcde 
-max antichain: abacbc
+max antichain: ab ac bc 
 dimension: 3
 
 98.
@@ -880,7 +880,7 @@ cd \to e
 ad \to e
 ab \to de
 meet-irreducibles: ac bc bd ace bce abde acde bcde 
-max antichain: acbcbd
+max antichain: ac bc bd 
 dimension: 3
 
 99.
@@ -889,7 +889,7 @@ bc \to e
 ac \to e
 ab \to de
 meet-irreducibles: ad bd cd ace bce abde acde bcde 
-max antichain: adbdcdacebce
+max antichain: ad bd cd ace bce 
 dimension: 5
 
 100.
@@ -897,7 +897,7 @@ id: 4294907157
 bc \to e
 a \to e
 meet-irreducibles: bd cd abce abde acde bcde 
-max antichain: abceabdeacdebcde
+max antichain: abce abde acde bcde 
 dimension: 4
 
 101.
@@ -905,7 +905,7 @@ id: 4151773047
 cd \to e
 ab \to cde
 meet-irreducibles: ac bc ad bd ace bce ade bde acde bcde 
-max antichain: acbcadbd
+max antichain: ac bc ad bd 
 dimension: 4
 
 102.
@@ -916,7 +916,7 @@ abc \to de
 bc \to e
 ac \to e
 meet-irreducibles: ab cd abe ace bce abde acde bcde 
-max antichain: abcdacebce
+max antichain: ab cd ace bce 
 dimension: 4
 
 103.
@@ -925,7 +925,7 @@ bc \to e
 ac \to d
 ab \to de
 meet-irreducibles: bd acd ae bce abde acde bcde 
-max antichain: bdacdaebce
+max antichain: bd acd ae bce 
 dimension: 4
 
 104.
@@ -934,7 +934,7 @@ bd \to e
 ad \to e
 ab \to de
 meet-irreducibles: ac bc cd ace bce abde acde bcde 
-max antichain: acbccdabde
+max antichain: ac bc cd abde 
 dimension: 4
 
 105.
@@ -946,7 +946,7 @@ abc \to de
 ac \to e
 ab \to e
 meet-irreducibles: a bc d abe ace bce abde acde bcde 
-max antichain: bcdabeace
+max antichain: bc d abe ace 
 dimension: 4
 
 106.
@@ -955,7 +955,7 @@ ae \to d
 bd \to e
 ab \to cde
 meet-irreducibles: ac bc acd bce ade bde acde bcde 
-max antichain: acbcadebde
+max antichain: ac bc ade bde 
 dimension: 4
 
 107.
@@ -965,7 +965,7 @@ ad \to e
 ac \to e
 ab \to de
 meet-irreducibles: a bc bd ace bce abde acde bcde 
-max antichain: abcbd
+max antichain: a bc bd 
 dimension: 3
 
 108.
@@ -974,7 +974,7 @@ ae \to cd
 bcd \to e
 ab \to cde
 meet-irreducibles: ac bc ad bd acd bce bde acde bcde 
-max antichain: acbcadbd
+max antichain: ac bc ad bd 
 dimension: 4
 
 109.
@@ -983,7 +983,7 @@ ad \to e
 bc \to e
 ab \to cde
 meet-irreducibles: ac bd cd ace bce ade bde acde bcde 
-max antichain: acbdcdbceade
+max antichain: ac bd cd bce ade 
 dimension: 5
 
 110.
@@ -992,7 +992,7 @@ cd \to e
 ac \to e
 ab \to cde
 meet-irreducibles: bc ad bd ace bce ade bde acde bcde 
-max antichain: bcadbdace
+max antichain: bc ad bd ace 
 dimension: 4
 
 111.
@@ -1004,7 +1004,7 @@ bc \to e
 ac \to e
 ab \to e
 meet-irreducibles: a b c d abce abde acde bcde 
-max antichain: abcd
+max antichain: a b c d 
 dimension: 4
 
 112.
@@ -1014,7 +1014,7 @@ ad \to e
 ac \to e
 ab \to de
 meet-irreducibles: a bc cd ace bce abde acde bcde 
-max antichain: bccdaceabde
+max antichain: bc cd ace abde 
 dimension: 4
 
 113.
@@ -1024,7 +1024,7 @@ bd \to e
 bc \to e
 ab \to cde
 meet-irreducibles: b ac acd ae bce ade bde acde bcde 
-max antichain: acaebcebde
+max antichain: ac ae bce bde 
 dimension: 4
 
 114.
@@ -1034,7 +1034,7 @@ ad \to e
 ac \to de
 ab \to de
 meet-irreducibles: a bc bd cd ae bce abde acde bcde 
-max antichain: abcbdcd
+max antichain: a bc bd cd 
 dimension: 4
 
 115.
@@ -1044,7 +1044,7 @@ ad \to e
 ac \to e
 ab \to cde
 meet-irreducibles: a bc bd cd ace bce ade bde acde bcde 
-max antichain: bcbdcdaceade
+max antichain: bc bd cd ace ade 
 dimension: 5
 
 116.
@@ -1053,7 +1053,7 @@ bd \to e
 ac \to de
 ab \to de
 meet-irreducibles: bc ad cd ae bce abde acde bcde 
-max antichain: bcadcdae
+max antichain: bc ad cd ae 
 dimension: 4
 
 117.
@@ -1062,7 +1062,7 @@ d \to e
 abc \to de
 ab \to e
 meet-irreducibles: ac bc abe ace bce abde acde bcde 
-max antichain: acbcabe
+max antichain: ac bc abe 
 dimension: 3
 
 118.
@@ -1072,7 +1072,7 @@ bc \to e
 ac \to e
 ab \to de
 meet-irreducibles: c ad bd ace bce abde acde bcde 
-max antichain: adbdacebce
+max antichain: ad bd ace bce 
 dimension: 4
 
 119.
@@ -1081,7 +1081,7 @@ ad \to e
 ac \to de
 ab \to cde
 meet-irreducibles: a bcd ae bce ade bde acde bcde 
-max antichain: abcdbcebde
+max antichain: a bcd bce bde 
 dimension: 4
 
 120.
@@ -1090,7 +1090,7 @@ bd \to e
 abc \to de
 a \to e
 meet-irreducibles: bc cd abe ace bce abde acde bcde 
-max antichain: bccdabeace
+max antichain: bc cd abe ace 
 dimension: 4
 
 121.
@@ -1100,7 +1100,7 @@ bcd \to e
 ac \to de
 ab \to de
 meet-irreducibles: a bc ad bd cd bce abde acde bcde 
-max antichain: abcbdcd
+max antichain: a bc bd cd 
 dimension: 4
 
 122.
@@ -1109,7 +1109,7 @@ bcd \to e
 ac \to de
 ab \to cde
 meet-irreducibles: bc ad bd cd ae bce ade bde acde bcde 
-max antichain: bcadbdcdae
+max antichain: bc ad bd cd ae 
 dimension: 5
 
 123.
@@ -1118,7 +1118,7 @@ bcd \to e
 ab \to de
 a \to e
 meet-irreducibles: bc bd cd ace bce abde acde bcde 
-max antichain: bcbdcdace
+max antichain: bc bd cd ace 
 dimension: 4
 
 124.
@@ -1128,7 +1128,7 @@ bd \to e
 ac \to d
 ab \to de
 meet-irreducibles: a bc acd bce abde acde bcde 
-max antichain: bcacdabde
+max antichain: bc acd abde 
 dimension: 3
 
 125.
@@ -1140,7 +1140,7 @@ bc \to e
 ac \to e
 ab \to e
 meet-irreducibles: a b cd abe ace bce abde acde bcde 
-max antichain: cdabeacebce
+max antichain: cd abe ace bce 
 dimension: 4
 
 126.
@@ -1149,7 +1149,7 @@ bd \to e
 ac \to d
 ab \to cde
 meet-irreducibles: bc acd ae bce ade bde acde bcde 
-max antichain: bcacdaebde
+max antichain: bc acd ae bde 
 dimension: 4
 
 127.
@@ -1158,7 +1158,7 @@ ac \to de
 ab \to de
 a \to e
 meet-irreducibles: bcd ae bce abde acde bcde 
-max antichain: bcdbceabdeacde
+max antichain: bcd bce abde acde 
 dimension: 4
 
 128.
@@ -1166,7 +1166,7 @@ id: 4151792981
 ab \to cde
 a \to e
 meet-irreducibles: bcd ace bce ade bde acde bcde 
-max antichain: bcdacebceadebde
+max antichain: bcd ace bce ade bde 
 dimension: 5
 
 129.
@@ -1176,7 +1176,7 @@ bc \to e
 ac \to e
 ab \to de
 meet-irreducibles: a bd cd ace bce abde acde bcde 
-max antichain: abdcdbce
+max antichain: a bd cd bce 
 dimension: 4
 
 130.
@@ -1186,7 +1186,7 @@ bd \to e
 ad \to e
 ab \to de
 meet-irreducibles: ac bc d ace bce abde acde bcde 
-max antichain: acbcd
+max antichain: ac bc d 
 dimension: 3
 
 131.
@@ -1195,7 +1195,7 @@ bd \to e
 bc \to e
 a \to e
 meet-irreducibles: b cd abce abde acde bcde 
-max antichain: abceabdeacdebcde
+max antichain: abce abde acde bcde 
 dimension: 4
 
 132.
@@ -1204,7 +1204,7 @@ bc \to e
 ac \to de
 ab \to de
 meet-irreducibles: ad bd cd ae bce abde acde bcde 
-max antichain: adbdcdaebce
+max antichain: ad bd cd ae bce 
 dimension: 5
 
 133.
@@ -1213,7 +1213,7 @@ bc \to e
 ac \to e
 ab \to cde
 meet-irreducibles: ad bd cd ace bce ade bde acde bcde 
-max antichain: adbdcdacebce
+max antichain: ad bd cd ace bce 
 dimension: 5
 
 134.
@@ -1222,7 +1222,7 @@ abc \to de
 bc \to e
 a \to e
 meet-irreducibles: bd cd abe ace bce abde acde bcde 
-max antichain: bdcdabeacebce
+max antichain: bd cd abe ace bce 
 dimension: 5
 
 135.
@@ -1232,7 +1232,7 @@ bc \to e
 ac \to d
 ab \to de
 meet-irreducibles: b acd ae bce abde acde bcde 
-max antichain: bacdae
+max antichain: b acd ae 
 dimension: 3
 
 136.
@@ -1241,7 +1241,7 @@ bc \to e
 ac \to d
 ab \to cde
 meet-irreducibles: bd acd ae bce ade bde acde bcde 
-max antichain: bdacdaebce
+max antichain: bd acd ae bce 
 dimension: 4
 
 137.
@@ -1250,7 +1250,7 @@ abc \to de
 c \to e
 ab \to d
 meet-irreducibles: abd ace bce abde acde bcde 
-max antichain: abdacebce
+max antichain: abd ace bce 
 dimension: 3
 
 138.
@@ -1260,7 +1260,7 @@ ad \to e
 bc \to e
 ab \to de
 meet-irreducibles: ac bd ace bce abde acde bcde 
-max antichain: acbdbce
+max antichain: ac bd bce 
 dimension: 3
 
 139.
@@ -1269,7 +1269,7 @@ ace \to d
 ab \to de
 b \to e
 meet-irreducibles: ac acd ae bce abde acde bcde 
-max antichain: acaebce
+max antichain: ac ae bce 
 dimension: 3
 
 140.
@@ -1280,7 +1280,7 @@ ad \to e
 ac \to e
 ab \to de
 meet-irreducibles: a bc d ace bce abde acde bcde 
-max antichain: abcd
+max antichain: a bc d 
 dimension: 3
 
 141.
@@ -1290,7 +1290,7 @@ ad \to e
 ac \to e
 ab \to cde
 meet-irreducibles: a bc bd ace bce ade bde acde bcde 
-max antichain: bcbdaceade
+max antichain: bc bd ace ade 
 dimension: 4
 
 142.
@@ -1300,7 +1300,7 @@ bd \to e
 ac \to de
 ab \to de
 meet-irreducibles: bc ad ae bce abde acde bcde 
-max antichain: bcadae
+max antichain: bc ad ae 
 dimension: 3
 
 143.
@@ -1310,7 +1310,7 @@ bd \to e
 abc \to de
 a \to e
 meet-irreducibles: bc d abe ace bce abde acde bcde 
-max antichain: bcdabeace
+max antichain: bc d abe ace 
 dimension: 4
 
 144.
@@ -1319,7 +1319,7 @@ cd \to e
 ac \to de
 ab \to cde
 meet-irreducibles: bc ad bd ae bce ade bde acde bcde 
-max antichain: bcadbdae
+max antichain: bc ad bd ae 
 dimension: 4
 
 145.
@@ -1328,7 +1328,7 @@ cd \to e
 ab \to de
 a \to e
 meet-irreducibles: bc bd ace bce abde acde bcde 
-max antichain: bcbdace
+max antichain: bc bd ace 
 dimension: 3
 
 146.
@@ -1336,7 +1336,7 @@ id: 4294906129
 b \to e
 a \to e
 meet-irreducibles: cd abce abde acde bcde 
-max antichain: abceabdeacdebcde
+max antichain: abce abde acde bcde 
 dimension: 4
 
 147.
@@ -1349,7 +1349,7 @@ bc \to e
 ac \to e
 ab \to e
 meet-irreducibles: a b c d abe ace bce abde acde bcde 
-max antichain: abcd
+max antichain: a b c d 
 dimension: 4
 
 148.
@@ -1357,7 +1357,7 @@ id: 4285990663
 c \to e
 ab \to de
 meet-irreducibles: ad bd ace bce abde acde bcde 
-max antichain: adbdacebce
+max antichain: ad bd ace bce 
 dimension: 4
 
 149.
@@ -1367,7 +1367,7 @@ ad \to e
 ac \to de
 ab \to de
 meet-irreducibles: a bc cd ae bce abde acde bcde 
-max antichain: abccd
+max antichain: a bc cd 
 dimension: 3
 
 150.
@@ -1378,7 +1378,7 @@ bc \to e
 ac \to e
 ab \to de
 meet-irreducibles: a c bd ace bce abde acde bcde 
-max antichain: acbd
+max antichain: a c bd 
 dimension: 3
 
 151.
@@ -1387,7 +1387,7 @@ ac \to d
 ab \to de
 b \to e
 meet-irreducibles: acd ae bce abde acde bcde 
-max antichain: acdaebce
+max antichain: acd ae bce 
 dimension: 3
 
 152.
@@ -1396,7 +1396,7 @@ ae \to cd
 bc \to e
 ab \to cde
 meet-irreducibles: ac ad bd acd bce bde acde bcde 
-max antichain: acadbdbce
+max antichain: ac ad bd bce 
 dimension: 4
 
 153.
@@ -1406,7 +1406,7 @@ ad \to e
 ac \to de
 ab \to cde
 meet-irreducibles: a bc bd cd ae bce ade bde acde bcde 
-max antichain: abcbdcd
+max antichain: a bc bd cd 
 dimension: 4
 
 154.
@@ -1416,7 +1416,7 @@ bd \to e
 ac \to de
 ab \to de
 meet-irreducibles: a bc ad cd bce abde acde bcde 
-max antichain: abccd
+max antichain: a bc cd 
 dimension: 3
 
 155.
@@ -1426,7 +1426,7 @@ bd \to e
 bc \to e
 a \to e
 meet-irreducibles: b c d abce abde acde bcde 
-max antichain: abceabdeacdebcde
+max antichain: abce abde acde bcde 
 dimension: 4
 
 156.
@@ -1435,7 +1435,7 @@ bd \to e
 ac \to de
 ab \to cde
 meet-irreducibles: bc ad cd ae bce ade bde acde bcde 
-max antichain: bcadcdaebde
+max antichain: bc ad cd ae bde 
 dimension: 5
 
 157.
@@ -1443,7 +1443,7 @@ id: 4285988983
 d \to e
 ab \to de
 meet-irreducibles: ac bc ace bce abde acde bcde 
-max antichain: acbcabde
+max antichain: ac bc abde 
 dimension: 3
 
 158.
@@ -1453,7 +1453,7 @@ bc \to e
 ac \to e
 ab \to cde
 meet-irreducibles: c ad bd ace bce ade bde acde bcde 
-max antichain: adbdacebce
+max antichain: ad bd ace bce 
 dimension: 4
 
 159.
@@ -1462,7 +1462,7 @@ bd \to e
 ab \to de
 a \to e
 meet-irreducibles: bc cd ace bce abde acde bcde 
-max antichain: bccdaceabde
+max antichain: bc cd ace abde 
 dimension: 4
 
 160.
@@ -1472,7 +1472,7 @@ bcd \to e
 ac \to de
 ab \to cde
 meet-irreducibles: a bc ad bd cd bce ade bde acde bcde 
-max antichain: abcbdcd
+max antichain: a bc bd cd 
 dimension: 4
 
 161.
@@ -1482,7 +1482,7 @@ ac \to de
 ab \to de
 a \to e
 meet-irreducibles: bc bd cd ae bce abde acde bcde 
-max antichain: bcbdcdae
+max antichain: bc bd cd ae 
 dimension: 4
 
 162.
@@ -1491,7 +1491,7 @@ bcd \to e
 ab \to cde
 a \to e
 meet-irreducibles: bc bd cd ace bce ade bde acde bcde 
-max antichain: bcbdcdaceade
+max antichain: bc bd cd ace ade 
 dimension: 5
 
 163.
@@ -1501,7 +1501,7 @@ bd \to e
 ac \to d
 ab \to cde
 meet-irreducibles: a bc acd bce ade bde acde bcde 
-max antichain: bcacdadebde
+max antichain: bc acd ade bde 
 dimension: 4
 
 164.
@@ -1512,14 +1512,14 @@ bc \to e
 ac \to e
 ab \to de
 meet-irreducibles: a b cd ace bce abde acde bcde 
-max antichain: cdacebceabde
+max antichain: cd ace bce abde 
 dimension: 4
 
 165.
 id: 4283782485
 a \to de
 meet-irreducibles: bcd bce abde acde bcde 
-max antichain: bcdbceabdeacde
+max antichain: bcd bce abde acde 
 dimension: 4
 
 166.
@@ -1528,7 +1528,7 @@ ac \to de
 ab \to cde
 a \to e
 meet-irreducibles: bcd ae bce ade bde acde bcde 
-max antichain: bcdaebcebde
+max antichain: bcd ae bce bde 
 dimension: 4
 
 167.
@@ -1538,7 +1538,7 @@ ac \to de
 ab \to de
 a \to d
 meet-irreducibles: bc ad bd cd bce abde acde bcde 
-max antichain: bcadbdcd
+max antichain: bc ad bd cd 
 dimension: 4
 
 168.
@@ -1548,7 +1548,7 @@ bcd \to e
 ac \to d
 ab \to cde
 meet-irreducibles: a bc ad bd acd bce bde acde bcde 
-max antichain: abcbd
+max antichain: a bc bd 
 dimension: 3
 
 169.
@@ -1558,7 +1558,7 @@ bc \to e
 ac \to de
 ab \to de
 meet-irreducibles: a bd cd ae bce abde acde bcde 
-max antichain: abdcdbce
+max antichain: a bd cd bce 
 dimension: 4
 
 170.
@@ -1568,7 +1568,7 @@ bc \to e
 ac \to e
 ab \to cde
 meet-irreducibles: a bd cd ace bce ade bde acde bcde 
-max antichain: bdcdacebceade
+max antichain: bd cd ace bce ade 
 dimension: 5
 
 171.
@@ -1578,7 +1578,7 @@ bc \to e
 ac \to de
 ab \to de
 meet-irreducibles: b ad cd ae bce abde acde bcde 
-max antichain: badcdae
+max antichain: b ad cd ae 
 dimension: 4
 
 172.
@@ -1587,7 +1587,7 @@ bd \to e
 ab \to de
 a \to d
 meet-irreducibles: bc acd bce abde acde bcde 
-max antichain: bcacdabde
+max antichain: bc acd abde 
 dimension: 3
 
 173.
@@ -1597,7 +1597,7 @@ abc \to de
 bc \to e
 a \to e
 meet-irreducibles: b cd abe ace bce abde acde bcde 
-max antichain: cdabeacebce
+max antichain: cd abe ace bce 
 dimension: 4
 
 174.
@@ -1607,7 +1607,7 @@ bc \to e
 ac \to de
 ab \to de
 meet-irreducibles: a ad bd cd bce abde acde bcde 
-max antichain: abdcdbce
+max antichain: a bd cd bce 
 dimension: 4
 
 175.
@@ -1616,7 +1616,7 @@ bc \to de
 ac \to de
 ab \to de
 meet-irreducibles: ad bd cd ae be ce abde acde bcde 
-max antichain: adbdcdaebece
+max antichain: ad bd cd ae be ce 
 dimension: 6
 
 176.
@@ -1625,7 +1625,7 @@ bc \to e
 ac \to de
 ab \to cde
 meet-irreducibles: ad bd cd ae bce ade bde acde bcde 
-max antichain: adbdcdaebce
+max antichain: ad bd cd ae bce 
 dimension: 5
 
 177.
@@ -1634,7 +1634,7 @@ bc \to e
 ab \to de
 a \to e
 meet-irreducibles: bd cd ace bce abde acde bcde 
-max antichain: bdcdacebce
+max antichain: bd cd ace bce 
 dimension: 4
 
 178.
@@ -1645,7 +1645,7 @@ bc \to e
 ac \to d
 ab \to de
 meet-irreducibles: a b acd bce abde acde bcde 
-max antichain: acdbceabde
+max antichain: acd bce abde 
 dimension: 3
 
 179.
@@ -1655,7 +1655,7 @@ bc \to e
 ac \to d
 ab \to cde
 meet-irreducibles: b acd ae bce ade bde acde bcde 
-max antichain: acdaebcebde
+max antichain: acd ae bce bde 
 dimension: 4
 
 180.
@@ -1665,7 +1665,7 @@ abc \to de
 ac \to e
 ab \to e
 meet-irreducibles: a bc abe ace bce abde acde bcde 
-max antichain: bcabeace
+max antichain: bc abe ace 
 dimension: 3
 
 181.
@@ -1675,7 +1675,7 @@ ad \to e
 bc \to e
 ab \to cde
 meet-irreducibles: ac bd ace bce ade bde acde bcde 
-max antichain: acbdbceade
+max antichain: ac bd bce ade 
 dimension: 4
 
 182.
@@ -1684,7 +1684,7 @@ ace \to d
 ab \to cde
 b \to e
 meet-irreducibles: ac acd ae bce ade bde acde bcde 
-max antichain: acaebcebde
+max antichain: ac ae bce bde 
 dimension: 4
 
 183.
@@ -1693,7 +1693,7 @@ cd \to e
 b \to e
 a \to e
 meet-irreducibles: c d abce abde acde bcde 
-max antichain: abceabdeacdebcde
+max antichain: abce abde acde bcde 
 dimension: 4
 
 184.
@@ -1702,7 +1702,7 @@ d \to e
 abc \to de
 a \to e
 meet-irreducibles: bc abe ace bce abde acde bcde 
-max antichain: bcabeace
+max antichain: bc abe ace 
 dimension: 3
 
 185.
@@ -1713,7 +1713,7 @@ ad \to e
 ac \to de
 ab \to de
 meet-irreducibles: a bc d ae bce abde acde bcde 
-max antichain: abcd
+max antichain: a bc d 
 dimension: 3
 
 186.
@@ -1724,7 +1724,7 @@ bc \to e
 ac \to e
 ab \to e
 meet-irreducibles: a b c abe ace bce abde acde bcde 
-max antichain: abc
+max antichain: a b c 
 dimension: 3
 
 187.
@@ -1734,7 +1734,7 @@ ad \to e
 ac \to de
 ab \to cde
 meet-irreducibles: a bc bd ae bce ade bde acde bcde 
-max antichain: abcbd
+max antichain: a bc bd 
 dimension: 3
 
 188.
@@ -1743,7 +1743,7 @@ ad \to ce
 bc \to de
 ab \to cde
 meet-irreducibles: ac bd cd ae be ace bde acde bcde 
-max antichain: acbdcdaebe
+max antichain: ac bd cd ae be 
 dimension: 5
 
 189.
@@ -1754,7 +1754,7 @@ bd \to e
 ac \to de
 ab \to de
 meet-irreducibles: a bc ad bce abde acde bcde 
-max antichain: bcabdeacde
+max antichain: bc abde acde 
 dimension: 3
 
 190.
@@ -1764,7 +1764,7 @@ bd \to e
 ac \to de
 ab \to cde
 meet-irreducibles: bc ad ae bce ade bde acde bcde 
-max antichain: bcadaebde
+max antichain: bc ad ae bde 
 dimension: 4
 
 191.
@@ -1774,7 +1774,7 @@ bd \to e
 ab \to de
 a \to e
 meet-irreducibles: bc d ace bce abde acde bcde 
-max antichain: bcdace
+max antichain: bc d ace 
 dimension: 3
 
 192.
@@ -1784,7 +1784,7 @@ cd \to e
 ac \to de
 ab \to cde
 meet-irreducibles: a bc ad bd bce ade bde acde bcde 
-max antichain: abcbd
+max antichain: a bc bd 
 dimension: 3
 
 193.
@@ -1793,7 +1793,7 @@ ac \to de
 ab \to de
 b \to e
 meet-irreducibles: ad cd ae bce abde acde bcde 
-max antichain: adcdaebce
+max antichain: ad cd ae bce 
 dimension: 4
 
 194.
@@ -1802,7 +1802,7 @@ ad \to e
 c \to e
 ab \to de
 meet-irreducibles: a bd ace bce abde acde bcde 
-max antichain: abdbce
+max antichain: a bd bce 
 dimension: 3
 
 195.
@@ -1811,7 +1811,7 @@ cd \to e
 ab \to cde
 a \to e
 meet-irreducibles: bc bd ace bce ade bde acde bcde 
-max antichain: bcbdaceade
+max antichain: bc bd ace ade 
 dimension: 4
 
 196.
@@ -1820,7 +1820,7 @@ abc \to de
 b \to e
 a \to e
 meet-irreducibles: cd abe ace bce abde acde bcde 
-max antichain: cdabeacebce
+max antichain: cd abe ace bce 
 dimension: 4
 
 197.
@@ -1830,7 +1830,7 @@ ad \to c
 bc \to e
 ab \to cde
 meet-irreducibles: a ac bd acd bce bde acde bcde 
-max antichain: abdbce
+max antichain: a bd bce 
 dimension: 3
 
 198.
@@ -1842,7 +1842,7 @@ bc \to e
 ac \to e
 ab \to de
 meet-irreducibles: a b c d ace bce abde acde bcde 
-max antichain: abcd
+max antichain: a b c d 
 dimension: 4
 
 199.
@@ -1852,7 +1852,7 @@ bd \to e
 bc \to e
 ab \to cde
 meet-irreducibles: b ac ad acd bce bde acde bcde 
-max antichain: acadbcebde
+max antichain: ac ad bce bde 
 dimension: 4
 
 200.
@@ -1860,7 +1860,7 @@ id: 4151772935
 c \to e
 ab \to cde
 meet-irreducibles: ad bd ace bce ade bde acde bcde 
-max antichain: adbdacebce
+max antichain: ad bd ace bce 
 dimension: 4
 
 201.
@@ -1870,7 +1870,7 @@ ad \to e
 ac \to de
 ab \to cde
 meet-irreducibles: a bc cd ae bce ade bde acde bcde 
-max antichain: abccdbde
+max antichain: a bc cd bde 
 dimension: 4
 
 202.
@@ -1881,7 +1881,7 @@ bc \to e
 ac \to e
 ab \to cde
 meet-irreducibles: a c bd ace bce ade bde acde bcde 
-max antichain: bdacebceade
+max antichain: bd ace bce ade 
 dimension: 4
 
 203.
@@ -1890,7 +1890,7 @@ ac \to d
 ab \to cde
 b \to e
 meet-irreducibles: acd ae bce ade bde acde bcde 
-max antichain: acdaebcebde
+max antichain: acd ae bce bde 
 dimension: 4
 
 204.
@@ -1901,7 +1901,7 @@ bc \to e
 ac \to de
 ab \to de
 meet-irreducibles: b c ad ae bce abde acde bcde 
-max antichain: bcadae
+max antichain: b c ad ae 
 dimension: 4
 
 205.
@@ -1911,7 +1911,7 @@ bd \to e
 ac \to de
 ab \to cde
 meet-irreducibles: a bc ad cd bce ade bde acde bcde 
-max antichain: abccdbde
+max antichain: a bc cd bde 
 dimension: 4
 
 206.
@@ -1922,7 +1922,7 @@ abc \to de
 bc \to e
 a \to e
 meet-irreducibles: b c d abe ace bce abde acde bcde 
-max antichain: dabeacebce
+max antichain: d abe ace bce 
 dimension: 4
 
 207.
@@ -1932,7 +1932,7 @@ bc \to e
 ac \to de
 ab \to cde
 meet-irreducibles: c ad bd ae bce ade bde acde bcde 
-max antichain: cadbdae
+max antichain: c ad bd ae 
 dimension: 4
 
 208.
@@ -1942,7 +1942,7 @@ ac \to de
 ab \to de
 a \to e
 meet-irreducibles: bc cd ae bce abde acde bcde 
-max antichain: bccdae
+max antichain: bc cd ae 
 dimension: 3
 
 209.
@@ -1952,7 +1952,7 @@ bc \to e
 ab \to de
 a \to e
 meet-irreducibles: c bd ace bce abde acde bcde 
-max antichain: bdacebce
+max antichain: bd ace bce 
 dimension: 3
 
 210.
@@ -1960,7 +1960,7 @@ id: 4283766101
 bcd \to e
 a \to de
 meet-irreducibles: bc bd cd bce abde acde bcde 
-max antichain: bcbdcd
+max antichain: bc bd cd 
 dimension: 3
 
 211.
@@ -1970,7 +1970,7 @@ ac \to de
 ab \to cde
 a \to e
 meet-irreducibles: bc bd cd ae bce ade bde acde bcde 
-max antichain: bcbdcdae
+max antichain: bc bd cd ae 
 dimension: 4
 
 212.
@@ -1980,7 +1980,7 @@ ac \to de
 ab \to de
 a \to d
 meet-irreducibles: bc ad cd bce abde acde bcde 
-max antichain: bcadcd
+max antichain: bc ad cd 
 dimension: 3
 
 213.
@@ -1991,7 +1991,7 @@ bc \to e
 ac \to de
 ab \to de
 meet-irreducibles: a b cd ae bce abde acde bcde 
-max antichain: abcd
+max antichain: a b cd 
 dimension: 3
 
 214.
@@ -2002,7 +2002,7 @@ bc \to e
 ac \to e
 ab \to cde
 meet-irreducibles: a b cd ace bce ade bde acde bcde 
-max antichain: cdacebceadebde
+max antichain: cd ace bce ade bde 
 dimension: 5
 
 215.
@@ -2010,7 +2010,7 @@ id: 4149564757
 ab \to cde
 a \to de
 meet-irreducibles: bcd bce ade bde acde bcde 
-max antichain: bcdbceadebde
+max antichain: bcd bce ade bde 
 dimension: 4
 
 216.
@@ -2020,7 +2020,7 @@ ac \to de
 ab \to cde
 a \to d
 meet-irreducibles: bc ad bd cd bce ade bde acde bcde 
-max antichain: bcadbdcd
+max antichain: bc ad bd cd 
 dimension: 4
 
 217.
@@ -2030,7 +2030,7 @@ bc \to de
 ac \to de
 ab \to de
 meet-irreducibles: a bd cd ae be ce abde acde bcde 
-max antichain: abdcdbece
+max antichain: a bd cd be ce 
 dimension: 5
 
 218.
@@ -2040,7 +2040,7 @@ bc \to e
 ac \to de
 ab \to cde
 meet-irreducibles: a bd cd ae bce ade bde acde bcde 
-max antichain: abdcdbce
+max antichain: a bd cd bce 
 dimension: 4
 
 219.
@@ -2051,7 +2051,7 @@ bc \to e
 ac \to de
 ab \to de
 meet-irreducibles: a b ad cd bce abde acde bcde 
-max antichain: abcd
+max antichain: a b cd 
 dimension: 3
 
 220.
@@ -2061,7 +2061,7 @@ bc \to e
 ac \to de
 ab \to cde
 meet-irreducibles: b ad cd ae bce ade bde acde bcde 
-max antichain: adcdaebcebde
+max antichain: ad cd ae bce bde 
 dimension: 5
 
 221.
@@ -2070,7 +2070,7 @@ bd \to e
 ab \to cde
 a \to d
 meet-irreducibles: bc acd bce ade bde acde bcde 
-max antichain: bcacdadebde
+max antichain: bc acd ade bde 
 dimension: 4
 
 222.
@@ -2080,7 +2080,7 @@ bc \to e
 ab \to de
 a \to e
 meet-irreducibles: b cd ace bce abde acde bcde 
-max antichain: cdacebceabde
+max antichain: cd ace bce abde 
 dimension: 4
 
 223.
@@ -2090,7 +2090,7 @@ bc \to e
 ac \to de
 ab \to cde
 meet-irreducibles: a ad bd cd bce ade bde acde bcde 
-max antichain: abdcdbce
+max antichain: a bd cd bce 
 dimension: 4
 
 224.
@@ -2099,7 +2099,7 @@ bc \to de
 ac \to de
 ab \to cde
 meet-irreducibles: ad bd cd ae be ce ade bde acde bcde 
-max antichain: adbdcdaebece
+max antichain: ad bd cd ae be ce 
 dimension: 6
 
 225.
@@ -2109,7 +2109,7 @@ bcd \to e
 ab \to cde
 a \to d
 meet-irreducibles: bc ad bd acd bce bde acde bcde 
-max antichain: bcadbd
+max antichain: bc ad bd 
 dimension: 3
 
 226.
@@ -2119,7 +2119,7 @@ ac \to de
 ab \to de
 a \to e
 meet-irreducibles: bd cd ae bce abde acde bcde 
-max antichain: bdcdaebce
+max antichain: bd cd ae bce 
 dimension: 4
 
 227.
@@ -2128,7 +2128,7 @@ bc \to e
 ab \to cde
 a \to e
 meet-irreducibles: bd cd ace bce ade bde acde bcde 
-max antichain: bdcdacebceade
+max antichain: bd cd ace bce ade 
 dimension: 5
 
 228.
@@ -2139,7 +2139,7 @@ bc \to e
 ac \to d
 ab \to cde
 meet-irreducibles: a b acd bce ade bde acde bcde 
-max antichain: acdbceadebde
+max antichain: acd bce ade bde 
 dimension: 4
 
 229.
@@ -2149,7 +2149,7 @@ ac \to de
 ab \to de
 a \to d
 meet-irreducibles: ad bd cd bce abde acde bcde 
-max antichain: adbdcdbce
+max antichain: ad bd cd bce 
 dimension: 4
 
 230.
@@ -2159,7 +2159,7 @@ bc \to e
 ac \to d
 ab \to cde
 meet-irreducibles: a ad bd acd bce bde acde bcde 
-max antichain: abdbce
+max antichain: a bd bce 
 dimension: 3
 
 231.
@@ -2168,7 +2168,7 @@ d \to e
 ac \to e
 ab \to de
 meet-irreducibles: a bc ace bce abde acde bcde 
-max antichain: bcaceabde
+max antichain: bc ace abde 
 dimension: 3
 
 232.
@@ -2178,7 +2178,7 @@ bc \to e
 ab \to de
 a \to d
 meet-irreducibles: b acd bce abde acde bcde 
-max antichain: acdbceabde
+max antichain: acd bce abde 
 dimension: 3
 
 233.
@@ -2188,7 +2188,7 @@ bc \to e
 ab \to cde
 a \to d
 meet-irreducibles: ad bd acd bce bde acde bcde 
-max antichain: adbdbce
+max antichain: ad bd bce 
 dimension: 3
 
 234.
@@ -2198,7 +2198,7 @@ ac \to de
 ab \to de
 b \to e
 meet-irreducibles: c ad ae bce abde acde bcde 
-max antichain: cadae
+max antichain: c ad ae 
 dimension: 3
 
 235.
@@ -2208,7 +2208,7 @@ abc \to de
 b \to e
 a \to e
 meet-irreducibles: c d abe ace bce abde acde bcde 
-max antichain: dabeacebce
+max antichain: d abe ace bce 
 dimension: 4
 
 236.
@@ -2217,7 +2217,7 @@ d \to e
 ab \to de
 a \to e
 meet-irreducibles: bc ace bce abde acde bcde 
-max antichain: bcaceabde
+max antichain: bc ace abde 
 dimension: 3
 
 237.
@@ -2228,7 +2228,7 @@ ad \to e
 ac \to de
 ab \to cde
 meet-irreducibles: a bc d ae bce ade bde acde bcde 
-max antichain: abcd
+max antichain: a bc d 
 dimension: 3
 
 238.
@@ -2238,7 +2238,7 @@ bc \to e
 ac \to e
 ab \to de
 meet-irreducibles: a b c ace bce abde acde bcde 
-max antichain: abc
+max antichain: a b c 
 dimension: 3
 
 239.
@@ -2248,7 +2248,7 @@ ac \to de
 ab \to de
 b \to e
 meet-irreducibles: a cd ae bce abde acde bcde 
-max antichain: acdbce
+max antichain: a cd bce 
 dimension: 3
 
 240.
@@ -2258,7 +2258,7 @@ ad \to ce
 bc \to de
 ab \to cde
 meet-irreducibles: a ac bd cd be ace bde acde bcde 
-max antichain: abdcdbe
+max antichain: a bd cd be 
 dimension: 4
 
 241.
@@ -2269,7 +2269,7 @@ bd \to e
 ac \to de
 ab \to cde
 meet-irreducibles: a bc ad bce ade bde acde bcde 
-max antichain: abcbde
+max antichain: a bc bde 
 dimension: 3
 
 242.
@@ -2279,7 +2279,7 @@ ad \to e
 c \to e
 ab \to de
 meet-irreducibles: a b d ace bce abde acde bcde 
-max antichain: abd
+max antichain: a b d 
 dimension: 3
 
 243.
@@ -2290,7 +2290,7 @@ ac \to de
 ab \to de
 a \to e
 meet-irreducibles: bc d ae bce abde acde bcde 
-max antichain: bcdae
+max antichain: bc d ae 
 dimension: 3
 
 244.
@@ -2300,7 +2300,7 @@ ac \to de
 ab \to de
 b \to e
 meet-irreducibles: a ad cd bce abde acde bcde 
-max antichain: acdbce
+max antichain: a cd bce 
 dimension: 3
 
 245.
@@ -2309,7 +2309,7 @@ ac \to de
 ab \to cde
 b \to e
 meet-irreducibles: ad cd ae bce ade bde acde bcde 
-max antichain: adcdaebcebde
+max antichain: ad cd ae bce bde 
 dimension: 5
 
 246.
@@ -2319,7 +2319,7 @@ abc \to de
 bc \to e
 a \to e
 meet-irreducibles: b c abe ace bce abde acde bcde 
-max antichain: abeacebce
+max antichain: abe ace bce 
 dimension: 3
 
 247.
@@ -2328,7 +2328,7 @@ ad \to e
 c \to e
 ab \to cde
 meet-irreducibles: a bd ace bce ade bde acde bcde 
-max antichain: bdacebceade
+max antichain: bd ace bce ade 
 dimension: 4
 
 248.
@@ -2338,7 +2338,7 @@ ac \to de
 ab \to cde
 a \to e
 meet-irreducibles: bc bd ae bce ade bde acde bcde 
-max antichain: bcbdae
+max antichain: bc bd ae 
 dimension: 3
 
 249.
@@ -2347,7 +2347,7 @@ ab \to de
 b \to e
 a \to e
 meet-irreducibles: cd ace bce abde acde bcde 
-max antichain: cdacebceabde
+max antichain: cd ace bce abde 
 dimension: 4
 
 250.
@@ -2358,7 +2358,7 @@ ac \to de
 ab \to de
 a \to d
 meet-irreducibles: bc ad bce abde acde bcde 
-max antichain: bcabdeacde
+max antichain: bc abde acde 
 dimension: 3
 
 251.
@@ -2370,7 +2370,7 @@ bc \to e
 ac \to de
 ab \to de
 meet-irreducibles: a b c d ae bce abde acde bcde 
-max antichain: abcd
+max antichain: a b c d 
 dimension: 4
 
 252.
@@ -2382,7 +2382,7 @@ bc \to e
 ac \to e
 ab \to cde
 meet-irreducibles: a b c d ace bce ade bde acde bcde 
-max antichain: abcd
+max antichain: a b c d 
 dimension: 4
 
 253.
@@ -2391,7 +2391,7 @@ ac \to de
 c \to e
 ab \to cde
 meet-irreducibles: ad bd ae bce ade bde acde bcde 
-max antichain: adbdaebce
+max antichain: ad bd ae bce 
 dimension: 4
 
 254.
@@ -2401,7 +2401,7 @@ ac \to de
 ab \to cde
 a \to d
 meet-irreducibles: bc ad bd bce ade bde acde bcde 
-max antichain: bcadbd
+max antichain: bc ad bd 
 dimension: 3
 
 255.
@@ -2412,7 +2412,7 @@ bc \to e
 ac \to de
 ab \to cde
 meet-irreducibles: a c bd ae bce ade bde acde bcde 
-max antichain: acbd
+max antichain: a c bd 
 dimension: 3
 
 256.
@@ -2421,7 +2421,7 @@ c \to e
 ab \to de
 a \to e
 meet-irreducibles: bd ace bce abde acde bcde 
-max antichain: bdacebce
+max antichain: bd ace bce 
 dimension: 3
 
 257.
@@ -2433,7 +2433,7 @@ bc \to e
 ac \to de
 ab \to de
 meet-irreducibles: a b c ad bce abde acde bcde 
-max antichain: abc
+max antichain: a b c 
 dimension: 3
 
 258.
@@ -2444,7 +2444,7 @@ bc \to e
 ac \to de
 ab \to cde
 meet-irreducibles: b c ad ae bce ade bde acde bcde 
-max antichain: bcadae
+max antichain: b c ad ae 
 dimension: 4
 
 259.
@@ -2454,7 +2454,7 @@ bc \to e
 ab \to cde
 a \to c
 meet-irreducibles: ac bd acd bce bde acde bcde 
-max antichain: acbdbce
+max antichain: ac bd bce 
 dimension: 3
 
 260.
@@ -2465,7 +2465,7 @@ bc \to e
 ab \to de
 a \to e
 meet-irreducibles: b c d ace bce abde acde bcde 
-max antichain: bcd
+max antichain: b c d 
 dimension: 3
 
 261.
@@ -2476,7 +2476,7 @@ bc \to e
 ac \to de
 ab \to cde
 meet-irreducibles: a c ad bd bce ade bde acde bcde 
-max antichain: acbd
+max antichain: a c bd 
 dimension: 3
 
 262.
@@ -2486,7 +2486,7 @@ bc \to de
 ac \to de
 ab \to cde
 meet-irreducibles: c ad bd ae be ce ade bde acde bcde 
-max antichain: cadbdaebe
+max antichain: c ad bd ae be 
 dimension: 5
 
 263.
@@ -2494,7 +2494,7 @@ id: 4283765077
 bd \to e
 a \to de
 meet-irreducibles: bc cd bce abde acde bcde 
-max antichain: bccdabde
+max antichain: bc cd abde 
 dimension: 3
 
 264.
@@ -2504,7 +2504,7 @@ ac \to de
 ab \to cde
 a \to e
 meet-irreducibles: bc cd ae bce ade bde acde bcde 
-max antichain: bccdaebde
+max antichain: bc cd ae bde 
 dimension: 4
 
 265.
@@ -2513,7 +2513,7 @@ ab \to de
 b \to e
 a \to d
 meet-irreducibles: acd bce abde acde bcde 
-max antichain: acdbceabde
+max antichain: acd bce abde 
 dimension: 3
 
 266.
@@ -2523,7 +2523,7 @@ bc \to e
 ab \to cde
 a \to e
 meet-irreducibles: c bd ace bce ade bde acde bcde 
-max antichain: bdacebceade
+max antichain: bd ace bce ade 
 dimension: 4
 
 267.
@@ -2532,7 +2532,7 @@ bcd \to e
 ab \to cde
 a \to de
 meet-irreducibles: bc bd cd bce ade bde acde bcde 
-max antichain: bcbdcdade
+max antichain: bc bd cd ade 
 dimension: 4
 
 268.
@@ -2542,7 +2542,7 @@ ac \to de
 ab \to cde
 a \to d
 meet-irreducibles: bc ad cd bce ade bde acde bcde 
-max antichain: bcadcdbde
+max antichain: bc ad cd bde 
 dimension: 4
 
 269.
@@ -2553,7 +2553,7 @@ bc \to de
 ac \to de
 ab \to de
 meet-irreducibles: a b cd ae be ce abde acde bcde 
-max antichain: abcdce
+max antichain: a b cd ce 
 dimension: 4
 
 270.
@@ -2564,14 +2564,14 @@ bc \to e
 ac \to de
 ab \to cde
 meet-irreducibles: a b cd ae bce ade bde acde bcde 
-max antichain: acdbcebde
+max antichain: a cd bce bde 
 dimension: 4
 
 271.
 id: 4116010325
 a \to cde
 meet-irreducibles: bcd bce bde acde bcde 
-max antichain: bcdbcebdeacde
+max antichain: bcd bce bde acde 
 dimension: 4
 
 272.
@@ -2581,7 +2581,7 @@ bc \to de
 ac \to de
 ab \to cde
 meet-irreducibles: a bd cd ae be ce ade bde acde bcde 
-max antichain: abdcdbece
+max antichain: a bd cd be ce 
 dimension: 5
 
 273.
@@ -2591,7 +2591,7 @@ bc \to de
 ac \to e
 ab \to cde
 meet-irreducibles: a bd cd ae be ace bde acde bcde 
-max antichain: abdcdbe
+max antichain: a bd cd be 
 dimension: 4
 
 274.
@@ -2600,7 +2600,7 @@ bcd \to e
 ab \to cde
 a \to cd
 meet-irreducibles: bc bd acd bce bde acde bcde 
-max antichain: bcbdacd
+max antichain: bc bd acd 
 dimension: 3
 
 275.
@@ -2611,7 +2611,7 @@ bc \to de
 ac \to de
 ab \to de
 meet-irreducibles: a b ad cd be ce abde acde bcde 
-max antichain: abcdce
+max antichain: a b cd ce 
 dimension: 4
 
 276.
@@ -2622,7 +2622,7 @@ bc \to e
 ac \to de
 ab \to cde
 meet-irreducibles: a b ad cd bce ade bde acde bcde 
-max antichain: acdbcebde
+max antichain: a cd bce bde 
 dimension: 4
 
 277.
@@ -2633,7 +2633,7 @@ ac \to de
 ab \to de
 a \to e
 meet-irreducibles: b cd ae bce abde acde bcde 
-max antichain: bcdae
+max antichain: b cd ae 
 dimension: 3
 
 278.
@@ -2643,7 +2643,7 @@ bc \to e
 ab \to cde
 a \to e
 meet-irreducibles: b cd ace bce ade bde acde bcde 
-max antichain: cdacebceadebde
+max antichain: cd ace bce ade bde 
 dimension: 5
 
 279.
@@ -2651,7 +2651,7 @@ id: 4283766037
 bc \to e
 a \to de
 meet-irreducibles: bd cd bce abde acde bcde 
-max antichain: bdcdbce
+max antichain: bd cd bce 
 dimension: 3
 
 280.
@@ -2661,7 +2661,7 @@ ac \to de
 ab \to de
 a \to e
 meet-irreducibles: bd cd ae be ce abde acde bcde 
-max antichain: bdcdaebece
+max antichain: bd cd ae be ce 
 dimension: 5
 
 281.
@@ -2671,7 +2671,7 @@ ac \to de
 ab \to cde
 a \to e
 meet-irreducibles: bd cd ae bce ade bde acde bcde 
-max antichain: bdcdaebce
+max antichain: bd cd ae bce 
 dimension: 4
 
 282.
@@ -2682,7 +2682,7 @@ ac \to de
 ab \to de
 a \to d
 meet-irreducibles: b ad cd bce abde acde bcde 
-max antichain: badcd
+max antichain: b ad cd 
 dimension: 3
 
 283.
@@ -2693,7 +2693,7 @@ bc \to e
 ac \to d
 ab \to cde
 meet-irreducibles: a b ad acd bce bde acde bcde 
-max antichain: abcebde
+max antichain: a bce bde 
 dimension: 3
 
 284.
@@ -2703,7 +2703,7 @@ ac \to de
 ab \to cde
 a \to d
 meet-irreducibles: ad bd cd bce ade bde acde bcde 
-max antichain: adbdcdbce
+max antichain: ad bd cd bce 
 dimension: 4
 
 285.
@@ -2712,7 +2712,7 @@ d \to e
 ac \to de
 ab \to de
 meet-irreducibles: a bc ae bce abde acde bcde 
-max antichain: bcabdeacde
+max antichain: bc abde acde 
 dimension: 3
 
 286.
@@ -2721,7 +2721,7 @@ c \to e
 b \to e
 a \to e
 meet-irreducibles: d abce abde acde bcde 
-max antichain: abceabdeacdebcde
+max antichain: abce abde acde bcde 
 dimension: 4
 
 287.
@@ -2730,7 +2730,7 @@ ae \to cd
 ab \to cde
 b \to e
 meet-irreducibles: ac ad acd bce bde acde bcde 
-max antichain: acadbcebde
+max antichain: ac ad bce bde 
 dimension: 4
 
 288.
@@ -2740,7 +2740,7 @@ ad \to ce
 bc \to de
 ab \to cde
 meet-irreducibles: ac bd ae be ace bde acde bcde 
-max antichain: acbdaebe
+max antichain: ac bd ae be 
 dimension: 4
 
 289.
@@ -2750,7 +2750,7 @@ bc \to e
 ab \to cde
 a \to d
 meet-irreducibles: b acd bce ade bde acde bcde 
-max antichain: acdbceadebde
+max antichain: acd bce ade bde 
 dimension: 4
 
 290.
@@ -2761,7 +2761,7 @@ ac \to de
 ab \to de
 b \to e
 meet-irreducibles: a c ad bce abde acde bcde 
-max antichain: bceabdeacde
+max antichain: bce abde acde 
 dimension: 3
 
 291.
@@ -2771,7 +2771,7 @@ ac \to de
 ab \to cde
 b \to e
 meet-irreducibles: c ad ae bce ade bde acde bcde 
-max antichain: cadaebde
+max antichain: c ad ae bde 
 dimension: 4
 
 292.
@@ -2781,7 +2781,7 @@ ab \to de
 b \to e
 a \to e
 meet-irreducibles: c d ace bce abde acde bcde 
-max antichain: dacebce
+max antichain: d ace bce 
 dimension: 3
 
 293.
@@ -2790,7 +2790,7 @@ d \to e
 c \to e
 ab \to de
 meet-irreducibles: a b ace bce abde acde bcde 
-max antichain: acebceabde
+max antichain: ace bce abde 
 dimension: 3
 
 294.
@@ -2800,7 +2800,7 @@ ac \to de
 ab \to de
 a \to e
 meet-irreducibles: bc ae bce abde acde bcde 
-max antichain: bcabdeacde
+max antichain: bc abde acde 
 dimension: 3
 
 295.
@@ -2810,7 +2810,7 @@ bc \to e
 ac \to de
 ab \to de
 meet-irreducibles: a b c ae bce abde acde bcde 
-max antichain: abc
+max antichain: a b c 
 dimension: 3
 
 296.
@@ -2821,7 +2821,7 @@ ad \to ce
 bc \to de
 ab \to cde
 meet-irreducibles: a b ac cd be ace bde acde bcde 
-max antichain: abcd
+max antichain: a b cd 
 dimension: 3
 
 297.
@@ -2831,7 +2831,7 @@ ac \to de
 ab \to cde
 b \to e
 meet-irreducibles: a cd ae bce ade bde acde bcde 
-max antichain: acdbcebde
+max antichain: a cd bce bde 
 dimension: 4
 
 298.
@@ -2842,7 +2842,7 @@ ad \to ce
 bc \to de
 ab \to cde
 meet-irreducibles: a b ac bd cd ace bde acde bcde 
-max antichain: abcd
+max antichain: a b cd 
 dimension: 3
 
 299.
@@ -2852,7 +2852,7 @@ ad \to e
 c \to e
 ab \to cde
 meet-irreducibles: a b d ace bce ade bde acde bcde 
-max antichain: acebceadebde
+max antichain: ace bce ade bde 
 dimension: 4
 
 300.
@@ -2861,7 +2861,7 @@ cd \to e
 bd \to e
 a \to de
 meet-irreducibles: bc d bce abde acde bcde 
-max antichain: bcabdeacde
+max antichain: bc abde acde 
 dimension: 3
 
 301.
@@ -2872,7 +2872,7 @@ ac \to de
 ab \to cde
 a \to e
 meet-irreducibles: bc d ae bce ade bde acde bcde 
-max antichain: bcdae
+max antichain: bc d ae 
 dimension: 3
 
 302.
@@ -2882,7 +2882,7 @@ ac \to de
 ab \to cde
 b \to e
 meet-irreducibles: a ad cd bce ade bde acde bcde 
-max antichain: acdbcebde
+max antichain: a cd bce bde 
 dimension: 4
 
 303.
@@ -2892,7 +2892,7 @@ bc \to e
 ab \to de
 a \to e
 meet-irreducibles: b c ace bce abde acde bcde 
-max antichain: acebceabde
+max antichain: ace bce abde 
 dimension: 3
 
 304.
@@ -2902,7 +2902,7 @@ ac \to de
 c \to e
 ab \to cde
 meet-irreducibles: a bd ae bce ade bde acde bcde 
-max antichain: abdbce
+max antichain: a bd bce 
 dimension: 3
 
 305.
@@ -2911,7 +2911,7 @@ cd \to e
 ab \to cde
 a \to de
 meet-irreducibles: bc bd bce ade bde acde bcde 
-max antichain: bcbdade
+max antichain: bc bd ade 
 dimension: 3
 
 306.
@@ -2921,7 +2921,7 @@ ab \to de
 b \to e
 a \to e
 meet-irreducibles: cd ae bce abde acde bcde 
-max antichain: cdaebce
+max antichain: cd ae bce 
 dimension: 3
 
 307.
@@ -2930,7 +2930,7 @@ ab \to cde
 b \to e
 a \to e
 meet-irreducibles: cd ace bce ade bde acde bcde 
-max antichain: cdacebceadebde
+max antichain: cd ace bce ade bde 
 dimension: 5
 
 308.
@@ -2940,7 +2940,7 @@ bc \to de
 ab \to cde
 a \to c
 meet-irreducibles: ac bd cd be ace bde acde bcde 
-max antichain: acbdcdbe
+max antichain: ac bd cd be 
 dimension: 4
 
 309.
@@ -2950,7 +2950,7 @@ ac \to de
 c \to e
 ab \to cde
 meet-irreducibles: b ad ae bce ade bde acde bcde 
-max antichain: adaebcebde
+max antichain: ad ae bce bde 
 dimension: 4
 
 310.
@@ -2961,7 +2961,7 @@ ac \to de
 ab \to cde
 a \to d
 meet-irreducibles: bc ad bce ade bde acde bcde 
-max antichain: bcadbde
+max antichain: bc ad bde 
 dimension: 3
 
 311.
@@ -2973,7 +2973,7 @@ bc \to de
 ac \to de
 ab \to de
 meet-irreducibles: a b c d ae be ce abde acde bcde 
-max antichain: abcd
+max antichain: a b c d 
 dimension: 4
 
 312.
@@ -2985,7 +2985,7 @@ bc \to e
 ac \to de
 ab \to cde
 meet-irreducibles: a b c d ae bce ade bde acde bcde 
-max antichain: abcd
+max antichain: a b c d 
 dimension: 4
 
 313.
@@ -2995,7 +2995,7 @@ c \to e
 ab \to de
 a \to e
 meet-irreducibles: b d ace bce abde acde bcde 
-max antichain: bdace
+max antichain: b d ace 
 dimension: 3
 
 314.
@@ -3005,7 +3005,7 @@ ac \to de
 c \to e
 ab \to cde
 meet-irreducibles: a ad bd bce ade bde acde bcde 
-max antichain: abdbce
+max antichain: a bd bce 
 dimension: 3
 
 315.
@@ -3015,7 +3015,7 @@ ac \to de
 c \to e
 ab \to cde
 meet-irreducibles: ad bd ae be ce ade bde acde bcde 
-max antichain: adbdaebece
+max antichain: ad bd ae be ce 
 dimension: 5
 
 316.
@@ -3025,7 +3025,7 @@ ab \to de
 b \to e
 a \to d
 meet-irreducibles: ad cd bce abde acde bcde 
-max antichain: adcdbce
+max antichain: ad cd bce 
 dimension: 3
 
 317.
@@ -3035,7 +3035,7 @@ ac \to d
 ab \to cde
 b \to e
 meet-irreducibles: a ad acd bce bde acde bcde 
-max antichain: abcebde
+max antichain: a bce bde 
 dimension: 3
 
 318.
@@ -3046,7 +3046,7 @@ bc \to de
 ac \to de
 ab \to cde
 meet-irreducibles: a c bd ae be ce ade bde acde bcde 
-max antichain: acbdbe
+max antichain: a c bd be 
 dimension: 4
 
 319.
@@ -3057,7 +3057,7 @@ bc \to de
 ac \to e
 ab \to cde
 meet-irreducibles: a c bd ae be ace bde acde bcde 
-max antichain: acbdbe
+max antichain: a c bd be 
 dimension: 4
 
 320.
@@ -3066,7 +3066,7 @@ c \to e
 ab \to cde
 a \to e
 meet-irreducibles: bd ace bce ade bde acde bcde 
-max antichain: bdacebceade
+max antichain: bd ace bce ade 
 dimension: 4
 
 321.
@@ -3078,7 +3078,7 @@ bc \to de
 ac \to de
 ab \to de
 meet-irreducibles: a b c ad be ce abde acde bcde 
-max antichain: abc
+max antichain: a b c 
 dimension: 3
 
 322.
@@ -3090,7 +3090,7 @@ bc \to e
 ac \to de
 ab \to cde
 meet-irreducibles: a b c ad bce ade bde acde bcde 
-max antichain: abc
+max antichain: a b c 
 dimension: 3
 
 323.
@@ -3102,7 +3102,7 @@ ac \to de
 ab \to de
 a \to e
 meet-irreducibles: b c d ae bce abde acde bcde 
-max antichain: bcdae
+max antichain: b c d ae 
 dimension: 4
 
 324.
@@ -3113,7 +3113,7 @@ bc \to e
 ab \to cde
 a \to e
 meet-irreducibles: b c d ace bce ade bde acde bcde 
-max antichain: acebceadebde
+max antichain: ace bce ade bde 
 dimension: 4
 
 325.
@@ -3124,7 +3124,7 @@ bc \to de
 ac \to de
 ab \to cde
 meet-irreducibles: a c ad bd be ce ade bde acde bcde 
-max antichain: acbdbe
+max antichain: a c bd be 
 dimension: 4
 
 326.
@@ -3133,7 +3133,7 @@ bd \to e
 ab \to cde
 a \to de
 meet-irreducibles: bc cd bce ade bde acde bcde 
-max antichain: bccdadebde
+max antichain: bc cd ade bde 
 dimension: 4
 
 327.
@@ -3142,7 +3142,7 @@ ab \to cde
 b \to e
 a \to d
 meet-irreducibles: acd bce ade bde acde bcde 
-max antichain: acdbceadebde
+max antichain: acd bce ade bde 
 dimension: 4
 
 328.
@@ -3153,7 +3153,7 @@ ac \to de
 ab \to cde
 a \to e
 meet-irreducibles: c bd ae bce ade bde acde bcde 
-max antichain: cbdae
+max antichain: c bd ae 
 dimension: 3
 
 329.
@@ -3161,7 +3161,7 @@ id: 4115993941
 bcd \to e
 a \to cde
 meet-irreducibles: bc bd cd bce bde acde bcde 
-max antichain: bcbdcd
+max antichain: bc bd cd 
 dimension: 3
 
 330.
@@ -3173,7 +3173,7 @@ ac \to de
 ab \to de
 a \to d
 meet-irreducibles: b c ad bce abde acde bcde 
-max antichain: bcad
+max antichain: b c ad 
 dimension: 3
 
 331.
@@ -3184,7 +3184,7 @@ bc \to de
 ac \to de
 ab \to cde
 meet-irreducibles: a b cd ae be ce ade bde acde bcde 
-max antichain: abcdce
+max antichain: a b cd ce 
 dimension: 4
 
 332.
@@ -3195,7 +3195,7 @@ bc \to de
 ac \to e
 ab \to cde
 meet-irreducibles: a b cd ae be ace bde acde bcde 
-max antichain: abcd
+max antichain: a b cd 
 dimension: 3
 
 333.
@@ -3206,14 +3206,14 @@ ac \to de
 ab \to cde
 a \to d
 meet-irreducibles: c ad bd bce ade bde acde bcde 
-max antichain: cadbd
+max antichain: c ad bd 
 dimension: 3
 
 334.
 id: 3579139413
 a \to bcde
 meet-irreducibles: bcd bce bde cde bcde 
-max antichain: bcdbcebdecde
+max antichain: bcd bce bde cde 
 dimension: 4
 
 335.
@@ -3224,7 +3224,7 @@ bc \to de
 ac \to de
 ab \to cde
 meet-irreducibles: a b ad cd be ce ade bde acde bcde 
-max antichain: abcdce
+max antichain: a b cd ce 
 dimension: 4
 
 336.
@@ -3233,7 +3233,7 @@ bd \to e
 bc \to e
 a \to de
 meet-irreducibles: b cd bce abde acde bcde 
-max antichain: cdbceabde
+max antichain: cd bce abde 
 dimension: 3
 
 337.
@@ -3244,7 +3244,7 @@ ac \to de
 ab \to de
 a \to e
 meet-irreducibles: b cd ae be ce abde acde bcde 
-max antichain: bcdaece
+max antichain: b cd ae ce 
 dimension: 4
 
 338.
@@ -3255,7 +3255,7 @@ ac \to de
 ab \to cde
 a \to e
 meet-irreducibles: b cd ae bce ade bde acde bcde 
-max antichain: cdaebcebde
+max antichain: cd ae bce bde 
 dimension: 4
 
 339.
@@ -3265,7 +3265,7 @@ c \to e
 b \to e
 a \to e
 meet-irreducibles: abce abde acde bcde 
-max antichain: abceabdeacdebcde
+max antichain: abce abde acde bcde 
 dimension: 4
 
 340.
@@ -3273,7 +3273,7 @@ id: 4279571733
 bc \to de
 a \to de
 meet-irreducibles: bd cd be ce abde acde bcde 
-max antichain: bdcdbece
+max antichain: bd cd be ce 
 dimension: 4
 
 341.
@@ -3282,7 +3282,7 @@ bc \to e
 ab \to cde
 a \to de
 meet-irreducibles: bd cd bce ade bde acde bcde 
-max antichain: bdcdbceade
+max antichain: bd cd bce ade 
 dimension: 4
 
 342.
@@ -3292,7 +3292,7 @@ ac \to de
 ab \to cde
 a \to e
 meet-irreducibles: bd cd ae be ce ade bde acde bcde 
-max antichain: bdcdaebece
+max antichain: bd cd ae be ce 
 dimension: 5
 
 343.
@@ -3302,7 +3302,7 @@ bc \to de
 ab \to cde
 a \to e
 meet-irreducibles: bd cd ae be ace bde acde bcde 
-max antichain: bdcdaebe
+max antichain: bd cd ae be 
 dimension: 4
 
 344.
@@ -3313,7 +3313,7 @@ ac \to de
 ab \to de
 a \to d
 meet-irreducibles: b ad cd be ce abde acde bcde 
-max antichain: badcdce
+max antichain: b ad cd ce 
 dimension: 4
 
 345.
@@ -3324,7 +3324,7 @@ ac \to de
 ab \to cde
 a \to d
 meet-irreducibles: b ad cd bce ade bde acde bcde 
-max antichain: adcdbcebde
+max antichain: ad cd bce bde 
 dimension: 4
 
 346.
@@ -3334,7 +3334,7 @@ abc \to de
 b \to e
 a \to e
 meet-irreducibles: c abe ace bce abde acde bcde 
-max antichain: abeacebce
+max antichain: abe ace bce 
 dimension: 3
 
 347.
@@ -3344,7 +3344,7 @@ c \to e
 ab \to de
 b \to e
 meet-irreducibles: ad ae bce abde acde bcde 
-max antichain: adaebce
+max antichain: ad ae bce 
 dimension: 3
 
 348.
@@ -3353,7 +3353,7 @@ bc \to e
 ab \to cde
 a \to cd
 meet-irreducibles: bd acd bce bde acde bcde 
-max antichain: bdacdbce
+max antichain: bd acd bce 
 dimension: 3
 
 349.
@@ -3364,7 +3364,7 @@ ac \to de
 ab \to de
 b \to e
 meet-irreducibles: a c d ae bce abde acde bcde 
-max antichain: acd
+max antichain: a c d 
 dimension: 3
 
 350.
@@ -3373,7 +3373,7 @@ d \to e
 ac \to de
 ab \to cde
 meet-irreducibles: a bc ae bce ade bde acde bcde 
-max antichain: abcbde
+max antichain: a bc bde 
 dimension: 3
 
 351.
@@ -3383,7 +3383,7 @@ c \to e
 b \to e
 a \to e
 meet-irreducibles: d abe ace bce abde acde bcde 
-max antichain: dabeacebce
+max antichain: d abe ace bce 
 dimension: 4
 
 352.
@@ -3394,7 +3394,7 @@ ad \to ce
 bc \to de
 ab \to cde
 meet-irreducibles: a ac bd be ace bde acde bcde 
-max antichain: abdbe
+max antichain: a bd be 
 dimension: 3
 
 353.
@@ -3405,7 +3405,7 @@ bc \to e
 ab \to cde
 a \to d
 meet-irreducibles: b ad acd bce bde acde bcde 
-max antichain: adbcebde
+max antichain: ad bce bde 
 dimension: 3
 
 354.
@@ -3417,7 +3417,7 @@ ac \to de
 ab \to de
 b \to e
 meet-irreducibles: a c ad be ce abde acde bcde 
-max antichain: acbe
+max antichain: a c be 
 dimension: 3
 
 355.
@@ -3428,7 +3428,7 @@ ac \to de
 ab \to cde
 b \to e
 meet-irreducibles: a c ad bce ade bde acde bcde 
-max antichain: acbde
+max antichain: a c bde 
 dimension: 3
 
 356.
@@ -3439,7 +3439,7 @@ ab \to de
 b \to e
 a \to e
 meet-irreducibles: c d ae bce abde acde bcde 
-max antichain: cdae
+max antichain: c d ae 
 dimension: 3
 
 357.
@@ -3449,7 +3449,7 @@ ab \to cde
 b \to e
 a \to e
 meet-irreducibles: c d ace bce ade bde acde bcde 
-max antichain: acebceadebde
+max antichain: ace bce ade bde 
 dimension: 4
 
 358.
@@ -3458,7 +3458,7 @@ d \to e
 c \to e
 ab \to cde
 meet-irreducibles: a b ace bce ade bde acde bcde 
-max antichain: acebceadebde
+max antichain: ace bce ade bde 
 dimension: 4
 
 359.
@@ -3466,7 +3466,7 @@ id: 4283760725
 d \to e
 a \to de
 meet-irreducibles: bc bce abde acde bcde 
-max antichain: bcabdeacde
+max antichain: bc abde acde 
 dimension: 3
 
 360.
@@ -3476,7 +3476,7 @@ ac \to de
 ab \to cde
 a \to e
 meet-irreducibles: bc ae bce ade bde acde bcde 
-max antichain: bcaebde
+max antichain: bc ae bde 
 dimension: 3
 
 361.
@@ -3487,7 +3487,7 @@ bc \to de
 ab \to cde
 a \to c
 meet-irreducibles: ac bd be ace bde acde bcde 
-max antichain: acbdbe
+max antichain: ac bd be 
 dimension: 3
 
 362.
@@ -3498,7 +3498,7 @@ ab \to de
 b \to e
 a \to d
 meet-irreducibles: c ad bce abde acde bcde 
-max antichain: bceabdeacde
+max antichain: bce abde acde 
 dimension: 3
 
 363.
@@ -3508,7 +3508,7 @@ bc \to de
 ac \to de
 ab \to de
 meet-irreducibles: a b c ae be ce abde acde bcde 
-max antichain: abc
+max antichain: a b c 
 dimension: 3
 
 364.
@@ -3518,7 +3518,7 @@ bc \to e
 ac \to de
 ab \to cde
 meet-irreducibles: a b c ae bce ade bde acde bcde 
-max antichain: abc
+max antichain: a b c 
 dimension: 3
 
 365.
@@ -3528,7 +3528,7 @@ c \to e
 ab \to de
 a \to e
 meet-irreducibles: b ace bce abde acde bcde 
-max antichain: acebceabde
+max antichain: ace bce abde 
 dimension: 3
 
 366.
@@ -3539,7 +3539,7 @@ ac \to de
 c \to e
 ab \to cde
 meet-irreducibles: a b d ae bce ade bde acde bcde 
-max antichain: abd
+max antichain: a b d 
 dimension: 3
 
 367.
@@ -3549,7 +3549,7 @@ bd \to e
 ab \to cde
 a \to de
 meet-irreducibles: bc d bce ade bde acde bcde 
-max antichain: bcadebde
+max antichain: bc ade bde 
 dimension: 3
 
 368.
@@ -3560,7 +3560,7 @@ ac \to de
 ab \to de
 a \to e
 meet-irreducibles: b c ae bce abde acde bcde 
-max antichain: bcae
+max antichain: b c ae 
 dimension: 3
 
 369.
@@ -3571,7 +3571,7 @@ bc \to de
 ab \to cde
 a \to c
 meet-irreducibles: b ac cd be ace bde acde bcde 
-max antichain: baccd
+max antichain: b ac cd 
 dimension: 3
 
 370.
@@ -3582,7 +3582,7 @@ ac \to de
 c \to e
 ab \to cde
 meet-irreducibles: a bd ae be ce ade bde acde bcde 
-max antichain: abdbece
+max antichain: a bd be ce 
 dimension: 4
 
 371.
@@ -3592,7 +3592,7 @@ bc \to de
 c \to e
 ab \to cde
 meet-irreducibles: a bd ae be ace bde acde bcde 
-max antichain: abdbe
+max antichain: a bd be 
 dimension: 3
 
 372.
@@ -3600,7 +3600,7 @@ id: 4115989845
 cd \to e
 a \to cde
 meet-irreducibles: bc bd bce bde acde bcde 
-max antichain: bcbdacde
+max antichain: bc bd acde 
 dimension: 3
 
 373.
@@ -3608,7 +3608,7 @@ id: 4283765009
 b \to e
 a \to de
 meet-irreducibles: cd bce abde acde bcde 
-max antichain: cdbceabde
+max antichain: cd bce abde 
 dimension: 3
 
 374.
@@ -3619,7 +3619,7 @@ ab \to de
 b \to e
 a \to e
 meet-irreducibles: cd ae be ce abde acde bcde 
-max antichain: cdaebece
+max antichain: cd ae be ce 
 dimension: 4
 
 375.
@@ -3629,7 +3629,7 @@ ab \to cde
 b \to e
 a \to e
 meet-irreducibles: cd ae bce ade bde acde bcde 
-max antichain: cdaebcebde
+max antichain: cd ae bce bde 
 dimension: 4
 
 376.
@@ -3640,7 +3640,7 @@ ac \to de
 c \to e
 ab \to cde
 meet-irreducibles: a b ad bce ade bde acde bcde 
-max antichain: abcebde
+max antichain: a bce bde 
 dimension: 3
 
 377.
@@ -3651,7 +3651,7 @@ bc \to de
 ab \to cde
 a \to c
 meet-irreducibles: b ac bd cd ace bde acde bcde 
-max antichain: baccd
+max antichain: b ac cd 
 dimension: 3
 
 378.
@@ -3663,7 +3663,7 @@ bc \to de
 ac \to de
 ab \to cde
 meet-irreducibles: a b c d ae be ce ade bde acde bcde 
-max antichain: abcd
+max antichain: a b c d 
 dimension: 4
 
 379.
@@ -3675,7 +3675,7 @@ bc \to de
 ac \to e
 ab \to cde
 meet-irreducibles: a b c d ae be ace bde acde bcde 
-max antichain: abcd
+max antichain: a b c d 
 dimension: 4
 
 380.
@@ -3685,7 +3685,7 @@ c \to e
 ab \to cde
 a \to e
 meet-irreducibles: b d ace bce ade bde acde bcde 
-max antichain: acebceadebde
+max antichain: ace bce ade bde 
 dimension: 4
 
 381.
@@ -3696,7 +3696,7 @@ ac \to de
 c \to e
 ab \to cde
 meet-irreducibles: a ad bd be ce ade bde acde bcde 
-max antichain: abdbece
+max antichain: a bd be ce 
 dimension: 4
 
 382.
@@ -3704,7 +3704,7 @@ id: 4144432903
 c \to de
 ab \to cde
 meet-irreducibles: ad bd ae be ade bde acde bcde 
-max antichain: adbdaebe
+max antichain: ad bd ae be 
 dimension: 4
 
 383.
@@ -3715,7 +3715,7 @@ ab \to de
 b \to e
 a \to d
 meet-irreducibles: ad cd be ce abde acde bcde 
-max antichain: adcdbece
+max antichain: ad cd be ce 
 dimension: 4
 
 384.
@@ -3725,7 +3725,7 @@ ab \to cde
 b \to e
 a \to d
 meet-irreducibles: ad cd bce ade bde acde bcde 
-max antichain: adcdbcebde
+max antichain: ad cd bce bde 
 dimension: 4
 
 385.
@@ -3735,7 +3735,7 @@ c \to e
 ab \to cde
 a \to e
 meet-irreducibles: bd ae bce ade bde acde bcde 
-max antichain: bdaebce
+max antichain: bd ae bce 
 dimension: 3
 
 386.
@@ -3747,7 +3747,7 @@ bc \to de
 ac \to de
 ab \to cde
 meet-irreducibles: a b c ad be ce ade bde acde bcde 
-max antichain: abc
+max antichain: a b c 
 dimension: 3
 
 387.
@@ -3757,7 +3757,7 @@ bd \to e
 bc \to e
 a \to de
 meet-irreducibles: b c d bce abde acde bcde 
-max antichain: bcd
+max antichain: b c d 
 dimension: 3
 
 388.
@@ -3769,7 +3769,7 @@ ac \to de
 ab \to de
 a \to e
 meet-irreducibles: b c d ae be ce abde acde bcde 
-max antichain: bcdae
+max antichain: b c d ae 
 dimension: 4
 
 389.
@@ -3781,7 +3781,7 @@ ac \to de
 ab \to cde
 a \to e
 meet-irreducibles: b c d ae bce ade bde acde bcde 
-max antichain: bcdae
+max antichain: b c d ae 
 dimension: 4
 
 390.
@@ -3793,7 +3793,7 @@ bc \to de
 ac \to de
 ab \to cde
 meet-irreducibles: a b c ad bd ce ade bde acde bcde 
-max antichain: abc
+max antichain: a b c 
 dimension: 3
 
 391.
@@ -3803,7 +3803,7 @@ c \to e
 ab \to cde
 a \to d
 meet-irreducibles: ad bd bce ade bde acde bcde 
-max antichain: adbdbce
+max antichain: ad bd bce 
 dimension: 3
 
 392.
@@ -3813,7 +3813,7 @@ bc \to e
 ab \to cde
 a \to de
 meet-irreducibles: c bd bce ade bde acde bcde 
-max antichain: cbdade
+max antichain: c bd ade 
 dimension: 3
 
 393.
@@ -3823,7 +3823,7 @@ ab \to cde
 b \to e
 a \to d
 meet-irreducibles: ad acd bce bde acde bcde 
-max antichain: adbcebde
+max antichain: ad bce bde 
 dimension: 3
 
 394.
@@ -3834,7 +3834,7 @@ ac \to de
 ab \to cde
 a \to e
 meet-irreducibles: c bd ae be ce ade bde acde bcde 
-max antichain: cbdaebe
+max antichain: c bd ae be 
 dimension: 4
 
 395.
@@ -3845,7 +3845,7 @@ bc \to de
 ab \to cde
 a \to e
 meet-irreducibles: c bd ae be ace bde acde bcde 
-max antichain: cbdaebe
+max antichain: c bd ae be 
 dimension: 4
 
 396.
@@ -3853,7 +3853,7 @@ id: 3579123029
 bcd \to e
 a \to bcde
 meet-irreducibles: bc bd cd bce bde cde bcde 
-max antichain: bcbdcd
+max antichain: bc bd cd 
 dimension: 3
 
 397.
@@ -3865,7 +3865,7 @@ ac \to de
 ab \to de
 a \to d
 meet-irreducibles: b c ad be ce abde acde bcde 
-max antichain: bcad
+max antichain: b c ad 
 dimension: 3
 
 398.
@@ -3877,7 +3877,7 @@ ac \to de
 ab \to cde
 a \to d
 meet-irreducibles: b c ad bce ade bde acde bcde 
-max antichain: bcad
+max antichain: b c ad 
 dimension: 3
 
 399.
@@ -3888,7 +3888,7 @@ ac \to de
 ab \to cde
 a \to d
 meet-irreducibles: c ad bd be ce ade bde acde bcde 
-max antichain: cadbdbe
+max antichain: c ad bd be 
 dimension: 4
 
 400.
@@ -3898,7 +3898,7 @@ ac \to de
 ab \to de
 b \to e
 meet-irreducibles: a c ae bce abde acde bcde 
-max antichain: bceabdeacde
+max antichain: bce abde acde 
 dimension: 3
 
 401.
@@ -3909,7 +3909,7 @@ bc \to de
 ab \to cde
 b \to e
 meet-irreducibles: a ac cd be ace bde acde bcde 
-max antichain: acdbe
+max antichain: a cd be 
 dimension: 3
 
 402.
@@ -3918,7 +3918,7 @@ bd \to e
 bc \to de
 a \to de
 meet-irreducibles: b cd be ce abde acde bcde 
-max antichain: bcdce
+max antichain: b cd ce 
 dimension: 3
 
 403.
@@ -3928,7 +3928,7 @@ bc \to e
 ab \to cde
 a \to de
 meet-irreducibles: b cd bce ade bde acde bcde 
-max antichain: cdbceadebde
+max antichain: cd bce ade bde 
 dimension: 4
 
 404.
@@ -3939,7 +3939,7 @@ ac \to de
 ab \to cde
 a \to e
 meet-irreducibles: b cd ae be ce ade bde acde bcde 
-max antichain: bcdaece
+max antichain: b cd ae ce 
 dimension: 4
 
 405.
@@ -3950,7 +3950,7 @@ bc \to de
 ab \to cde
 a \to e
 meet-irreducibles: b cd ae be ace bde acde bcde 
-max antichain: bcdae
+max antichain: b cd ae 
 dimension: 3
 
 406.
@@ -3961,7 +3961,7 @@ c \to e
 b \to e
 a \to e
 meet-irreducibles: abe ace bce abde acde bcde 
-max antichain: abeacebce
+max antichain: abe ace bce 
 dimension: 3
 
 407.
@@ -3970,7 +3970,7 @@ bc \to de
 ab \to cde
 a \to de
 meet-irreducibles: bd cd be ce ade bde acde bcde 
-max antichain: bdcdbeceade
+max antichain: bd cd be ce ade 
 dimension: 5
 
 408.
@@ -3978,7 +3978,7 @@ id: 4115993877
 bc \to e
 a \to cde
 meet-irreducibles: bd cd bce bde acde bcde 
-max antichain: bdcdbce
+max antichain: bd cd bce 
 dimension: 3
 
 409.
@@ -3987,7 +3987,7 @@ bc \to de
 ab \to cde
 a \to ce
 meet-irreducibles: bd cd be ace bde acde bcde 
-max antichain: bdcdbeace
+max antichain: bd cd be ace 
 dimension: 4
 
 410.
@@ -3998,7 +3998,7 @@ c \to e
 ab \to de
 b \to e
 meet-irreducibles: a d ae bce abde acde bcde 
-max antichain: adbce
+max antichain: a d bce 
 dimension: 3
 
 411.
@@ -4009,7 +4009,7 @@ ac \to de
 ab \to cde
 a \to d
 meet-irreducibles: b ad cd be ce ade bde acde bcde 
-max antichain: badcdce
+max antichain: b ad cd ce 
 dimension: 4
 
 412.
@@ -4019,7 +4019,7 @@ ab \to de
 b \to e
 a \to e
 meet-irreducibles: c ace bce abde acde bcde 
-max antichain: acebceabde
+max antichain: ace bce abde 
 dimension: 3
 
 413.
@@ -4029,7 +4029,7 @@ bc \to e
 ab \to cde
 a \to cd
 meet-irreducibles: b acd bce bde acde bcde 
-max antichain: acdbcebde
+max antichain: acd bce bde 
 dimension: 3
 
 414.
@@ -4040,7 +4040,7 @@ c \to e
 ab \to de
 b \to e
 meet-irreducibles: a ad bce abde acde bcde 
-max antichain: bceabdeacde
+max antichain: bce abde acde 
 dimension: 3
 
 415.
@@ -4052,7 +4052,7 @@ ad \to ce
 bc \to de
 ab \to cde
 meet-irreducibles: a b ac d be ace bde acde bcde 
-max antichain: abd
+max antichain: a b d 
 dimension: 3
 
 416.
@@ -4062,7 +4062,7 @@ c \to e
 ab \to cde
 b \to e
 meet-irreducibles: ad ae bce ade bde acde bcde 
-max antichain: adaebcebde
+max antichain: ad ae bce bde 
 dimension: 4
 
 417.
@@ -4073,7 +4073,7 @@ ac \to de
 ab \to cde
 b \to e
 meet-irreducibles: a c d ae bce ade bde acde bcde 
-max antichain: acd
+max antichain: a c d 
 dimension: 3
 
 418.
@@ -4083,7 +4083,7 @@ ab \to de
 b \to e
 a \to e
 meet-irreducibles: d ace bce abde acde bcde 
-max antichain: dacebce
+max antichain: d ace bce 
 dimension: 3
 
 419.
@@ -4095,7 +4095,7 @@ ad \to ce
 bc \to de
 ab \to cde
 meet-irreducibles: a b ac bd ace bde acde bcde 
-max antichain: ab
+max antichain: a b 
 dimension: 2
 
 420.
@@ -4107,7 +4107,7 @@ ac \to de
 ab \to cde
 b \to e
 meet-irreducibles: a c ad be ce ade bde acde bcde 
-max antichain: acbe
+max antichain: a c be 
 dimension: 3
 
 421.
@@ -4118,7 +4118,7 @@ ab \to de
 b \to e
 a \to d
 meet-irreducibles: ad bce abde acde bcde 
-max antichain: bceabdeacde
+max antichain: bce abde acde 
 dimension: 3
 
 422.
@@ -4130,7 +4130,7 @@ bc \to de
 ab \to cde
 a \to c
 meet-irreducibles: b ac d be ace bde acde bcde 
-max antichain: bacd
+max antichain: b ac d 
 dimension: 3
 
 423.
@@ -4139,7 +4139,7 @@ cd \to e
 b \to e
 a \to de
 meet-irreducibles: c d bce abde acde bcde 
-max antichain: bceabdeacde
+max antichain: bce abde acde 
 dimension: 3
 
 424.
@@ -4151,7 +4151,7 @@ ab \to de
 b \to e
 a \to e
 meet-irreducibles: c d ae be ce abde acde bcde 
-max antichain: cdaebe
+max antichain: c d ae be 
 dimension: 4
 
 425.
@@ -4162,7 +4162,7 @@ ab \to cde
 b \to e
 a \to e
 meet-irreducibles: c d ae bce ade bde acde bcde 
-max antichain: cdae
+max antichain: c d ae 
 dimension: 3
 
 426.
@@ -4172,7 +4172,7 @@ ac \to de
 c \to e
 ab \to cde
 meet-irreducibles: a b ae bce ade bde acde bcde 
-max antichain: abcebde
+max antichain: a bce bde 
 dimension: 3
 
 427.
@@ -4181,7 +4181,7 @@ d \to e
 ab \to cde
 a \to de
 meet-irreducibles: bc bce ade bde acde bcde 
-max antichain: bcadebde
+max antichain: bc ade bde 
 dimension: 3
 
 428.
@@ -4193,7 +4193,7 @@ bc \to de
 ab \to cde
 a \to c
 meet-irreducibles: b ac bd ace bde acde bcde 
-max antichain: bac
+max antichain: b ac 
 dimension: 2
 
 429.
@@ -4205,7 +4205,7 @@ ab \to de
 b \to e
 a \to d
 meet-irreducibles: c ad be ce abde acde bcde 
-max antichain: cadbe
+max antichain: c ad be 
 dimension: 3
 
 430.
@@ -4216,7 +4216,7 @@ ab \to cde
 b \to e
 a \to d
 meet-irreducibles: c ad bce ade bde acde bcde 
-max antichain: cadbde
+max antichain: c ad bde 
 dimension: 3
 
 431.
@@ -4226,7 +4226,7 @@ bc \to de
 ac \to de
 ab \to cde
 meet-irreducibles: a b c ae be ce ade bde acde bcde 
-max antichain: abc
+max antichain: a b c 
 dimension: 3
 
 432.
@@ -4236,7 +4236,7 @@ c \to e
 ab \to cde
 a \to e
 meet-irreducibles: b ace bce ade bde acde bcde 
-max antichain: acebceadebde
+max antichain: ace bce ade bde 
 dimension: 4
 
 433.
@@ -4248,7 +4248,7 @@ ac \to de
 c \to e
 ab \to cde
 meet-irreducibles: a b d ae be ce ade bde acde bcde 
-max antichain: abdce
+max antichain: a b d ce 
 dimension: 4
 
 434.
@@ -4259,7 +4259,7 @@ bc \to de
 c \to e
 ab \to cde
 meet-irreducibles: a b d ae be ace bde acde bcde 
-max antichain: abd
+max antichain: a b d 
 dimension: 3
 
 435.
@@ -4268,7 +4268,7 @@ d \to e
 bc \to e
 a \to de
 meet-irreducibles: b c bce abde acde bcde 
-max antichain: bceabdeacde
+max antichain: bce abde acde 
 dimension: 3
 
 436.
@@ -4279,7 +4279,7 @@ ac \to de
 ab \to de
 a \to e
 meet-irreducibles: b c ae be ce abde acde bcde 
-max antichain: bcae
+max antichain: b c ae 
 dimension: 3
 
 437.
@@ -4290,7 +4290,7 @@ ac \to de
 ab \to cde
 a \to e
 meet-irreducibles: b c ae bce ade bde acde bcde 
-max antichain: bcae
+max antichain: b c ae 
 dimension: 3
 
 438.
@@ -4299,7 +4299,7 @@ ad \to e
 c \to de
 ab \to cde
 meet-irreducibles: a bd ae be ade bde acde bcde 
-max antichain: abdbe
+max antichain: a bd be 
 dimension: 3
 
 439.
@@ -4308,7 +4308,7 @@ bc \to de
 b \to e
 a \to de
 meet-irreducibles: cd be ce abde acde bcde 
-max antichain: cdbece
+max antichain: cd be ce 
 dimension: 3
 
 440.
@@ -4317,7 +4317,7 @@ ab \to cde
 b \to e
 a \to de
 meet-irreducibles: cd bce ade bde acde bcde 
-max antichain: cdbceadebde
+max antichain: cd bce ade bde 
 dimension: 4
 
 441.
@@ -4328,7 +4328,7 @@ ab \to cde
 b \to e
 a \to e
 meet-irreducibles: cd ae be ce ade bde acde bcde 
-max antichain: cdaebece
+max antichain: cd ae be ce 
 dimension: 4
 
 442.
@@ -4339,7 +4339,7 @@ ab \to cde
 b \to e
 a \to e
 meet-irreducibles: cd ae be ace bde acde bcde 
-max antichain: cdaebe
+max antichain: cd ae be 
 dimension: 3
 
 443.
@@ -4351,7 +4351,7 @@ ac \to de
 c \to e
 ab \to cde
 meet-irreducibles: a b ad be ce ade bde acde bcde 
-max antichain: abce
+max antichain: a b ce 
 dimension: 3
 
 444.
@@ -4362,7 +4362,7 @@ c \to e
 ab \to cde
 a \to e
 meet-irreducibles: b d ae bce ade bde acde bcde 
-max antichain: bdae
+max antichain: b d ae 
 dimension: 3
 
 445.
@@ -4374,7 +4374,7 @@ ac \to de
 c \to e
 ab \to cde
 meet-irreducibles: a b ad bd ce ade bde acde bcde 
-max antichain: abce
+max antichain: a b ce 
 dimension: 3
 
 446.
@@ -4385,7 +4385,7 @@ ab \to cde
 b \to e
 a \to d
 meet-irreducibles: ad cd be ce ade bde acde bcde 
-max antichain: adcdbece
+max antichain: ad cd be ce 
 dimension: 4
 
 447.
@@ -4394,7 +4394,7 @@ c \to e
 ab \to cde
 a \to de
 meet-irreducibles: bd bce ade bde acde bcde 
-max antichain: bdbceade
+max antichain: bd bce ade 
 dimension: 3
 
 448.
@@ -4405,7 +4405,7 @@ c \to e
 ab \to cde
 a \to e
 meet-irreducibles: bd ae be ce ade bde acde bcde 
-max antichain: bdaebece
+max antichain: bd ae be ce 
 dimension: 4
 
 449.
@@ -4416,7 +4416,7 @@ c \to e
 ab \to cde
 a \to e
 meet-irreducibles: bd ae be ace bde acde bcde 
-max antichain: bdaebe
+max antichain: bd ae be 
 dimension: 3
 
 450.
@@ -4425,7 +4425,7 @@ ab \to cde
 b \to e
 a \to cd
 meet-irreducibles: acd bce bde acde bcde 
-max antichain: acdbcebde
+max antichain: acd bce bde 
 dimension: 3
 
 451.
@@ -4436,7 +4436,7 @@ c \to e
 ab \to cde
 a \to d
 meet-irreducibles: b ad bce ade bde acde bcde 
-max antichain: adbcebde
+max antichain: ad bce bde 
 dimension: 3
 
 452.
@@ -4448,7 +4448,7 @@ bc \to de
 ab \to cde
 b \to e
 meet-irreducibles: a ac d be ace bde acde bcde 
-max antichain: adbe
+max antichain: a d be 
 dimension: 3
 
 453.
@@ -4458,7 +4458,7 @@ bd \to e
 bc \to de
 a \to de
 meet-irreducibles: b c d be ce abde acde bcde 
-max antichain: bcd
+max antichain: b c d 
 dimension: 3
 
 454.
@@ -4469,7 +4469,7 @@ bc \to e
 ab \to cde
 a \to de
 meet-irreducibles: b c d bce ade bde acde bcde 
-max antichain: bcd
+max antichain: b c d 
 dimension: 3
 
 455.
@@ -4481,7 +4481,7 @@ ac \to de
 ab \to cde
 a \to e
 meet-irreducibles: b c d ae be ce ade bde acde bcde 
-max antichain: bcdae
+max antichain: b c d ae 
 dimension: 4
 
 456.
@@ -4493,7 +4493,7 @@ bc \to de
 ab \to cde
 a \to e
 meet-irreducibles: b c d ae be ace bde acde bcde 
-max antichain: bcdae
+max antichain: b c d ae 
 dimension: 4
 
 457.
@@ -4504,7 +4504,7 @@ c \to e
 ab \to cde
 a \to d
 meet-irreducibles: ad bd be ce ade bde acde bcde 
-max antichain: adbdbece
+max antichain: ad bd be ce 
 dimension: 4
 
 458.
@@ -4514,7 +4514,7 @@ cd \to e
 bc \to de
 a \to de
 meet-irreducibles: b c bd ce abde acde bcde 
-max antichain: abdeacdebcde
+max antichain: abde acde bcde 
 dimension: 3
 
 459.
@@ -4524,7 +4524,7 @@ bc \to de
 ab \to cde
 a \to de
 meet-irreducibles: c bd be ce ade bde acde bcde 
-max antichain: cbdbeade
+max antichain: c bd be ade 
 dimension: 4
 
 460.
@@ -4533,7 +4533,7 @@ cd \to e
 bc \to e
 a \to cde
 meet-irreducibles: c bd bce bde acde bcde 
-max antichain: bdbceacde
+max antichain: bd bce acde 
 dimension: 3
 
 461.
@@ -4543,7 +4543,7 @@ bc \to de
 ab \to cde
 a \to ce
 meet-irreducibles: c bd be ace bde acde bcde 
-max antichain: cbdbe
+max antichain: c bd be 
 dimension: 3
 
 462.
@@ -4555,7 +4555,7 @@ ac \to de
 ab \to cde
 a \to d
 meet-irreducibles: b c ad be ce ade bde acde bcde 
-max antichain: bcad
+max antichain: b c ad 
 dimension: 3
 
 463.
@@ -4566,7 +4566,7 @@ c \to e
 ab \to de
 b \to e
 meet-irreducibles: a ae bce abde acde bcde 
-max antichain: bceabdeacde
+max antichain: bce abde acde 
 dimension: 3
 
 464.
@@ -4578,7 +4578,7 @@ ac \to de
 ab \to cde
 a \to d
 meet-irreducibles: b c ad bd ce ade bde acde bcde 
-max antichain: bcad
+max antichain: b c ad 
 dimension: 3
 
 465.
@@ -4589,7 +4589,7 @@ d \to e
 bc \to de
 ab \to cde
 meet-irreducibles: a b ac be ace bde acde bcde 
-max antichain: ab
+max antichain: a b 
 dimension: 2
 
 466.
@@ -4599,7 +4599,7 @@ ac \to de
 ab \to cde
 b \to e
 meet-irreducibles: a c ae bce ade bde acde bcde 
-max antichain: acbde
+max antichain: a c bde 
 dimension: 3
 
 467.
@@ -4609,7 +4609,7 @@ bc \to de
 ab \to cde
 a \to de
 meet-irreducibles: b cd be ce ade bde acde bcde 
-max antichain: bcdceade
+max antichain: b cd ce ade 
 dimension: 4
 
 468.
@@ -4618,7 +4618,7 @@ bd \to e
 bc \to e
 a \to cde
 meet-irreducibles: b cd bce bde acde bcde 
-max antichain: cdbcebde
+max antichain: cd bce bde 
 dimension: 3
 
 469.
@@ -4628,7 +4628,7 @@ bc \to de
 ab \to cde
 a \to ce
 meet-irreducibles: b cd be ace bde acde bcde 
-max antichain: bcdace
+max antichain: b cd ace 
 dimension: 3
 
 470.
@@ -4639,7 +4639,7 @@ ab \to de
 b \to e
 a \to e
 meet-irreducibles: ace bce abde acde bcde 
-max antichain: acebceabde
+max antichain: ace bce abde 
 dimension: 3
 
 471.
@@ -4649,7 +4649,7 @@ bc \to de
 ab \to cde
 a \to ce
 meet-irreducibles: b bd cd ace bde acde bcde 
-max antichain: bcdace
+max antichain: b cd ace 
 dimension: 3
 
 472.
@@ -4657,7 +4657,7 @@ id: 4111799573
 bc \to de
 a \to cde
 meet-irreducibles: bd cd be ce bde acde bcde 
-max antichain: bdcdbece
+max antichain: bd cd be ce 
 dimension: 4
 
 473.
@@ -4665,7 +4665,7 @@ id: 3579122965
 bc \to e
 a \to bcde
 meet-irreducibles: bd cd bce bde cde bcde 
-max antichain: bdcdbce
+max antichain: bd cd bce 
 dimension: 3
 
 474.
@@ -4676,7 +4676,7 @@ c \to e
 ab \to cde
 b \to e
 meet-irreducibles: a d ae bce ade bde acde bcde 
-max antichain: adbce
+max antichain: a d bce 
 dimension: 3
 
 475.
@@ -4687,7 +4687,7 @@ ab \to de
 b \to e
 a \to e
 meet-irreducibles: c ae bce abde acde bcde 
-max antichain: bceabdeacde
+max antichain: bce abde acde 
 dimension: 3
 
 476.
@@ -4698,7 +4698,7 @@ ab \to cde
 b \to e
 a \to c
 meet-irreducibles: ac cd be ace bde acde bcde 
-max antichain: accdbe
+max antichain: ac cd be 
 dimension: 3
 
 477.
@@ -4710,7 +4710,7 @@ c \to e
 ab \to de
 b \to e
 meet-irreducibles: a ad be ce abde acde bcde 
-max antichain: abece
+max antichain: a be ce 
 dimension: 3
 
 478.
@@ -4721,7 +4721,7 @@ c \to e
 ab \to cde
 b \to e
 meet-irreducibles: a ad bce ade bde acde bcde 
-max antichain: abcebde
+max antichain: a bce bde 
 dimension: 3
 
 479.
@@ -4732,7 +4732,7 @@ ab \to cde
 b \to d
 a \to c
 meet-irreducibles: ac bd cd ace bde acde bcde 
-max antichain: acbdcd
+max antichain: ac bd cd 
 dimension: 3
 
 480.
@@ -4743,7 +4743,7 @@ ab \to de
 b \to e
 a \to e
 meet-irreducibles: d ae bce abde acde bcde 
-max antichain: daebce
+max antichain: d ae bce 
 dimension: 3
 
 481.
@@ -4753,7 +4753,7 @@ ab \to cde
 b \to e
 a \to e
 meet-irreducibles: d ace bce ade bde acde bcde 
-max antichain: acebceadebde
+max antichain: ace bce ade bde 
 dimension: 4
 
 482.
@@ -4765,7 +4765,7 @@ ab \to de
 b \to e
 a \to d
 meet-irreducibles: ad be ce abde acde bcde 
-max antichain: adbece
+max antichain: ad be ce 
 dimension: 3
 
 483.
@@ -4776,7 +4776,7 @@ ab \to cde
 b \to e
 a \to d
 meet-irreducibles: ad bce ade bde acde bcde 
-max antichain: adbcebde
+max antichain: ad bce bde 
 dimension: 3
 
 484.
@@ -4786,7 +4786,7 @@ bc \to de
 b \to e
 a \to de
 meet-irreducibles: c d be ce abde acde bcde 
-max antichain: cdbe
+max antichain: c d be 
 dimension: 3
 
 485.
@@ -4796,7 +4796,7 @@ ab \to cde
 b \to e
 a \to de
 meet-irreducibles: c d bce ade bde acde bcde 
-max antichain: cadebde
+max antichain: c ade bde 
 dimension: 3
 
 486.
@@ -4808,7 +4808,7 @@ ab \to cde
 b \to e
 a \to e
 meet-irreducibles: c d ae be ce ade bde acde bcde 
-max antichain: cdaebe
+max antichain: c d ae be 
 dimension: 4
 
 487.
@@ -4820,7 +4820,7 @@ ab \to cde
 b \to e
 a \to e
 meet-irreducibles: c d ae be ace bde acde bcde 
-max antichain: cdaebe
+max antichain: c d ae be 
 dimension: 4
 
 488.
@@ -4831,7 +4831,7 @@ ac \to de
 c \to e
 ab \to cde
 meet-irreducibles: a b ae be ce ade bde acde bcde 
-max antichain: abce
+max antichain: a b ce 
 dimension: 3
 
 489.
@@ -4842,7 +4842,7 @@ bc \to de
 c \to e
 ab \to cde
 meet-irreducibles: a b ae be ace bde acde bcde 
-max antichain: ab
+max antichain: a b 
 dimension: 2
 
 490.
@@ -4852,7 +4852,7 @@ bc \to de
 b \to d
 a \to de
 meet-irreducibles: c bd ce abde acde bcde 
-max antichain: abdeacdebcde
+max antichain: abde acde bcde 
 dimension: 3
 
 491.
@@ -4864,7 +4864,7 @@ ab \to cde
 b \to e
 a \to d
 meet-irreducibles: c ad be ce ade bde acde bcde 
-max antichain: cadbe
+max antichain: c ad be 
 dimension: 3
 
 492.
@@ -4875,7 +4875,7 @@ c \to e
 ab \to cde
 a \to e
 meet-irreducibles: b ae bce ade bde acde bcde 
-max antichain: aebcebde
+max antichain: ae bce bde 
 dimension: 3
 
 493.
@@ -4887,7 +4887,7 @@ ab \to cde
 b \to d
 a \to d
 meet-irreducibles: c ad bd ce ade bde acde bcde 
-max antichain: cadbd
+max antichain: c ad bd 
 dimension: 3
 
 494.
@@ -4897,7 +4897,7 @@ ad \to e
 c \to de
 ab \to cde
 meet-irreducibles: a b d ae be ade bde acde bcde 
-max antichain: abd
+max antichain: a b d 
 dimension: 3
 
 495.
@@ -4909,7 +4909,7 @@ bc \to de
 ab \to cde
 b \to e
 meet-irreducibles: a ac be ace bde acde bcde 
-max antichain: abe
+max antichain: a be 
 dimension: 2
 
 496.
@@ -4918,7 +4918,7 @@ d \to e
 bc \to de
 a \to de
 meet-irreducibles: b c be ce abde acde bcde 
-max antichain: abdeacdebcde
+max antichain: abde acde bcde 
 dimension: 3
 
 497.
@@ -4928,7 +4928,7 @@ bc \to e
 ab \to cde
 a \to de
 meet-irreducibles: b c bce ade bde acde bcde 
-max antichain: bcade
+max antichain: b c ade 
 dimension: 3
 
 498.
@@ -4939,7 +4939,7 @@ ac \to de
 ab \to cde
 a \to e
 meet-irreducibles: b c ae be ce ade bde acde bcde 
-max antichain: bcae
+max antichain: b c ae 
 dimension: 3
 
 499.
@@ -4947,7 +4947,7 @@ id: 4279308561
 b \to de
 a \to de
 meet-irreducibles: cd ce abde acde bcde 
-max antichain: cdceabde
+max antichain: cd ce abde 
 dimension: 3
 
 500.
@@ -4957,7 +4957,7 @@ ab \to cde
 b \to e
 a \to de
 meet-irreducibles: cd be ce ade bde acde bcde 
-max antichain: cdbeceade
+max antichain: cd be ce ade 
 dimension: 4
 
 501.
@@ -4965,7 +4965,7 @@ id: 4115992849
 b \to e
 a \to cde
 meet-irreducibles: cd bce bde acde bcde 
-max antichain: cdbcebde
+max antichain: cd bce bde 
 dimension: 3
 
 502.
@@ -4975,7 +4975,7 @@ ab \to cde
 b \to e
 a \to ce
 meet-irreducibles: cd be ace bde acde bcde 
-max antichain: cdbeace
+max antichain: cd be ace 
 dimension: 3
 
 503.
@@ -4985,7 +4985,7 @@ bd \to e
 c \to de
 ab \to cde
 meet-irreducibles: a b ad be ade bde acde bcde 
-max antichain: ab
+max antichain: a b 
 dimension: 2
 
 504.
@@ -4995,7 +4995,7 @@ ab \to cde
 b \to d
 a \to ce
 meet-irreducibles: bd cd ace bde acde bcde 
-max antichain: bdcdace
+max antichain: bd cd ace 
 dimension: 3
 
 505.
@@ -5005,7 +5005,7 @@ c \to e
 ab \to cde
 a \to de
 meet-irreducibles: b d bce ade bde acde bcde 
-max antichain: bceadebde
+max antichain: bce ade bde 
 dimension: 3
 
 506.
@@ -5017,7 +5017,7 @@ c \to e
 ab \to cde
 a \to e
 meet-irreducibles: b d ae be ce ade bde acde bcde 
-max antichain: bdaece
+max antichain: b d ae ce 
 dimension: 4
 
 507.
@@ -5029,7 +5029,7 @@ c \to e
 ab \to cde
 a \to e
 meet-irreducibles: b d ae be ace bde acde bcde 
-max antichain: bdae
+max antichain: b d ae 
 dimension: 3
 
 508.
@@ -5039,7 +5039,7 @@ c \to e
 ab \to cde
 a \to de
 meet-irreducibles: bd be ce ade bde acde bcde 
-max antichain: bdbeceade
+max antichain: bd be ce ade 
 dimension: 4
 
 509.
@@ -5047,7 +5047,7 @@ id: 4115989765
 c \to e
 a \to cde
 meet-irreducibles: bd bce bde acde bcde 
-max antichain: bdbceacde
+max antichain: bd bce acde 
 dimension: 3
 
 510.
@@ -5057,7 +5057,7 @@ c \to e
 ab \to cde
 a \to ce
 meet-irreducibles: bd be ace bde acde bcde 
-max antichain: bdbeace
+max antichain: bd be ace 
 dimension: 3
 
 511.
@@ -5066,7 +5066,7 @@ c \to de
 ab \to cde
 a \to e
 meet-irreducibles: bd ae be ade bde acde bcde 
-max antichain: bdaebe
+max antichain: bd ae be 
 dimension: 3
 
 512.
@@ -5078,7 +5078,7 @@ c \to e
 ab \to cde
 a \to d
 meet-irreducibles: b ad be ce ade bde acde bcde 
-max antichain: badce
+max antichain: b ad ce 
 dimension: 3
 
 513.
@@ -5089,7 +5089,7 @@ bc \to de
 ab \to cde
 a \to de
 meet-irreducibles: b c d be ce ade bde acde bcde 
-max antichain: bcd
+max antichain: b c d 
 dimension: 3
 
 514.
@@ -5099,7 +5099,7 @@ bd \to e
 bc \to e
 a \to cde
 meet-irreducibles: b c d bce bde acde bcde 
-max antichain: bcd
+max antichain: b c d 
 dimension: 3
 
 515.
@@ -5110,7 +5110,7 @@ bc \to de
 ab \to cde
 a \to ce
 meet-irreducibles: b c d be ace bde acde bcde 
-max antichain: bcd
+max antichain: b c d 
 dimension: 3
 
 516.
@@ -5122,7 +5122,7 @@ c \to e
 ab \to cde
 a \to d
 meet-irreducibles: b ad bd ce ade bde acde bcde 
-max antichain: badce
+max antichain: b ad ce 
 dimension: 3
 
 517.
@@ -5133,7 +5133,7 @@ bc \to de
 ab \to cde
 a \to de
 meet-irreducibles: b c bd ce ade bde acde bcde 
-max antichain: bcade
+max antichain: b c ade 
 dimension: 3
 
 518.
@@ -5144,7 +5144,7 @@ bc \to de
 ab \to cde
 a \to ce
 meet-irreducibles: b c bd ace bde acde bcde 
-max antichain: bc
+max antichain: b c 
 dimension: 2
 
 519.
@@ -5153,7 +5153,7 @@ cd \to e
 bc \to de
 a \to cde
 meet-irreducibles: c bd be ce bde acde bcde 
-max antichain: cbdbe
+max antichain: c bd be 
 dimension: 3
 
 520.
@@ -5165,7 +5165,7 @@ ab \to cde
 b \to e
 a \to c
 meet-irreducibles: ac d be ace bde acde bcde 
-max antichain: acdbe
+max antichain: ac d be 
 dimension: 3
 
 521.
@@ -5176,7 +5176,7 @@ c \to e
 ab \to cde
 b \to e
 meet-irreducibles: a ae bce ade bde acde bcde 
-max antichain: abcebde
+max antichain: a bce bde 
 dimension: 3
 
 522.
@@ -5188,7 +5188,7 @@ ab \to cde
 b \to d
 a \to c
 meet-irreducibles: ac bd ace bde acde bcde 
-max antichain: acbd
+max antichain: ac bd 
 dimension: 2
 
 523.
@@ -5197,7 +5197,7 @@ bd \to e
 bc \to de
 a \to cde
 meet-irreducibles: b cd be ce bde acde bcde 
-max antichain: bcdce
+max antichain: b cd ce 
 dimension: 3
 
 524.
@@ -5206,7 +5206,7 @@ bd \to e
 bc \to e
 a \to bcde
 meet-irreducibles: b cd bce bde cde bcde 
-max antichain: cdbcebde
+max antichain: cd bce bde 
 dimension: 3
 
 525.
@@ -5218,7 +5218,7 @@ ab \to de
 b \to e
 a \to e
 meet-irreducibles: ae bce abde acde bcde 
-max antichain: bceabdeacde
+max antichain: bce abde acde 
 dimension: 3
 
 526.
@@ -5229,7 +5229,7 @@ ab \to cde
 b \to e
 a \to e
 meet-irreducibles: ace bce ade bde acde bcde 
-max antichain: acebceadebde
+max antichain: ace bce ade bde 
 dimension: 4
 
 527.
@@ -5237,7 +5237,7 @@ id: 3574928661
 bc \to de
 a \to bcde
 meet-irreducibles: bd cd be ce bde cde bcde 
-max antichain: bdcdbece
+max antichain: bd cd be ce 
 dimension: 4
 
 528.
@@ -5248,7 +5248,7 @@ c \to e
 ab \to cde
 b \to e
 meet-irreducibles: a d ae be ace bde acde bcde 
-max antichain: adbe
+max antichain: a d be 
 dimension: 3
 
 529.
@@ -5259,7 +5259,7 @@ bc \to de
 ab \to cde
 a \to c
 meet-irreducibles: b ac be ace bde acde bcde 
-max antichain: bac
+max antichain: b ac 
 dimension: 2
 
 530.
@@ -5268,7 +5268,7 @@ d \to e
 b \to e
 a \to de
 meet-irreducibles: c bce abde acde bcde 
-max antichain: bceabdeacde
+max antichain: bce abde acde 
 dimension: 3
 
 531.
@@ -5280,7 +5280,7 @@ ab \to de
 b \to e
 a \to e
 meet-irreducibles: c ae be ce abde acde bcde 
-max antichain: caebe
+max antichain: c ae be 
 dimension: 3
 
 532.
@@ -5291,7 +5291,7 @@ ab \to cde
 b \to e
 a \to e
 meet-irreducibles: c ae bce ade bde acde bcde 
-max antichain: caebde
+max antichain: c ae bde 
 dimension: 3
 
 533.
@@ -5303,7 +5303,7 @@ c \to e
 ab \to cde
 b \to e
 meet-irreducibles: a ad be ce ade bde acde bcde 
-max antichain: abece
+max antichain: a be ce 
 dimension: 3
 
 534.
@@ -5312,7 +5312,7 @@ c \to e
 b \to e
 a \to de
 meet-irreducibles: d bce abde acde bcde 
-max antichain: bceabdeacde
+max antichain: bce abde acde 
 dimension: 3
 
 535.
@@ -5324,7 +5324,7 @@ ab \to de
 b \to e
 a \to e
 meet-irreducibles: d ae be ce abde acde bcde 
-max antichain: daebece
+max antichain: d ae be ce 
 dimension: 4
 
 536.
@@ -5335,7 +5335,7 @@ ab \to cde
 b \to e
 a \to e
 meet-irreducibles: d ae bce ade bde acde bcde 
-max antichain: daebce
+max antichain: d ae bce 
 dimension: 3
 
 537.
@@ -5345,7 +5345,7 @@ c \to e
 b \to d
 a \to de
 meet-irreducibles: bd ce abde acde bcde 
-max antichain: abdeacdebcde
+max antichain: abde acde bcde 
 dimension: 3
 
 538.
@@ -5357,7 +5357,7 @@ ab \to cde
 b \to e
 a \to d
 meet-irreducibles: ad be ce ade bde acde bcde 
-max antichain: adbece
+max antichain: ad be ce 
 dimension: 3
 
 539.
@@ -5366,7 +5366,7 @@ cd \to e
 b \to de
 a \to de
 meet-irreducibles: c d ce abde acde bcde 
-max antichain: abdeacdebcde
+max antichain: abde acde bcde 
 dimension: 3
 
 540.
@@ -5377,7 +5377,7 @@ ab \to cde
 b \to e
 a \to de
 meet-irreducibles: c d be ce ade bde acde bcde 
-max antichain: cdbe
+max antichain: c d be 
 dimension: 3
 
 541.
@@ -5386,7 +5386,7 @@ cd \to e
 b \to e
 a \to cde
 meet-irreducibles: c d bce bde acde bcde 
-max antichain: bcebdeacde
+max antichain: bce bde acde 
 dimension: 3
 
 542.
@@ -5397,7 +5397,7 @@ ab \to cde
 b \to e
 a \to ce
 meet-irreducibles: c d be ace bde acde bcde 
-max antichain: cdbe
+max antichain: c d be 
 dimension: 3
 
 543.
@@ -5406,7 +5406,7 @@ d \to e
 c \to de
 ab \to cde
 meet-irreducibles: a b ae be ade bde acde bcde 
-max antichain: ab
+max antichain: a b 
 dimension: 2
 
 544.
@@ -5418,7 +5418,7 @@ ab \to cde
 b \to d
 a \to d
 meet-irreducibles: ad bd ce ade bde acde bcde 
-max antichain: adbdce
+max antichain: ad bd ce 
 dimension: 3
 
 545.
@@ -5429,7 +5429,7 @@ ab \to cde
 b \to d
 a \to de
 meet-irreducibles: c bd ce ade bde acde bcde 
-max antichain: cbdade
+max antichain: c bd ade 
 dimension: 3
 
 546.
@@ -5440,7 +5440,7 @@ ab \to cde
 b \to d
 a \to ce
 meet-irreducibles: c bd ace bde acde bcde 
-max antichain: cbd
+max antichain: c bd 
 dimension: 2
 
 547.
@@ -5450,7 +5450,7 @@ c \to e
 ab \to cde
 a \to de
 meet-irreducibles: b bce ade bde acde bcde 
-max antichain: bceadebde
+max antichain: bce ade bde 
 dimension: 3
 
 548.
@@ -5462,7 +5462,7 @@ c \to e
 ab \to cde
 a \to e
 meet-irreducibles: b ae be ce ade bde acde bcde 
-max antichain: baece
+max antichain: b ae ce 
 dimension: 3
 
 549.
@@ -5474,7 +5474,7 @@ c \to e
 ab \to cde
 a \to e
 meet-irreducibles: b ae be ace bde acde bcde 
-max antichain: bae
+max antichain: b ae 
 dimension: 2
 
 550.
@@ -5484,7 +5484,7 @@ bc \to de
 ab \to cde
 a \to de
 meet-irreducibles: b c be ce ade bde acde bcde 
-max antichain: bcade
+max antichain: b c ade 
 dimension: 3
 
 551.
@@ -5494,7 +5494,7 @@ bc \to de
 ab \to cde
 a \to ce
 meet-irreducibles: b c be ace bde acde bcde 
-max antichain: bc
+max antichain: b c 
 dimension: 2
 
 552.
@@ -5503,7 +5503,7 @@ ab \to cde
 b \to de
 a \to de
 meet-irreducibles: cd ce ade bde acde bcde 
-max antichain: cdceadebde
+max antichain: cd ce ade bde 
 dimension: 4
 
 553.
@@ -5512,7 +5512,7 @@ ab \to cde
 b \to de
 a \to ce
 meet-irreducibles: cd ace bde acde bcde 
-max antichain: cdacebde
+max antichain: cd ace bde 
 dimension: 3
 
 554.
@@ -5521,7 +5521,7 @@ bc \to de
 b \to e
 a \to cde
 meet-irreducibles: cd be ce bde acde bcde 
-max antichain: cdbece
+max antichain: cd be ce 
 dimension: 3
 
 555.
@@ -5529,7 +5529,7 @@ id: 3579121937
 b \to e
 a \to bcde
 meet-irreducibles: cd bce bde cde bcde 
-max antichain: cdbcebde
+max antichain: cd bce bde 
 dimension: 3
 
 556.
@@ -5540,7 +5540,7 @@ c \to e
 ab \to cde
 a \to de
 meet-irreducibles: b d be ce ade bde acde bcde 
-max antichain: bdce
+max antichain: b d ce 
 dimension: 3
 
 557.
@@ -5549,7 +5549,7 @@ bd \to e
 c \to e
 a \to cde
 meet-irreducibles: b d bce bde acde bcde 
-max antichain: bcebdeacde
+max antichain: bce bde acde 
 dimension: 3
 
 558.
@@ -5560,7 +5560,7 @@ c \to e
 ab \to cde
 a \to ce
 meet-irreducibles: b d be ace bde acde bcde 
-max antichain: bdace
+max antichain: b d ace 
 dimension: 3
 
 559.
@@ -5570,7 +5570,7 @@ c \to de
 ab \to cde
 a \to e
 meet-irreducibles: b d ae be ade bde acde bcde 
-max antichain: bdae
+max antichain: b d ae 
 dimension: 3
 
 560.
@@ -5582,7 +5582,7 @@ ab \to cde
 b \to e
 a \to c
 meet-irreducibles: ac be ace bde acde bcde 
-max antichain: acbe
+max antichain: ac be 
 dimension: 2
 
 561.
@@ -5593,7 +5593,7 @@ c \to e
 ab \to cde
 a \to de
 meet-irreducibles: b bd ce ade bde acde bcde 
-max antichain: bceade
+max antichain: b ce ade 
 dimension: 3
 
 562.
@@ -5604,7 +5604,7 @@ c \to e
 ab \to cde
 a \to ce
 meet-irreducibles: b bd ace bde acde bcde 
-max antichain: bace
+max antichain: b ace 
 dimension: 2
 
 563.
@@ -5613,7 +5613,7 @@ c \to de
 ab \to cde
 a \to de
 meet-irreducibles: bd be ade bde acde bcde 
-max antichain: bdbeade
+max antichain: bd be ade 
 dimension: 3
 
 564.
@@ -5622,7 +5622,7 @@ bc \to de
 c \to e
 a \to cde
 meet-irreducibles: bd be ce bde acde bcde 
-max antichain: bdbece
+max antichain: bd be ce 
 dimension: 3
 
 565.
@@ -5632,7 +5632,7 @@ c \to de
 ab \to cde
 a \to d
 meet-irreducibles: b ad be ade bde acde bcde 
-max antichain: bad
+max antichain: b ad 
 dimension: 2
 
 566.
@@ -5642,7 +5642,7 @@ bd \to e
 bc \to de
 a \to cde
 meet-irreducibles: b c d be ce bde acde bcde 
-max antichain: bcd
+max antichain: b c d 
 dimension: 3
 
 567.
@@ -5652,7 +5652,7 @@ bd \to e
 bc \to e
 a \to bcde
 meet-irreducibles: b c d bce bde cde bcde 
-max antichain: bcd
+max antichain: b c d 
 dimension: 3
 
 568.
@@ -5662,7 +5662,7 @@ cd \to e
 bc \to de
 a \to cde
 meet-irreducibles: b c bd ce bde acde bcde 
-max antichain: bc
+max antichain: b c 
 dimension: 2
 
 569.
@@ -5671,7 +5671,7 @@ bd \to e
 bc \to de
 a \to bcde
 meet-irreducibles: b cd be ce bde cde bcde 
-max antichain: bcdce
+max antichain: b cd ce 
 dimension: 3
 
 570.
@@ -5681,7 +5681,7 @@ c \to e
 b \to e
 a \to de
 meet-irreducibles: bce abde acde bcde 
-max antichain: bceabdeacde
+max antichain: bce abde acde 
 dimension: 3
 
 571.
@@ -5694,7 +5694,7 @@ ab \to de
 b \to e
 a \to e
 meet-irreducibles: ae be ce abde acde bcde 
-max antichain: aebece
+max antichain: ae be ce 
 dimension: 3
 
 572.
@@ -5706,7 +5706,7 @@ ab \to cde
 b \to e
 a \to e
 meet-irreducibles: ae bce ade bde acde bcde 
-max antichain: aebcebde
+max antichain: ae bce bde 
 dimension: 3
 
 573.
@@ -5716,7 +5716,7 @@ bc \to de
 b \to e
 a \to de
 meet-irreducibles: c be ce abde acde bcde 
-max antichain: abdeacdebcde
+max antichain: abde acde bcde 
 dimension: 3
 
 574.
@@ -5726,7 +5726,7 @@ ab \to cde
 b \to e
 a \to de
 meet-irreducibles: c bce ade bde acde bcde 
-max antichain: cadebde
+max antichain: c ade bde 
 dimension: 3
 
 575.
@@ -5738,7 +5738,7 @@ ab \to cde
 b \to e
 a \to e
 meet-irreducibles: c ae be ce ade bde acde bcde 
-max antichain: caebe
+max antichain: c ae be 
 dimension: 3
 
 576.
@@ -5748,7 +5748,7 @@ c \to e
 b \to e
 a \to de
 meet-irreducibles: d be ce abde acde bcde 
-max antichain: dbece
+max antichain: d be ce 
 dimension: 3
 
 577.
@@ -5758,7 +5758,7 @@ ab \to cde
 b \to e
 a \to de
 meet-irreducibles: d bce ade bde acde bcde 
-max antichain: bceadebde
+max antichain: bce ade bde 
 dimension: 3
 
 578.
@@ -5770,7 +5770,7 @@ ab \to cde
 b \to e
 a \to e
 meet-irreducibles: d ae be ce ade bde acde bcde 
-max antichain: daebece
+max antichain: d ae be ce 
 dimension: 4
 
 579.
@@ -5782,7 +5782,7 @@ ab \to cde
 b \to e
 a \to e
 meet-irreducibles: d ae be ace bde acde bcde 
-max antichain: daebe
+max antichain: d ae be 
 dimension: 3
 
 580.
@@ -5793,7 +5793,7 @@ ab \to cde
 b \to d
 a \to de
 meet-irreducibles: bd ce ade bde acde bcde 
-max antichain: bdceade
+max antichain: bd ce ade 
 dimension: 3
 
 581.
@@ -5804,7 +5804,7 @@ ab \to cde
 b \to d
 a \to ce
 meet-irreducibles: bd ace bde acde bcde 
-max antichain: bdace
+max antichain: bd ace 
 dimension: 2
 
 582.
@@ -5814,7 +5814,7 @@ ab \to cde
 b \to e
 a \to d
 meet-irreducibles: ad be ade bde acde bcde 
-max antichain: adbe
+max antichain: ad be 
 dimension: 2
 
 583.
@@ -5824,7 +5824,7 @@ ab \to cde
 b \to de
 a \to de
 meet-irreducibles: c d ce ade bde acde bcde 
-max antichain: cadebde
+max antichain: c ade bde 
 dimension: 3
 
 584.
@@ -5834,7 +5834,7 @@ ab \to cde
 b \to de
 a \to ce
 meet-irreducibles: c d ace bde acde bcde 
-max antichain: cd
+max antichain: c d 
 dimension: 2
 
 585.
@@ -5844,7 +5844,7 @@ bc \to de
 b \to e
 a \to cde
 meet-irreducibles: c d be ce bde acde bcde 
-max antichain: cdbe
+max antichain: c d be 
 dimension: 3
 
 586.
@@ -5853,7 +5853,7 @@ cd \to e
 b \to e
 a \to bcde
 meet-irreducibles: c d bce bde cde bcde 
-max antichain: bcebdecde
+max antichain: bce bde cde 
 dimension: 3
 
 587.
@@ -5863,7 +5863,7 @@ bc \to de
 b \to d
 a \to cde
 meet-irreducibles: c bd ce bde acde bcde 
-max antichain: cbd
+max antichain: c bd 
 dimension: 2
 
 588.
@@ -5874,7 +5874,7 @@ c \to e
 ab \to cde
 a \to de
 meet-irreducibles: b be ce ade bde acde bcde 
-max antichain: bceade
+max antichain: b ce ade 
 dimension: 3
 
 589.
@@ -5883,7 +5883,7 @@ d \to e
 c \to e
 a \to cde
 meet-irreducibles: b bce bde acde bcde 
-max antichain: bcebdeacde
+max antichain: bce bde acde 
 dimension: 3
 
 590.
@@ -5894,7 +5894,7 @@ c \to e
 ab \to cde
 a \to ce
 meet-irreducibles: b be ace bde acde bcde 
-max antichain: bace
+max antichain: b ace 
 dimension: 2
 
 591.
@@ -5904,7 +5904,7 @@ c \to de
 ab \to cde
 a \to e
 meet-irreducibles: b ae be ade bde acde bcde 
-max antichain: bae
+max antichain: b ae 
 dimension: 2
 
 592.
@@ -5913,7 +5913,7 @@ d \to e
 bc \to de
 a \to cde
 meet-irreducibles: b c be ce bde acde bcde 
-max antichain: bc
+max antichain: b c 
 dimension: 2
 
 593.
@@ -5921,7 +5921,7 @@ id: 4111536401
 b \to de
 a \to cde
 meet-irreducibles: cd ce bde acde bcde 
-max antichain: cdcebde
+max antichain: cd ce bde 
 dimension: 3
 
 594.
@@ -5930,7 +5930,7 @@ bc \to de
 b \to e
 a \to bcde
 meet-irreducibles: cd be ce bde cde bcde 
-max antichain: cdbece
+max antichain: cd be ce 
 dimension: 3
 
 595.
@@ -5940,7 +5940,7 @@ c \to de
 ab \to cde
 a \to de
 meet-irreducibles: b d be ade bde acde bcde 
-max antichain: bd
+max antichain: b d 
 dimension: 2
 
 596.
@@ -5950,7 +5950,7 @@ bc \to de
 c \to e
 a \to cde
 meet-irreducibles: b d be ce bde acde bcde 
-max antichain: bdce
+max antichain: b d ce 
 dimension: 3
 
 597.
@@ -5960,7 +5960,7 @@ bc \to de
 c \to e
 a \to cde
 meet-irreducibles: b bd ce bde acde bcde 
-max antichain: bce
+max antichain: b ce 
 dimension: 2
 
 598.
@@ -5968,7 +5968,7 @@ id: 4110746885
 c \to de
 a \to cde
 meet-irreducibles: bd be bde acde bcde 
-max antichain: bdbeacde
+max antichain: bd be acde 
 dimension: 3
 
 599.
@@ -5978,7 +5978,7 @@ bd \to e
 bc \to de
 a \to bcde
 meet-irreducibles: b c d be ce bde cde bcde 
-max antichain: bcd
+max antichain: b c d 
 dimension: 3
 
 600.
@@ -5988,7 +5988,7 @@ cd \to e
 bc \to de
 a \to bcde
 meet-irreducibles: b c bd ce bde cde bcde 
-max antichain: bc
+max antichain: b c 
 dimension: 2
 
 601.
@@ -5999,7 +5999,7 @@ c \to e
 b \to e
 a \to de
 meet-irreducibles: be ce abde acde bcde 
-max antichain: abdeacdebcde
+max antichain: abde acde bcde 
 dimension: 3
 
 602.
@@ -6010,7 +6010,7 @@ ab \to cde
 b \to e
 a \to de
 meet-irreducibles: bce ade bde acde bcde 
-max antichain: bceadebde
+max antichain: bce ade bde 
 dimension: 3
 
 603.
@@ -6023,7 +6023,7 @@ ab \to cde
 b \to e
 a \to e
 meet-irreducibles: ae be ce ade bde acde bcde 
-max antichain: aebece
+max antichain: ae be ce 
 dimension: 3
 
 604.
@@ -6036,7 +6036,7 @@ ab \to cde
 b \to e
 a \to e
 meet-irreducibles: ae be ace bde acde bcde 
-max antichain: aebe
+max antichain: ae be 
 dimension: 2
 
 605.
@@ -6045,7 +6045,7 @@ d \to e
 b \to de
 a \to de
 meet-irreducibles: c ce abde acde bcde 
-max antichain: abdeacdebcde
+max antichain: abde acde bcde 
 dimension: 3
 
 606.
@@ -6056,7 +6056,7 @@ ab \to cde
 b \to e
 a \to de
 meet-irreducibles: c be ce ade bde acde bcde 
-max antichain: cbeade
+max antichain: c be ade 
 dimension: 3
 
 607.
@@ -6067,7 +6067,7 @@ ab \to cde
 b \to e
 a \to ce
 meet-irreducibles: c be ace bde acde bcde 
-max antichain: cbe
+max antichain: c be 
 dimension: 2
 
 608.
@@ -6076,7 +6076,7 @@ c \to e
 b \to de
 a \to de
 meet-irreducibles: d ce abde acde bcde 
-max antichain: abdeacdebcde
+max antichain: abde acde bcde 
 dimension: 3
 
 609.
@@ -6087,7 +6087,7 @@ ab \to cde
 b \to e
 a \to de
 meet-irreducibles: d be ce ade bde acde bcde 
-max antichain: dbece
+max antichain: d be ce 
 dimension: 3
 
 610.
@@ -6096,7 +6096,7 @@ c \to e
 b \to e
 a \to cde
 meet-irreducibles: d bce bde acde bcde 
-max antichain: bcebdeacde
+max antichain: bce bde acde 
 dimension: 3
 
 611.
@@ -6107,7 +6107,7 @@ ab \to cde
 b \to e
 a \to ce
 meet-irreducibles: d be ace bde acde bcde 
-max antichain: dbeace
+max antichain: d be ace 
 dimension: 3
 
 612.
@@ -6117,7 +6117,7 @@ ab \to cde
 b \to e
 a \to e
 meet-irreducibles: d ae be ade bde acde bcde 
-max antichain: daebe
+max antichain: d ae be 
 dimension: 3
 
 613.
@@ -6127,7 +6127,7 @@ c \to e
 b \to d
 a \to cde
 meet-irreducibles: bd ce bde acde bcde 
-max antichain: bdce
+max antichain: bd ce 
 dimension: 2
 
 614.
@@ -6136,7 +6136,7 @@ cd \to e
 b \to de
 a \to cde
 meet-irreducibles: c d ce bde acde bcde 
-max antichain: cd
+max antichain: c d 
 dimension: 2
 
 615.
@@ -6146,7 +6146,7 @@ bc \to de
 b \to e
 a \to bcde
 meet-irreducibles: c d be ce bde cde bcde 
-max antichain: cdbe
+max antichain: c d be 
 dimension: 3
 
 616.
@@ -6156,7 +6156,7 @@ bc \to de
 b \to d
 a \to bcde
 meet-irreducibles: c bd ce bde cde bcde 
-max antichain: cbd
+max antichain: c bd 
 dimension: 2
 
 617.
@@ -6166,7 +6166,7 @@ c \to de
 ab \to cde
 a \to de
 meet-irreducibles: b be ade bde acde bcde 
-max antichain: bade
+max antichain: b ade 
 dimension: 2
 
 618.
@@ -6176,7 +6176,7 @@ bc \to de
 c \to e
 a \to cde
 meet-irreducibles: b be ce bde acde bcde 
-max antichain: bce
+max antichain: b ce 
 dimension: 2
 
 619.
@@ -6185,7 +6185,7 @@ d \to e
 bc \to de
 a \to bcde
 meet-irreducibles: b c be ce bde cde bcde 
-max antichain: bc
+max antichain: b c 
 dimension: 2
 
 620.
@@ -6193,7 +6193,7 @@ id: 4044427537
 b \to cde
 a \to cde
 meet-irreducibles: cd ce de acde bcde 
-max antichain: cdcede
+max antichain: cd ce de 
 dimension: 3
 
 621.
@@ -6201,7 +6201,7 @@ id: 3574665489
 b \to de
 a \to bcde
 meet-irreducibles: cd ce bde cde bcde 
-max antichain: cdcebde
+max antichain: cd ce bde 
 dimension: 3
 
 622.
@@ -6210,7 +6210,7 @@ bd \to e
 c \to de
 a \to cde
 meet-irreducibles: b d be bde acde bcde 
-max antichain: bd
+max antichain: b d 
 dimension: 2
 
 623.
@@ -6220,7 +6220,7 @@ c \to e
 b \to de
 a \to de
 meet-irreducibles: ce abde acde bcde 
-max antichain: abdeacdebcde
+max antichain: abde acde bcde 
 dimension: 3
 
 624.
@@ -6232,7 +6232,7 @@ ab \to cde
 b \to e
 a \to de
 meet-irreducibles: be ce ade bde acde bcde 
-max antichain: beceade
+max antichain: be ce ade 
 dimension: 3
 
 625.
@@ -6242,7 +6242,7 @@ c \to e
 b \to e
 a \to cde
 meet-irreducibles: bce bde acde bcde 
-max antichain: bcebdeacde
+max antichain: bce bde acde 
 dimension: 3
 
 626.
@@ -6254,7 +6254,7 @@ ab \to cde
 b \to e
 a \to ce
 meet-irreducibles: be ace bde acde bcde 
-max antichain: beace
+max antichain: be ace 
 dimension: 2
 
 627.
@@ -6265,7 +6265,7 @@ ab \to cde
 b \to e
 a \to e
 meet-irreducibles: ae be ade bde acde bcde 
-max antichain: aebe
+max antichain: ae be 
 dimension: 2
 
 628.
@@ -6275,7 +6275,7 @@ ab \to cde
 b \to de
 a \to de
 meet-irreducibles: c ce ade bde acde bcde 
-max antichain: cadebde
+max antichain: c ade bde 
 dimension: 3
 
 629.
@@ -6285,7 +6285,7 @@ bc \to de
 b \to e
 a \to cde
 meet-irreducibles: c be ce bde acde bcde 
-max antichain: cbe
+max antichain: c be 
 dimension: 2
 
 630.
@@ -6294,7 +6294,7 @@ c \to de
 b \to de
 a \to de
 meet-irreducibles: d e abde acde bcde 
-max antichain: abdeacdebcde
+max antichain: abde acde bcde 
 dimension: 3
 
 631.
@@ -6304,7 +6304,7 @@ ab \to cde
 b \to de
 a \to de
 meet-irreducibles: d ce ade bde acde bcde 
-max antichain: ceadebde
+max antichain: ce ade bde 
 dimension: 3
 
 632.
@@ -6314,7 +6314,7 @@ ab \to cde
 b \to de
 a \to ce
 meet-irreducibles: d ace bde acde bcde 
-max antichain: dace
+max antichain: d ace 
 dimension: 2
 
 633.
@@ -6324,7 +6324,7 @@ ab \to cde
 b \to e
 a \to de
 meet-irreducibles: d be ade bde acde bcde 
-max antichain: dbe
+max antichain: d be 
 dimension: 2
 
 634.
@@ -6334,7 +6334,7 @@ c \to e
 b \to e
 a \to cde
 meet-irreducibles: d be ce bde acde bcde 
-max antichain: dbece
+max antichain: d be ce 
 dimension: 3
 
 635.
@@ -6343,7 +6343,7 @@ c \to e
 b \to e
 a \to bcde
 meet-irreducibles: d bce bde cde bcde 
-max antichain: bcebdecde
+max antichain: bce bde cde 
 dimension: 3
 
 636.
@@ -6353,7 +6353,7 @@ c \to e
 b \to d
 a \to bcde
 meet-irreducibles: bd ce bde cde bcde 
-max antichain: bdce
+max antichain: bd ce 
 dimension: 2
 
 637.
@@ -6362,7 +6362,7 @@ cd \to e
 b \to cde
 a \to cde
 meet-irreducibles: c d ce de acde bcde 
-max antichain: cd
+max antichain: c d 
 dimension: 2
 
 638.
@@ -6371,7 +6371,7 @@ cd \to e
 b \to de
 a \to bcde
 meet-irreducibles: c d ce bde cde bcde 
-max antichain: cd
+max antichain: c d 
 dimension: 2
 
 639.
@@ -6380,7 +6380,7 @@ d \to e
 c \to de
 a \to cde
 meet-irreducibles: b be bde acde bcde 
-max antichain: bacde
+max antichain: b acde 
 dimension: 2
 
 640.
@@ -6388,7 +6388,7 @@ id: 3507556625
 b \to cde
 a \to bcde
 meet-irreducibles: cd ce de cde bcde 
-max antichain: cdcede
+max antichain: cd ce de 
 dimension: 3
 
 641.
@@ -6398,7 +6398,7 @@ c \to de
 b \to de
 a \to de
 meet-irreducibles: e abde acde bcde 
-max antichain: abdeacdebcde
+max antichain: abde acde bcde 
 dimension: 3
 
 642.
@@ -6409,7 +6409,7 @@ ab \to cde
 b \to de
 a \to de
 meet-irreducibles: ce ade bde acde bcde 
-max antichain: ceadebde
+max antichain: ce ade bde 
 dimension: 3
 
 643.
@@ -6420,7 +6420,7 @@ ab \to cde
 b \to de
 a \to ce
 meet-irreducibles: ace bde acde bcde 
-max antichain: acebde
+max antichain: ace bde 
 dimension: 2
 
 644.
@@ -6431,7 +6431,7 @@ ab \to cde
 b \to e
 a \to de
 meet-irreducibles: be ade bde acde bcde 
-max antichain: beade
+max antichain: be ade 
 dimension: 2
 
 645.
@@ -6442,7 +6442,7 @@ c \to e
 b \to e
 a \to cde
 meet-irreducibles: be ce bde acde bcde 
-max antichain: bece
+max antichain: be ce 
 dimension: 2
 
 646.
@@ -6452,7 +6452,7 @@ c \to e
 b \to e
 a \to bcde
 meet-irreducibles: bce bde cde bcde 
-max antichain: bcebdecde
+max antichain: bce bde cde 
 dimension: 3
 
 647.
@@ -6461,7 +6461,7 @@ d \to e
 b \to de
 a \to cde
 meet-irreducibles: c ce bde acde bcde 
-max antichain: cbde
+max antichain: c bde 
 dimension: 2
 
 648.
@@ -6471,7 +6471,7 @@ bc \to de
 b \to e
 a \to bcde
 meet-irreducibles: c be ce bde cde bcde 
-max antichain: cbe
+max antichain: c be 
 dimension: 2
 
 649.
@@ -6481,7 +6481,7 @@ ab \to cde
 b \to de
 a \to de
 meet-irreducibles: d e ade bde acde bcde 
-max antichain: de
+max antichain: d e 
 dimension: 2
 
 650.
@@ -6490,7 +6490,7 @@ c \to e
 b \to de
 a \to cde
 meet-irreducibles: d ce bde acde bcde 
-max antichain: dce
+max antichain: d ce 
 dimension: 2
 
 651.
@@ -6499,7 +6499,7 @@ c \to de
 b \to e
 a \to cde
 meet-irreducibles: d be bde acde bcde 
-max antichain: dbe
+max antichain: d be 
 dimension: 2
 
 652.
@@ -6509,7 +6509,7 @@ c \to e
 b \to e
 a \to bcde
 meet-irreducibles: d be ce bde cde bcde 
-max antichain: dbece
+max antichain: d be ce 
 dimension: 3
 
 653.
@@ -6518,7 +6518,7 @@ cd \to e
 b \to cde
 a \to bcde
 meet-irreducibles: c d ce de cde bcde 
-max antichain: cd
+max antichain: c d 
 dimension: 2
 
 654.
@@ -6529,7 +6529,7 @@ ab \to cde
 b \to de
 a \to de
 meet-irreducibles: e ade bde acde bcde 
-max antichain: adebde
+max antichain: ade bde 
 dimension: 2
 
 655.
@@ -6539,7 +6539,7 @@ c \to e
 b \to de
 a \to cde
 meet-irreducibles: ce bde acde bcde 
-max antichain: cebde
+max antichain: ce bde 
 dimension: 2
 
 656.
@@ -6549,7 +6549,7 @@ c \to de
 b \to e
 a \to cde
 meet-irreducibles: be bde acde bcde 
-max antichain: beacde
+max antichain: be acde 
 dimension: 2
 
 657.
@@ -6560,7 +6560,7 @@ c \to e
 b \to e
 a \to bcde
 meet-irreducibles: be ce bde cde bcde 
-max antichain: bece
+max antichain: be ce 
 dimension: 2
 
 658.
@@ -6569,7 +6569,7 @@ d \to e
 b \to de
 a \to bcde
 meet-irreducibles: c ce bde cde bcde 
-max antichain: cbde
+max antichain: c bde 
 dimension: 2
 
 659.
@@ -6578,7 +6578,7 @@ c \to de
 b \to de
 a \to cde
 meet-irreducibles: d e bde acde bcde 
-max antichain: de
+max antichain: d e 
 dimension: 2
 
 660.
@@ -6587,7 +6587,7 @@ c \to e
 b \to cde
 a \to cde
 meet-irreducibles: d ce de acde bcde 
-max antichain: dce
+max antichain: d ce 
 dimension: 2
 
 661.
@@ -6596,7 +6596,7 @@ c \to e
 b \to de
 a \to bcde
 meet-irreducibles: d ce bde cde bcde 
-max antichain: dce
+max antichain: d ce 
 dimension: 2
 
 662.
@@ -6606,7 +6606,7 @@ c \to de
 b \to de
 a \to cde
 meet-irreducibles: e bde acde bcde 
-max antichain: bdeacde
+max antichain: bde acde 
 dimension: 2
 
 663.
@@ -6616,7 +6616,7 @@ c \to e
 b \to cde
 a \to cde
 meet-irreducibles: ce de acde bcde 
-max antichain: cede
+max antichain: ce de 
 dimension: 2
 
 664.
@@ -6626,7 +6626,7 @@ c \to e
 b \to de
 a \to bcde
 meet-irreducibles: ce bde cde bcde 
-max antichain: cebde
+max antichain: ce bde 
 dimension: 2
 
 665.
@@ -6635,7 +6635,7 @@ c \to de
 b \to cde
 a \to cde
 meet-irreducibles: d e de acde bcde 
-max antichain: de
+max antichain: d e 
 dimension: 2
 
 666.
@@ -6644,7 +6644,7 @@ c \to de
 b \to de
 a \to bcde
 meet-irreducibles: d e bde cde bcde 
-max antichain: de
+max antichain: d e 
 dimension: 2
 
 667.
@@ -6653,7 +6653,7 @@ c \to e
 b \to cde
 a \to bcde
 meet-irreducibles: d ce de cde bcde 
-max antichain: dce
+max antichain: d ce 
 dimension: 2
 
 668.
@@ -6663,7 +6663,7 @@ c \to de
 b \to cde
 a \to cde
 meet-irreducibles: e de acde bcde 
-max antichain: acdebcde
+max antichain: acde bcde 
 dimension: 2
 
 669.
@@ -6673,7 +6673,7 @@ c \to de
 b \to de
 a \to bcde
 meet-irreducibles: e bde cde bcde 
-max antichain: bdecde
+max antichain: bde cde 
 dimension: 2
 
 670.
@@ -6683,7 +6683,7 @@ c \to e
 b \to cde
 a \to bcde
 meet-irreducibles: ce de cde bcde 
-max antichain: cede
+max antichain: ce de 
 dimension: 2
 
 671.
@@ -6692,7 +6692,7 @@ c \to de
 b \to cde
 a \to bcde
 meet-irreducibles: d e de cde bcde 
-max antichain: de
+max antichain: d e 
 dimension: 2
 
 672.
@@ -6702,7 +6702,7 @@ c \to de
 b \to cde
 a \to bcde
 meet-irreducibles: e de cde bcde 
-max antichain: e
+max antichain: e 
 dimension: 1
 Yay!
 59386 total convex geometries and 672 non-isomorphic geometries found!
