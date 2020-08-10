@@ -306,7 +306,7 @@ void matroid_to_convexgeo(ull matroid)
     for (implication_t impl : implications)
     {
             print_set(impl.pred);
-            cout << " \\to ";
+            cout << " -> ";
             print_set(impl.then);
             cout << endl; 
     }

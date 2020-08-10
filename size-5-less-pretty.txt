@@ -1,0 +1,6709 @@
+Size of base set? 
+1.
+id: 4294967295
+meet-irreducibles: abcd abce abde acde bcde 
+max antichain: abcd abce abde acde bcde 
+dimension: 5
+
+2.
+id: 4294934527
+abcd -> e
+meet-irreducibles: abc abd acd bcd abce abde acde bcde 
+max antichain: abc abd acd bcd 
+dimension: 4
+
+3.
+id: 4294934399
+abc -> e
+meet-irreducibles: abd acd bcd abce abde acde bcde 
+max antichain: abd acd bcd abce 
+dimension: 4
+
+4.
+id: 4286545791
+abc -> de
+meet-irreducibles: abd acd bcd abe ace bce abde acde bcde 
+max antichain: abd acd bcd abe ace bce 
+dimension: 6
+
+5.
+id: 4294932351
+abd -> e
+abc -> e
+meet-irreducibles: ab acd bcd abce abde acde bcde 
+max antichain: acd bcd abce abde 
+dimension: 4
+
+6.
+id: 4294932343
+ab -> e
+meet-irreducibles: acd bcd abce abde acde bcde 
+max antichain: acd bcd abce abde 
+dimension: 4
+
+7.
+id: 4294924159
+acd -> e
+abd -> e
+abc -> e
+meet-irreducibles: ab ac ad bcd abce abde acde bcde 
+max antichain: ab ac ad bcd 
+dimension: 4
+
+8.
+id: 4286543743
+abd -> e
+abc -> de
+meet-irreducibles: ab acd bcd abe ace bce abde acde bcde 
+max antichain: ab acd bcd ace bce 
+dimension: 5
+
+9.
+id: 4294924151
+acd -> e
+ab -> e
+meet-irreducibles: ac ad bcd abce abde acde bcde 
+max antichain: bcd abce abde acde 
+dimension: 4
+
+10.
+id: 4286543735
+abc -> de
+ab -> e
+meet-irreducibles: acd bcd abe ace bce abde acde bcde 
+max antichain: acd bcd abe ace bce 
+dimension: 5
+
+11.
+id: 4294907775
+bcd -> e
+acd -> e
+abd -> e
+abc -> e
+meet-irreducibles: ab ac bc ad bd cd abce abde acde bcde 
+max antichain: ab ac bc ad bd cd 
+dimension: 6
+
+12.
+id: 4286535551
+acd -> e
+abd -> e
+abc -> de
+meet-irreducibles: ab ac ad bcd abe ace bce abde acde bcde 
+max antichain: ab ac ad bcd bce 
+dimension: 5
+
+13.
+id: 4286013311
+abe -> d
+acd -> e
+abc -> de
+meet-irreducibles: ab ac abd bcd ace bce abde acde bcde 
+max antichain: ab ac bcd bce 
+dimension: 4
+
+14.
+id: 4294907767
+bcd -> e
+acd -> e
+ab -> e
+meet-irreducibles: ac bc ad bd cd abce abde acde bcde 
+max antichain: ac bc ad bd cd 
+dimension: 5
+
+15.
+id: 4286535543
+acd -> e
+abc -> de
+ab -> e
+meet-irreducibles: ac ad bcd abe ace bce abde acde bcde 
+max antichain: ac ad bcd abe bce 
+dimension: 5
+
+16.
+id: 4286535039
+ad -> e
+abc -> de
+meet-irreducibles: ab ac bcd abe ace bce abde acde bcde 
+max antichain: ab ac bcd bce 
+dimension: 4
+
+17.
+id: 4286019447
+ab -> de
+meet-irreducibles: acd bcd ace bce abde acde bcde 
+max antichain: acd bcd ace bce abde 
+dimension: 5
+
+18.
+id: 4286519167
+bcd -> e
+acd -> e
+abd -> e
+abc -> de
+meet-irreducibles: ab ac bc ad bd cd abe ace bce abde acde bcde 
+max antichain: ab ac bc ad bd cd 
+dimension: 6
+
+19.
+id: 4294924119
+ac -> e
+ab -> e
+meet-irreducibles: ad bcd abce abde acde bcde 
+max antichain: bcd abce abde acde 
+dimension: 4
+
+20.
+id: 4286013303
+acd -> e
+abc -> de
+ab -> d
+meet-irreducibles: ac abd bcd ace bce abde acde bcde 
+max antichain: ac abd bcd bce 
+dimension: 4
+
+21.
+id: 4285996927
+abe -> d
+bcd -> e
+acd -> e
+abc -> de
+meet-irreducibles: ab ac bc abd cd ace bce abde acde bcde 
+max antichain: ab ac bc cd 
+dimension: 4
+
+22.
+id: 4286535031
+ad -> e
+abc -> de
+ab -> e
+meet-irreducibles: ac bcd abe ace bce abde acde bcde 
+max antichain: ac bcd abe bce 
+dimension: 4
+
+23.
+id: 4286519159
+bcd -> e
+acd -> e
+abc -> de
+ab -> e
+meet-irreducibles: ac bc ad bd cd abe ace bce abde acde bcde 
+max antichain: ac bc ad bd cd abe 
+dimension: 6
+
+24.
+id: 4286013271
+abc -> de
+ac -> e
+ab -> d
+meet-irreducibles: abd bcd ace bce abde acde bcde 
+max antichain: abd bcd ace bce 
+dimension: 4
+
+25.
+id: 4286011255
+acd -> e
+ab -> de
+meet-irreducibles: ac ad bcd ace bce abde acde bcde 
+max antichain: ac ad bcd bce 
+dimension: 4
+
+26.
+id: 4286518655
+bcd -> e
+ad -> e
+abc -> de
+meet-irreducibles: ab ac bc bd cd abe ace bce abde acde bcde 
+max antichain: ab ac bc bd cd 
+dimension: 5
+
+27.
+id: 4285996895
+abe -> d
+bcd -> e
+abc -> de
+ac -> e
+meet-irreducibles: ab bc abd cd ace bce abde acde bcde 
+max antichain: ab bc cd ace 
+dimension: 4
+
+28.
+id: 4151801719
+ab -> cde
+meet-irreducibles: acd bcd ace bce ade bde acde bcde 
+max antichain: acd bcd ace bce ade bde 
+dimension: 6
+
+29.
+id: 4294907199
+ad -> e
+bc -> e
+meet-irreducibles: ab ac bd cd abce abde acde bcde 
+max antichain: ab ac bd cd 
+dimension: 4
+
+30.
+id: 4294923607
+ad -> e
+ac -> e
+ab -> e
+meet-irreducibles: a bcd abce abde acde bcde 
+max antichain: bcd abce abde acde 
+dimension: 4
+
+31.
+id: 4294907735
+bcd -> e
+ac -> e
+ab -> e
+meet-irreducibles: bc ad bd cd abce abde acde bcde 
+max antichain: bc ad bd cd 
+dimension: 4
+
+32.
+id: 4285992831
+abe -> d
+cd -> e
+abc -> de
+meet-irreducibles: ab ac bc abd ace bce abde acde bcde 
+max antichain: ab ac bc 
+dimension: 3
+
+33.
+id: 4286535511
+abc -> de
+ac -> e
+ab -> e
+meet-irreducibles: ad bcd abe ace bce abde acde bcde 
+max antichain: ad bcd abe ace bce 
+dimension: 5
+
+34.
+id: 4285996919
+bcd -> e
+acd -> e
+abc -> de
+ab -> d
+meet-irreducibles: ac bc abd cd ace bce abde acde bcde 
+max antichain: ac bc abd cd 
+dimension: 4
+
+35.
+id: 4286518647
+bcd -> e
+ad -> e
+abc -> de
+ab -> e
+meet-irreducibles: ac bc bd cd abe ace bce abde acde bcde 
+max antichain: ac bc bd cd abe 
+dimension: 5
+
+36.
+id: 4285992799
+abe -> d
+cd -> e
+abc -> de
+ac -> e
+meet-irreducibles: ab bc abd ace bce abde acde bcde 
+max antichain: ab bc ace 
+dimension: 3
+
+37.
+id: 4286010743
+ad -> e
+ab -> de
+meet-irreducibles: ac bcd ace bce abde acde bcde 
+max antichain: ac bcd bce abde 
+dimension: 4
+
+38.
+id: 4285996887
+bcd -> e
+abc -> de
+ac -> e
+ab -> d
+meet-irreducibles: bc abd cd ace bce abde acde bcde 
+max antichain: bc abd cd ace 
+dimension: 4
+
+39.
+id: 4285994871
+bcd -> e
+acd -> e
+ab -> de
+meet-irreducibles: ac bc ad bd cd ace bce abde acde bcde 
+max antichain: ac bc ad bd cd 
+dimension: 5
+
+40.
+id: 4151793527
+acd -> e
+ab -> cde
+meet-irreducibles: ac ad bcd ace bce ade bde acde bcde 
+max antichain: ac ad bcd bce bde 
+dimension: 5
+
+41.
+id: 4286517631
+bd -> e
+ad -> e
+abc -> de
+meet-irreducibles: ab ac bc cd abe ace bce abde acde bcde 
+max antichain: ab ac bc cd 
+dimension: 4
+
+42.
+id: 4294907191
+ad -> e
+bc -> e
+ab -> e
+meet-irreducibles: ac bd cd abce abde acde bcde 
+max antichain: abce abde acde bcde 
+dimension: 4
+
+43.
+id: 4283905911
+ace -> d
+bcd -> e
+ab -> de
+meet-irreducibles: ac bc bd acd ae bce abde acde bcde 
+max antichain: ac bc bd ae 
+dimension: 4
+
+44.
+id: 4285992823
+cd -> e
+abc -> de
+ab -> d
+meet-irreducibles: ac bc abd ace bce abde acde bcde 
+max antichain: ac bc abd 
+dimension: 3
+
+45.
+id: 4286518591
+ad -> e
+abc -> de
+bc -> e
+meet-irreducibles: ab ac bd cd abe ace bce abde acde bcde 
+max antichain: ab ac bd cd bce 
+dimension: 5
+
+46.
+id: 4294907223
+bcd -> e
+ad -> e
+ac -> e
+ab -> e
+meet-irreducibles: a bc bd cd abce abde acde bcde 
+max antichain: a bc bd cd 
+dimension: 4
+
+47.
+id: 4285996831
+abe -> d
+abc -> de
+bc -> e
+ac -> e
+meet-irreducibles: ab abd cd ace bce abde acde bcde 
+max antichain: ab cd ace bce 
+dimension: 4
+
+48.
+id: 4286534999
+ad -> e
+abc -> de
+ac -> e
+ab -> e
+meet-irreducibles: a bcd abe ace bce abde acde bcde 
+max antichain: bcd abe ace bce 
+dimension: 4
+
+49.
+id: 4286519127
+bcd -> e
+abc -> de
+ac -> e
+ab -> e
+meet-irreducibles: bc ad bd cd abe ace bce abde acde bcde 
+max antichain: bc ad bd cd abe ace 
+dimension: 6
+
+50.
+id: 4286011223
+ac -> e
+ab -> de
+meet-irreducibles: ad bcd ace bce abde acde bcde 
+max antichain: ad bcd ace bce 
+dimension: 4
+
+51.
+id: 4294923605
+a -> e
+meet-irreducibles: bcd abce abde acde bcde 
+max antichain: bcd abce abde acde 
+dimension: 4
+
+52.
+id: 4294907671
+bc -> e
+ac -> e
+ab -> e
+meet-irreducibles: ad bd cd abce abde acde bcde 
+max antichain: ad bd cd abce 
+dimension: 4
+
+53.
+id: 4285994359
+bcd -> e
+ad -> e
+ab -> de
+meet-irreducibles: ac bc bd cd ace bce abde acde bcde 
+max antichain: ac bc bd cd 
+dimension: 4
+
+54.
+id: 4151777143
+bcd -> e
+acd -> e
+ab -> cde
+meet-irreducibles: ac bc ad bd cd ace bce ade bde acde bcde 
+max antichain: ac bc ad bd cd 
+dimension: 5
+
+55.
+id: 4283904887
+ace -> d
+bd -> e
+ab -> de
+meet-irreducibles: ac bc acd ae bce abde acde bcde 
+max antichain: ac bc ae 
+dimension: 3
+
+56.
+id: 4286518583
+ad -> e
+abc -> de
+bc -> e
+ab -> e
+meet-irreducibles: ac bd cd abe ace bce abde acde bcde 
+max antichain: ac bd cd abe bce 
+dimension: 5
+
+57.
+id: 4149688183
+ace -> d
+bcd -> e
+ab -> cde
+meet-irreducibles: ac bc bd acd ae bce ade bde acde bcde 
+max antichain: ac bc bd ae 
+dimension: 4
+
+58.
+id: 4285992735
+abe -> d
+cd -> e
+abc -> de
+bc -> e
+ac -> e
+meet-irreducibles: ab c abd ace bce abde acde bcde 
+max antichain: ab ace bce 
+dimension: 3
+
+59.
+id: 4285996823
+abc -> de
+bc -> e
+ac -> e
+ab -> d
+meet-irreducibles: abd cd ace bce abde acde bcde 
+max antichain: abd cd ace bce 
+dimension: 4
+
+60.
+id: 4286518615
+bcd -> e
+ad -> e
+abc -> de
+ac -> e
+ab -> e
+meet-irreducibles: a bc bd cd abe ace bce abde acde bcde 
+max antichain: bc bd cd abe ace 
+dimension: 5
+
+61.
+id: 4286010711
+ad -> e
+ac -> e
+ab -> de
+meet-irreducibles: a bcd ace bce abde acde bcde 
+max antichain: bcd ace bce abde 
+dimension: 4
+
+62.
+id: 4285994839
+bcd -> e
+ac -> e
+ab -> de
+meet-irreducibles: bc ad bd cd ace bce abde acde bcde 
+max antichain: bc ad bd cd ace 
+dimension: 5
+
+63.
+id: 4294907221
+bcd -> e
+a -> e
+meet-irreducibles: bc bd cd abce abde acde bcde 
+max antichain: abce abde acde bcde 
+dimension: 4
+
+64.
+id: 4283914071
+ac -> de
+ab -> de
+meet-irreducibles: ad bcd ae bce abde acde bcde 
+max antichain: ad bcd ae bce 
+dimension: 4
+
+65.
+id: 4151793495
+ac -> e
+ab -> cde
+meet-irreducibles: ad bcd ace bce ade bde acde bcde 
+max antichain: ad bcd ace bce bde 
+dimension: 5
+
+66.
+id: 4286517599
+bd -> e
+ad -> e
+abc -> de
+ac -> e
+meet-irreducibles: ab bc cd abe ace bce abde acde bcde 
+max antichain: ab bc cd ace 
+dimension: 4
+
+67.
+id: 4286534997
+abc -> de
+a -> e
+meet-irreducibles: bcd abe ace bce abde acde bcde 
+max antichain: bcd abe ace bce 
+dimension: 4
+
+68.
+id: 4294907159
+ad -> e
+bc -> e
+ac -> e
+ab -> e
+meet-irreducibles: a bd cd abce abde acde bcde 
+max antichain: abce abde acde bcde 
+dimension: 4
+
+69.
+id: 4283905879
+bcd -> e
+ac -> d
+ab -> de
+meet-irreducibles: bc bd acd ae bce abde acde bcde 
+max antichain: bc bd acd ae 
+dimension: 4
+
+70.
+id: 4286519063
+abc -> de
+bc -> e
+ac -> e
+ab -> e
+meet-irreducibles: ad bd cd abe ace bce abde acde bcde 
+max antichain: ad bd cd abe ace bce 
+dimension: 6
+
+71.
+id: 4285992791
+cd -> e
+abc -> de
+ac -> e
+ab -> d
+meet-irreducibles: bc abd ace bce abde acde bcde 
+max antichain: bc abd ace 
+dimension: 3
+
+72.
+id: 4285990775
+cd -> e
+ab -> de
+meet-irreducibles: ac bc ad bd ace bce abde acde bcde 
+max antichain: ac bc ad bd 
+dimension: 4
+
+73.
+id: 4294906143
+bd -> e
+ad -> e
+bc -> e
+ac -> e
+meet-irreducibles: ab cd abce abde acde bcde 
+max antichain: abce abde acde bcde 
+dimension: 4
+
+74.
+id: 4286513535
+cd -> e
+bd -> e
+ad -> e
+abc -> de
+meet-irreducibles: ab ac bc d abe ace bce abde acde bcde 
+max antichain: ab ac bc d 
+dimension: 4
+
+75.
+id: 4286517623
+bd -> e
+ad -> e
+abc -> de
+ab -> e
+meet-irreducibles: ac bc cd abe ace bce abde acde bcde 
+max antichain: ac bc cd abe 
+dimension: 4
+
+76.
+id: 4285992727
+cd -> e
+abc -> de
+bc -> e
+ac -> e
+ab -> d
+meet-irreducibles: c abd ace bce abde acde bcde 
+max antichain: abd ace bce 
+dimension: 3
+
+77.
+id: 4285992719
+abe -> d
+abc -> de
+c -> e
+meet-irreducibles: ab abd ace bce abde acde bcde 
+max antichain: ab ace bce 
+dimension: 3
+
+78.
+id: 4283773815
+ae -> d
+bd -> e
+ab -> de
+meet-irreducibles: ac bc acd bce abde acde bcde 
+max antichain: ac bc abde 
+dimension: 3
+
+79.
+id: 4149687159
+ace -> d
+bd -> e
+ab -> cde
+meet-irreducibles: ac bc acd ae bce ade bde acde bcde 
+max antichain: ac bc ae bde 
+dimension: 4
+
+80.
+id: 4285994295
+ad -> e
+bc -> e
+ab -> de
+meet-irreducibles: ac bd cd ace bce abde acde bcde 
+max antichain: ac bd cd bce 
+dimension: 4
+
+81.
+id: 4285990743
+cd -> e
+ac -> e
+ab -> de
+meet-irreducibles: bc ad bd ace bce abde acde bcde 
+max antichain: bc ad bd ace 
+dimension: 4
+
+82.
+id: 4286517591
+bd -> e
+ad -> e
+abc -> de
+ac -> e
+ab -> e
+meet-irreducibles: a bc cd abe ace bce abde acde bcde 
+max antichain: bc cd abe ace 
+dimension: 4
+
+83.
+id: 4283904823
+ace -> d
+bd -> e
+bc -> e
+ab -> de
+meet-irreducibles: b ac acd ae bce abde acde bcde 
+max antichain: b ac ae 
+dimension: 3
+
+84.
+id: 4285994327
+bcd -> e
+ad -> e
+ac -> e
+ab -> de
+meet-irreducibles: a bc bd cd ace bce abde acde bcde 
+max antichain: a bc bd cd 
+dimension: 4
+
+85.
+id: 4283913559
+ad -> e
+ac -> de
+ab -> de
+meet-irreducibles: a bcd ae bce abde acde bcde 
+max antichain: bcd bce abde acde 
+dimension: 4
+
+86.
+id: 4151792983
+ad -> e
+ac -> e
+ab -> cde
+meet-irreducibles: a bcd ace bce ade bde acde bcde 
+max antichain: bcd ace bce ade bde 
+dimension: 5
+
+87.
+id: 4283897687
+bcd -> e
+ac -> de
+ab -> de
+meet-irreducibles: bc ad bd cd ae bce abde acde bcde 
+max antichain: bc ad bd cd ae 
+dimension: 5
+
+88.
+id: 4151777111
+bcd -> e
+ac -> e
+ab -> cde
+meet-irreducibles: bc ad bd cd ace bce ade bde acde bcde 
+max antichain: bc ad bd cd ace 
+dimension: 5
+
+89.
+id: 4286518613
+bcd -> e
+abc -> de
+a -> e
+meet-irreducibles: bc bd cd abe ace bce abde acde bcde 
+max antichain: bc bd cd abe ace 
+dimension: 5
+
+90.
+id: 4149696343
+ac -> de
+ab -> cde
+meet-irreducibles: ad bcd ae bce ade bde acde bcde 
+max antichain: ad bcd ae bce bde 
+dimension: 5
+
+91.
+id: 4294906135
+bd -> e
+ad -> e
+bc -> e
+ac -> e
+ab -> e
+meet-irreducibles: a b cd abce abde acde bcde 
+max antichain: abce abde acde bcde 
+dimension: 4
+
+92.
+id: 4283904855
+bd -> e
+ac -> d
+ab -> de
+meet-irreducibles: bc acd ae bce abde acde bcde 
+max antichain: bc acd ae 
+dimension: 3
+
+93.
+id: 4286010709
+ab -> de
+a -> e
+meet-irreducibles: bcd ace bce abde acde bcde 
+max antichain: bcd ace bce abde 
+dimension: 4
+
+94.
+id: 4286518551
+ad -> e
+abc -> de
+bc -> e
+ac -> e
+ab -> e
+meet-irreducibles: a bd cd abe ace bce abde acde bcde 
+max antichain: bd cd abe ace bce 
+dimension: 5
+
+95.
+id: 4149688151
+bcd -> e
+ac -> d
+ab -> cde
+meet-irreducibles: bc bd acd ae bce ade bde acde bcde 
+max antichain: bc bd acd ae 
+dimension: 4
+
+96.
+id: 4286513527
+cd -> e
+bd -> e
+ad -> e
+abc -> de
+ab -> e
+meet-irreducibles: ac bc d abe ace bce abde acde bcde 
+max antichain: ac bc d abe 
+dimension: 4
+
+97.
+id: 4286513279
+d -> e
+abc -> de
+meet-irreducibles: ab ac bc abe ace bce abde acde bcde 
+max antichain: ab ac bc 
+dimension: 3
+
+98.
+id: 4285990263
+cd -> e
+ad -> e
+ab -> de
+meet-irreducibles: ac bc bd ace bce abde acde bcde 
+max antichain: ac bc bd 
+dimension: 3
+
+99.
+id: 4285994775
+bc -> e
+ac -> e
+ab -> de
+meet-irreducibles: ad bd cd ace bce abde acde bcde 
+max antichain: ad bd cd ace bce 
+dimension: 5
+
+100.
+id: 4294907157
+bc -> e
+a -> e
+meet-irreducibles: bd cd abce abde acde bcde 
+max antichain: abce abde acde bcde 
+dimension: 4
+
+101.
+id: 4151773047
+cd -> e
+ab -> cde
+meet-irreducibles: ac bc ad bd ace bce ade bde acde bcde 
+max antichain: ac bc ad bd 
+dimension: 4
+
+102.
+id: 4286517535
+bd -> e
+ad -> e
+abc -> de
+bc -> e
+ac -> e
+meet-irreducibles: ab cd abe ace bce abde acde bcde 
+max antichain: ab cd ace bce 
+dimension: 4
+
+103.
+id: 4283905815
+bc -> e
+ac -> d
+ab -> de
+meet-irreducibles: bd acd ae bce abde acde bcde 
+max antichain: bd acd ae bce 
+dimension: 4
+
+104.
+id: 4285993335
+bd -> e
+ad -> e
+ab -> de
+meet-irreducibles: ac bc cd ace bce abde acde bcde 
+max antichain: ac bc cd abde 
+dimension: 4
+
+105.
+id: 4286513495
+cd -> e
+bd -> e
+ad -> e
+abc -> de
+ac -> e
+ab -> e
+meet-irreducibles: a bc d abe ace bce abde acde bcde 
+max antichain: bc d abe ace 
+dimension: 4
+
+106.
+id: 4149556087
+ae -> d
+bd -> e
+ab -> cde
+meet-irreducibles: ac bc acd bce ade bde acde bcde 
+max antichain: ac bc ade bde 
+dimension: 4
+
+107.
+id: 4285990231
+cd -> e
+ad -> e
+ac -> e
+ab -> de
+meet-irreducibles: a bc bd ace bce abde acde bcde 
+max antichain: a bc bd 
+dimension: 3
+
+108.
+id: 4116002679
+ae -> cd
+bcd -> e
+ab -> cde
+meet-irreducibles: ac bc ad bd acd bce bde acde bcde 
+max antichain: ac bc ad bd 
+dimension: 4
+
+109.
+id: 4151776567
+ad -> e
+bc -> e
+ab -> cde
+meet-irreducibles: ac bd cd ace bce ade bde acde bcde 
+max antichain: ac bd cd bce ade 
+dimension: 5
+
+110.
+id: 4151773015
+cd -> e
+ac -> e
+ab -> cde
+meet-irreducibles: bc ad bd ace bce ade bde acde bcde 
+max antichain: bc ad bd ace 
+dimension: 4
+
+111.
+id: 4294902039
+cd -> e
+bd -> e
+ad -> e
+bc -> e
+ac -> e
+ab -> e
+meet-irreducibles: a b c d abce abde acde bcde 
+max antichain: a b c d 
+dimension: 4
+
+112.
+id: 4285993303
+bd -> e
+ad -> e
+ac -> e
+ab -> de
+meet-irreducibles: a bc cd ace bce abde acde bcde 
+max antichain: bc cd ace abde 
+dimension: 4
+
+113.
+id: 4149687095
+ace -> d
+bd -> e
+bc -> e
+ab -> cde
+meet-irreducibles: b ac acd ae bce ade bde acde bcde 
+max antichain: ac ae bce bde 
+dimension: 4
+
+114.
+id: 4283897175
+bcd -> e
+ad -> e
+ac -> de
+ab -> de
+meet-irreducibles: a bc bd cd ae bce abde acde bcde 
+max antichain: a bc bd cd 
+dimension: 4
+
+115.
+id: 4151776599
+bcd -> e
+ad -> e
+ac -> e
+ab -> cde
+meet-irreducibles: a bc bd cd ace bce ade bde acde bcde 
+max antichain: bc bd cd ace ade 
+dimension: 5
+
+116.
+id: 4283896663
+bd -> e
+ac -> de
+ab -> de
+meet-irreducibles: bc ad cd ae bce abde acde bcde 
+max antichain: bc ad cd ae 
+dimension: 4
+
+117.
+id: 4286513271
+d -> e
+abc -> de
+ab -> e
+meet-irreducibles: ac bc abe ace bce abde acde bcde 
+max antichain: ac bc abe 
+dimension: 3
+
+118.
+id: 4285990679
+cd -> e
+bc -> e
+ac -> e
+ab -> de
+meet-irreducibles: c ad bd ace bce abde acde bcde 
+max antichain: ad bd ace bce 
+dimension: 4
+
+119.
+id: 4149695831
+ad -> e
+ac -> de
+ab -> cde
+meet-irreducibles: a bcd ae bce ade bde acde bcde 
+max antichain: a bcd bce bde 
+dimension: 4
+
+120.
+id: 4286517589
+bd -> e
+abc -> de
+a -> e
+meet-irreducibles: bc cd abe ace bce abde acde bcde 
+max antichain: bc cd abe ace 
+dimension: 4
+
+121.
+id: 4283766615
+ae -> d
+bcd -> e
+ac -> de
+ab -> de
+meet-irreducibles: a bc ad bd cd bce abde acde bcde 
+max antichain: a bc bd cd 
+dimension: 4
+
+122.
+id: 4149679959
+bcd -> e
+ac -> de
+ab -> cde
+meet-irreducibles: bc ad bd cd ae bce ade bde acde bcde 
+max antichain: bc ad bd cd ae 
+dimension: 5
+
+123.
+id: 4285994325
+bcd -> e
+ab -> de
+a -> e
+meet-irreducibles: bc bd cd ace bce abde acde bcde 
+max antichain: bc bd cd ace 
+dimension: 4
+
+124.
+id: 4283773783
+ae -> d
+bd -> e
+ac -> d
+ab -> de
+meet-irreducibles: a bc acd bce abde acde bcde 
+max antichain: bc acd abde 
+dimension: 3
+
+125.
+id: 4286517527
+bd -> e
+ad -> e
+abc -> de
+bc -> e
+ac -> e
+ab -> e
+meet-irreducibles: a b cd abe ace bce abde acde bcde 
+max antichain: cd abe ace bce 
+dimension: 4
+
+126.
+id: 4149687127
+bd -> e
+ac -> d
+ab -> cde
+meet-irreducibles: bc acd ae bce ade bde acde bcde 
+max antichain: bc acd ae bde 
+dimension: 4
+
+127.
+id: 4283913557
+ac -> de
+ab -> de
+a -> e
+meet-irreducibles: bcd ae bce abde acde bcde 
+max antichain: bcd bce abde acde 
+dimension: 4
+
+128.
+id: 4151792981
+ab -> cde
+a -> e
+meet-irreducibles: bcd ace bce ade bde acde bcde 
+max antichain: bcd ace bce ade bde 
+dimension: 5
+
+129.
+id: 4285994263
+ad -> e
+bc -> e
+ac -> e
+ab -> de
+meet-irreducibles: a bd cd ace bce abde acde bcde 
+max antichain: a bd cd bce 
+dimension: 4
+
+130.
+id: 4285989239
+cd -> e
+bd -> e
+ad -> e
+ab -> de
+meet-irreducibles: ac bc d ace bce abde acde bcde 
+max antichain: ac bc d 
+dimension: 3
+
+131.
+id: 4294906133
+bd -> e
+bc -> e
+a -> e
+meet-irreducibles: b cd abce abde acde bcde 
+max antichain: abce abde acde bcde 
+dimension: 4
+
+132.
+id: 4283897623
+bc -> e
+ac -> de
+ab -> de
+meet-irreducibles: ad bd cd ae bce abde acde bcde 
+max antichain: ad bd cd ae bce 
+dimension: 5
+
+133.
+id: 4151777047
+bc -> e
+ac -> e
+ab -> cde
+meet-irreducibles: ad bd cd ace bce ade bde acde bcde 
+max antichain: ad bd cd ace bce 
+dimension: 5
+
+134.
+id: 4286518549
+abc -> de
+bc -> e
+a -> e
+meet-irreducibles: bd cd abe ace bce abde acde bcde 
+max antichain: bd cd abe ace bce 
+dimension: 5
+
+135.
+id: 4283904791
+bd -> e
+bc -> e
+ac -> d
+ab -> de
+meet-irreducibles: b acd ae bce abde acde bcde 
+max antichain: b acd ae 
+dimension: 3
+
+136.
+id: 4149688087
+bc -> e
+ac -> d
+ab -> cde
+meet-irreducibles: bd acd ae bce ade bde acde bcde 
+max antichain: bd acd ae bce 
+dimension: 4
+
+137.
+id: 4285992711
+abc -> de
+c -> e
+ab -> d
+meet-irreducibles: abd ace bce abde acde bcde 
+max antichain: abd ace bce 
+dimension: 3
+
+138.
+id: 4285990199
+cd -> e
+ad -> e
+bc -> e
+ab -> de
+meet-irreducibles: ac bd ace bce abde acde bcde 
+max antichain: ac bd bce 
+dimension: 3
+
+139.
+id: 4283904819
+ace -> d
+ab -> de
+b -> e
+meet-irreducibles: ac acd ae bce abde acde bcde 
+max antichain: ac ae bce 
+dimension: 3
+
+140.
+id: 4285989207
+cd -> e
+bd -> e
+ad -> e
+ac -> e
+ab -> de
+meet-irreducibles: a bc d ace bce abde acde bcde 
+max antichain: a bc d 
+dimension: 3
+
+141.
+id: 4151772503
+cd -> e
+ad -> e
+ac -> e
+ab -> cde
+meet-irreducibles: a bc bd ace bce ade bde acde bcde 
+max antichain: bc bd ace ade 
+dimension: 4
+
+142.
+id: 4283892567
+cd -> e
+bd -> e
+ac -> de
+ab -> de
+meet-irreducibles: bc ad ae bce abde acde bcde 
+max antichain: bc ad ae 
+dimension: 3
+
+143.
+id: 4286513493
+cd -> e
+bd -> e
+abc -> de
+a -> e
+meet-irreducibles: bc d abe ace bce abde acde bcde 
+max antichain: bc d abe ace 
+dimension: 4
+
+144.
+id: 4149675863
+cd -> e
+ac -> de
+ab -> cde
+meet-irreducibles: bc ad bd ae bce ade bde acde bcde 
+max antichain: bc ad bd ae 
+dimension: 4
+
+145.
+id: 4285990229
+cd -> e
+ab -> de
+a -> e
+meet-irreducibles: bc bd ace bce abde acde bcde 
+max antichain: bc bd ace 
+dimension: 3
+
+146.
+id: 4294906129
+b -> e
+a -> e
+meet-irreducibles: cd abce abde acde bcde 
+max antichain: abce abde acde bcde 
+dimension: 4
+
+147.
+id: 4286513431
+cd -> e
+bd -> e
+ad -> e
+abc -> de
+bc -> e
+ac -> e
+ab -> e
+meet-irreducibles: a b c d abe ace bce abde acde bcde 
+max antichain: a b c d 
+dimension: 4
+
+148.
+id: 4285990663
+c -> e
+ab -> de
+meet-irreducibles: ad bd ace bce abde acde bcde 
+max antichain: ad bd ace bce 
+dimension: 4
+
+149.
+id: 4283896151
+bd -> e
+ad -> e
+ac -> de
+ab -> de
+meet-irreducibles: a bc cd ae bce abde acde bcde 
+max antichain: a bc cd 
+dimension: 3
+
+150.
+id: 4285990167
+cd -> e
+ad -> e
+bc -> e
+ac -> e
+ab -> de
+meet-irreducibles: a c bd ace bce abde acde bcde 
+max antichain: a c bd 
+dimension: 3
+
+151.
+id: 4283904787
+ac -> d
+ab -> de
+b -> e
+meet-irreducibles: acd ae bce abde acde bcde 
+max antichain: acd ae bce 
+dimension: 3
+
+152.
+id: 4116002615
+ae -> cd
+bc -> e
+ab -> cde
+meet-irreducibles: ac ad bd acd bce bde acde bcde 
+max antichain: ac ad bd bce 
+dimension: 4
+
+153.
+id: 4149679447
+bcd -> e
+ad -> e
+ac -> de
+ab -> cde
+meet-irreducibles: a bc bd cd ae bce ade bde acde bcde 
+max antichain: a bc bd cd 
+dimension: 4
+
+154.
+id: 4283765591
+ae -> d
+bd -> e
+ac -> de
+ab -> de
+meet-irreducibles: a bc ad cd bce abde acde bcde 
+max antichain: a bc cd 
+dimension: 3
+
+155.
+id: 4294902037
+cd -> e
+bd -> e
+bc -> e
+a -> e
+meet-irreducibles: b c d abce abde acde bcde 
+max antichain: abce abde acde bcde 
+dimension: 4
+
+156.
+id: 4149678935
+bd -> e
+ac -> de
+ab -> cde
+meet-irreducibles: bc ad cd ae bce ade bde acde bcde 
+max antichain: bc ad cd ae bde 
+dimension: 5
+
+157.
+id: 4285988983
+d -> e
+ab -> de
+meet-irreducibles: ac bc ace bce abde acde bcde 
+max antichain: ac bc abde 
+dimension: 3
+
+158.
+id: 4151772951
+cd -> e
+bc -> e
+ac -> e
+ab -> cde
+meet-irreducibles: c ad bd ace bce ade bde acde bcde 
+max antichain: ad bd ace bce 
+dimension: 4
+
+159.
+id: 4285993301
+bd -> e
+ab -> de
+a -> e
+meet-irreducibles: bc cd ace bce abde acde bcde 
+max antichain: bc cd ace abde 
+dimension: 4
+
+160.
+id: 4149548887
+ae -> d
+bcd -> e
+ac -> de
+ab -> cde
+meet-irreducibles: a bc ad bd cd bce ade bde acde bcde 
+max antichain: a bc bd cd 
+dimension: 4
+
+161.
+id: 4283897173
+bcd -> e
+ac -> de
+ab -> de
+a -> e
+meet-irreducibles: bc bd cd ae bce abde acde bcde 
+max antichain: bc bd cd ae 
+dimension: 4
+
+162.
+id: 4151776597
+bcd -> e
+ab -> cde
+a -> e
+meet-irreducibles: bc bd cd ace bce ade bde acde bcde 
+max antichain: bc bd cd ace ade 
+dimension: 5
+
+163.
+id: 4149556055
+ae -> d
+bd -> e
+ac -> d
+ab -> cde
+meet-irreducibles: a bc acd bce ade bde acde bcde 
+max antichain: bc acd ade bde 
+dimension: 4
+
+164.
+id: 4285993239
+bd -> e
+ad -> e
+bc -> e
+ac -> e
+ab -> de
+meet-irreducibles: a b cd ace bce abde acde bcde 
+max antichain: cd ace bce abde 
+dimension: 4
+
+165.
+id: 4283782485
+a -> de
+meet-irreducibles: bcd bce abde acde bcde 
+max antichain: bcd bce abde acde 
+dimension: 4
+
+166.
+id: 4149695829
+ac -> de
+ab -> cde
+a -> e
+meet-irreducibles: bcd ae bce ade bde acde bcde 
+max antichain: bcd ae bce bde 
+dimension: 4
+
+167.
+id: 4283766613
+bcd -> e
+ac -> de
+ab -> de
+a -> d
+meet-irreducibles: bc ad bd cd bce abde acde bcde 
+max antichain: bc ad bd cd 
+dimension: 4
+
+168.
+id: 4116002647
+ae -> cd
+bcd -> e
+ac -> d
+ab -> cde
+meet-irreducibles: a bc ad bd acd bce bde acde bcde 
+max antichain: a bc bd 
+dimension: 3
+
+169.
+id: 4283897111
+ad -> e
+bc -> e
+ac -> de
+ab -> de
+meet-irreducibles: a bd cd ae bce abde acde bcde 
+max antichain: a bd cd bce 
+dimension: 4
+
+170.
+id: 4151776535
+ad -> e
+bc -> e
+ac -> e
+ab -> cde
+meet-irreducibles: a bd cd ace bce ade bde acde bcde 
+max antichain: bd cd ace bce ade 
+dimension: 5
+
+171.
+id: 4283896599
+bd -> e
+bc -> e
+ac -> de
+ab -> de
+meet-irreducibles: b ad cd ae bce abde acde bcde 
+max antichain: b ad cd ae 
+dimension: 4
+
+172.
+id: 4283773781
+bd -> e
+ab -> de
+a -> d
+meet-irreducibles: bc acd bce abde acde bcde 
+max antichain: bc acd abde 
+dimension: 3
+
+173.
+id: 4286517525
+bd -> e
+abc -> de
+bc -> e
+a -> e
+meet-irreducibles: b cd abe ace bce abde acde bcde 
+max antichain: cd abe ace bce 
+dimension: 4
+
+174.
+id: 4283766551
+ae -> d
+bc -> e
+ac -> de
+ab -> de
+meet-irreducibles: a ad bd cd bce abde acde bcde 
+max antichain: a bd cd bce 
+dimension: 4
+
+175.
+id: 4279703319
+bc -> de
+ac -> de
+ab -> de
+meet-irreducibles: ad bd cd ae be ce abde acde bcde 
+max antichain: ad bd cd ae be ce 
+dimension: 6
+
+176.
+id: 4149679895
+bc -> e
+ac -> de
+ab -> cde
+meet-irreducibles: ad bd cd ae bce ade bde acde bcde 
+max antichain: ad bd cd ae bce 
+dimension: 5
+
+177.
+id: 4285994261
+bc -> e
+ab -> de
+a -> e
+meet-irreducibles: bd cd ace bce abde acde bcde 
+max antichain: bd cd ace bce 
+dimension: 4
+
+178.
+id: 4283773719
+ae -> d
+bd -> e
+bc -> e
+ac -> d
+ab -> de
+meet-irreducibles: a b acd bce abde acde bcde 
+max antichain: acd bce abde 
+dimension: 3
+
+179.
+id: 4149687063
+bd -> e
+bc -> e
+ac -> d
+ab -> cde
+meet-irreducibles: b acd ae bce ade bde acde bcde 
+max antichain: acd ae bce bde 
+dimension: 4
+
+180.
+id: 4286513239
+d -> e
+abc -> de
+ac -> e
+ab -> e
+meet-irreducibles: a bc abe ace bce abde acde bcde 
+max antichain: bc abe ace 
+dimension: 3
+
+181.
+id: 4151772471
+cd -> e
+ad -> e
+bc -> e
+ab -> cde
+meet-irreducibles: ac bd ace bce ade bde acde bcde 
+max antichain: ac bd bce ade 
+dimension: 4
+
+182.
+id: 4149687091
+ace -> d
+ab -> cde
+b -> e
+meet-irreducibles: ac acd ae bce ade bde acde bcde 
+max antichain: ac ae bce bde 
+dimension: 4
+
+183.
+id: 4294902033
+cd -> e
+b -> e
+a -> e
+meet-irreducibles: c d abce abde acde bcde 
+max antichain: abce abde acde bcde 
+dimension: 4
+
+184.
+id: 4286513237
+d -> e
+abc -> de
+a -> e
+meet-irreducibles: bc abe ace bce abde acde bcde 
+max antichain: bc abe ace 
+dimension: 3
+
+185.
+id: 4283892055
+cd -> e
+bd -> e
+ad -> e
+ac -> de
+ab -> de
+meet-irreducibles: a bc d ae bce abde acde bcde 
+max antichain: a bc d 
+dimension: 3
+
+186.
+id: 4286513175
+d -> e
+abc -> de
+bc -> e
+ac -> e
+ab -> e
+meet-irreducibles: a b c abe ace bce abde acde bcde 
+max antichain: a b c 
+dimension: 3
+
+187.
+id: 4149675351
+cd -> e
+ad -> e
+ac -> de
+ab -> cde
+meet-irreducibles: a bc bd ae bce ade bde acde bcde 
+max antichain: a bc bd 
+dimension: 3
+
+188.
+id: 4114027831
+ad -> ce
+bc -> de
+ab -> cde
+meet-irreducibles: ac bd cd ae be ace bde acde bcde 
+max antichain: ac bd cd ae be 
+dimension: 5
+
+189.
+id: 4283761495
+ae -> d
+cd -> e
+bd -> e
+ac -> de
+ab -> de
+meet-irreducibles: a bc ad bce abde acde bcde 
+max antichain: bc abde acde 
+dimension: 3
+
+190.
+id: 4149674839
+cd -> e
+bd -> e
+ac -> de
+ab -> cde
+meet-irreducibles: bc ad ae bce ade bde acde bcde 
+max antichain: bc ad ae bde 
+dimension: 4
+
+191.
+id: 4285989205
+cd -> e
+bd -> e
+ab -> de
+a -> e
+meet-irreducibles: bc d ace bce abde acde bcde 
+max antichain: bc d ace 
+dimension: 3
+
+192.
+id: 4149544791
+ae -> d
+cd -> e
+ac -> de
+ab -> cde
+meet-irreducibles: a bc ad bd bce ade bde acde bcde 
+max antichain: a bc bd 
+dimension: 3
+
+193.
+id: 4283896595
+ac -> de
+ab -> de
+b -> e
+meet-irreducibles: ad cd ae bce abde acde bcde 
+max antichain: ad cd ae bce 
+dimension: 4
+
+194.
+id: 4285990151
+ad -> e
+c -> e
+ab -> de
+meet-irreducibles: a bd ace bce abde acde bcde 
+max antichain: a bd bce 
+dimension: 3
+
+195.
+id: 4151772501
+cd -> e
+ab -> cde
+a -> e
+meet-irreducibles: bc bd ace bce ade bde acde bcde 
+max antichain: bc bd ace ade 
+dimension: 4
+
+196.
+id: 4286517521
+abc -> de
+b -> e
+a -> e
+meet-irreducibles: cd abe ace bce abde acde bcde 
+max antichain: cd abe ace bce 
+dimension: 4
+
+197.
+id: 4116002103
+ae -> cd
+ad -> c
+bc -> e
+ab -> cde
+meet-irreducibles: a ac bd acd bce bde acde bcde 
+max antichain: a bd bce 
+dimension: 3
+
+198.
+id: 4285989143
+cd -> e
+bd -> e
+ad -> e
+bc -> e
+ac -> e
+ab -> de
+meet-irreducibles: a b c d ace bce abde acde bcde 
+max antichain: a b c d 
+dimension: 4
+
+199.
+id: 4116001591
+ae -> cd
+bd -> e
+bc -> e
+ab -> cde
+meet-irreducibles: b ac ad acd bce bde acde bcde 
+max antichain: ac ad bce bde 
+dimension: 4
+
+200.
+id: 4151772935
+c -> e
+ab -> cde
+meet-irreducibles: ad bd ace bce ade bde acde bcde 
+max antichain: ad bd ace bce 
+dimension: 4
+
+201.
+id: 4149678423
+bd -> e
+ad -> e
+ac -> de
+ab -> cde
+meet-irreducibles: a bc cd ae bce ade bde acde bcde 
+max antichain: a bc cd bde 
+dimension: 4
+
+202.
+id: 4151772439
+cd -> e
+ad -> e
+bc -> e
+ac -> e
+ab -> cde
+meet-irreducibles: a c bd ace bce ade bde acde bcde 
+max antichain: bd ace bce ade 
+dimension: 4
+
+203.
+id: 4149687059
+ac -> d
+ab -> cde
+b -> e
+meet-irreducibles: acd ae bce ade bde acde bcde 
+max antichain: acd ae bce bde 
+dimension: 4
+
+204.
+id: 4283892503
+cd -> e
+bd -> e
+bc -> e
+ac -> de
+ab -> de
+meet-irreducibles: b c ad ae bce abde acde bcde 
+max antichain: b c ad ae 
+dimension: 4
+
+205.
+id: 4149547863
+ae -> d
+bd -> e
+ac -> de
+ab -> cde
+meet-irreducibles: a bc ad cd bce ade bde acde bcde 
+max antichain: a bc cd bde 
+dimension: 4
+
+206.
+id: 4286513429
+cd -> e
+bd -> e
+abc -> de
+bc -> e
+a -> e
+meet-irreducibles: b c d abe ace bce abde acde bcde 
+max antichain: d abe ace bce 
+dimension: 4
+
+207.
+id: 4149675799
+cd -> e
+bc -> e
+ac -> de
+ab -> cde
+meet-irreducibles: c ad bd ae bce ade bde acde bcde 
+max antichain: c ad bd ae 
+dimension: 4
+
+208.
+id: 4283896149
+bd -> e
+ac -> de
+ab -> de
+a -> e
+meet-irreducibles: bc cd ae bce abde acde bcde 
+max antichain: bc cd ae 
+dimension: 3
+
+209.
+id: 4285990165
+cd -> e
+bc -> e
+ab -> de
+a -> e
+meet-irreducibles: c bd ace bce abde acde bcde 
+max antichain: bd ace bce 
+dimension: 3
+
+210.
+id: 4283766101
+bcd -> e
+a -> de
+meet-irreducibles: bc bd cd bce abde acde bcde 
+max antichain: bc bd cd 
+dimension: 3
+
+211.
+id: 4149679445
+bcd -> e
+ac -> de
+ab -> cde
+a -> e
+meet-irreducibles: bc bd cd ae bce ade bde acde bcde 
+max antichain: bc bd cd ae 
+dimension: 4
+
+212.
+id: 4283765589
+bd -> e
+ac -> de
+ab -> de
+a -> d
+meet-irreducibles: bc ad cd bce abde acde bcde 
+max antichain: bc ad cd 
+dimension: 3
+
+213.
+id: 4283896087
+bd -> e
+ad -> e
+bc -> e
+ac -> de
+ab -> de
+meet-irreducibles: a b cd ae bce abde acde bcde 
+max antichain: a b cd 
+dimension: 3
+
+214.
+id: 4151775511
+bd -> e
+ad -> e
+bc -> e
+ac -> e
+ab -> cde
+meet-irreducibles: a b cd ace bce ade bde acde bcde 
+max antichain: cd ace bce ade bde 
+dimension: 5
+
+215.
+id: 4149564757
+ab -> cde
+a -> de
+meet-irreducibles: bcd bce ade bde acde bcde 
+max antichain: bcd bce ade bde 
+dimension: 4
+
+216.
+id: 4149548885
+bcd -> e
+ac -> de
+ab -> cde
+a -> d
+meet-irreducibles: bc ad bd cd bce ade bde acde bcde 
+max antichain: bc ad bd cd 
+dimension: 4
+
+217.
+id: 4279702807
+ad -> e
+bc -> de
+ac -> de
+ab -> de
+meet-irreducibles: a bd cd ae be ce abde acde bcde 
+max antichain: a bd cd be ce 
+dimension: 5
+
+218.
+id: 4149679383
+ad -> e
+bc -> e
+ac -> de
+ab -> cde
+meet-irreducibles: a bd cd ae bce ade bde acde bcde 
+max antichain: a bd cd bce 
+dimension: 4
+
+219.
+id: 4283765527
+ae -> d
+bd -> e
+bc -> e
+ac -> de
+ab -> de
+meet-irreducibles: a b ad cd bce abde acde bcde 
+max antichain: a b cd 
+dimension: 3
+
+220.
+id: 4149678871
+bd -> e
+bc -> e
+ac -> de
+ab -> cde
+meet-irreducibles: b ad cd ae bce ade bde acde bcde 
+max antichain: ad cd ae bce bde 
+dimension: 5
+
+221.
+id: 4149556053
+bd -> e
+ab -> cde
+a -> d
+meet-irreducibles: bc acd bce ade bde acde bcde 
+max antichain: bc acd ade bde 
+dimension: 4
+
+222.
+id: 4285993237
+bd -> e
+bc -> e
+ab -> de
+a -> e
+meet-irreducibles: b cd ace bce abde acde bcde 
+max antichain: cd ace bce abde 
+dimension: 4
+
+223.
+id: 4149548823
+ae -> d
+bc -> e
+ac -> de
+ab -> cde
+meet-irreducibles: a ad bd cd bce ade bde acde bcde 
+max antichain: a bd cd bce 
+dimension: 4
+
+224.
+id: 4145485591
+bc -> de
+ac -> de
+ab -> cde
+meet-irreducibles: ad bd cd ae be ce ade bde acde bcde 
+max antichain: ad bd cd ae be ce 
+dimension: 6
+
+225.
+id: 4116002645
+ae -> cd
+bcd -> e
+ab -> cde
+a -> d
+meet-irreducibles: bc ad bd acd bce bde acde bcde 
+max antichain: bc ad bd 
+dimension: 3
+
+226.
+id: 4283897109
+bc -> e
+ac -> de
+ab -> de
+a -> e
+meet-irreducibles: bd cd ae bce abde acde bcde 
+max antichain: bd cd ae bce 
+dimension: 4
+
+227.
+id: 4151776533
+bc -> e
+ab -> cde
+a -> e
+meet-irreducibles: bd cd ace bce ade bde acde bcde 
+max antichain: bd cd ace bce ade 
+dimension: 5
+
+228.
+id: 4149555991
+ae -> d
+bd -> e
+bc -> e
+ac -> d
+ab -> cde
+meet-irreducibles: a b acd bce ade bde acde bcde 
+max antichain: acd bce ade bde 
+dimension: 4
+
+229.
+id: 4283766549
+bc -> e
+ac -> de
+ab -> de
+a -> d
+meet-irreducibles: ad bd cd bce abde acde bcde 
+max antichain: ad bd cd bce 
+dimension: 4
+
+230.
+id: 4116002583
+ae -> cd
+bc -> e
+ac -> d
+ab -> cde
+meet-irreducibles: a ad bd acd bce bde acde bcde 
+max antichain: a bd bce 
+dimension: 3
+
+231.
+id: 4285988951
+d -> e
+ac -> e
+ab -> de
+meet-irreducibles: a bc ace bce abde acde bcde 
+max antichain: bc ace abde 
+dimension: 3
+
+232.
+id: 4283773717
+bd -> e
+bc -> e
+ab -> de
+a -> d
+meet-irreducibles: b acd bce abde acde bcde 
+max antichain: acd bce abde 
+dimension: 3
+
+233.
+id: 4116002581
+ae -> cd
+bc -> e
+ab -> cde
+a -> d
+meet-irreducibles: ad bd acd bce bde acde bcde 
+max antichain: ad bd bce 
+dimension: 3
+
+234.
+id: 4283892499
+cd -> e
+ac -> de
+ab -> de
+b -> e
+meet-irreducibles: c ad ae bce abde acde bcde 
+max antichain: c ad ae 
+dimension: 3
+
+235.
+id: 4286513425
+cd -> e
+abc -> de
+b -> e
+a -> e
+meet-irreducibles: c d abe ace bce abde acde bcde 
+max antichain: d abe ace bce 
+dimension: 4
+
+236.
+id: 4285988949
+d -> e
+ab -> de
+a -> e
+meet-irreducibles: bc ace bce abde acde bcde 
+max antichain: bc ace abde 
+dimension: 3
+
+237.
+id: 4149674327
+cd -> e
+bd -> e
+ad -> e
+ac -> de
+ab -> cde
+meet-irreducibles: a bc d ae bce ade bde acde bcde 
+max antichain: a bc d 
+dimension: 3
+
+238.
+id: 4285988887
+d -> e
+bc -> e
+ac -> e
+ab -> de
+meet-irreducibles: a b c ace bce abde acde bcde 
+max antichain: a b c 
+dimension: 3
+
+239.
+id: 4283896083
+ad -> e
+ac -> de
+ab -> de
+b -> e
+meet-irreducibles: a cd ae bce abde acde bcde 
+max antichain: a cd bce 
+dimension: 3
+
+240.
+id: 4113896759
+ae -> c
+ad -> ce
+bc -> de
+ab -> cde
+meet-irreducibles: a ac bd cd be ace bde acde bcde 
+max antichain: a bd cd be 
+dimension: 4
+
+241.
+id: 4149543767
+ae -> d
+cd -> e
+bd -> e
+ac -> de
+ab -> cde
+meet-irreducibles: a bc ad bce ade bde acde bcde 
+max antichain: a bc bde 
+dimension: 3
+
+242.
+id: 4285989127
+bd -> e
+ad -> e
+c -> e
+ab -> de
+meet-irreducibles: a b d ace bce abde acde bcde 
+max antichain: a b d 
+dimension: 3
+
+243.
+id: 4283892053
+cd -> e
+bd -> e
+ac -> de
+ab -> de
+a -> e
+meet-irreducibles: bc d ae bce abde acde bcde 
+max antichain: bc d ae 
+dimension: 3
+
+244.
+id: 4283765523
+ae -> d
+ac -> de
+ab -> de
+b -> e
+meet-irreducibles: a ad cd bce abde acde bcde 
+max antichain: a cd bce 
+dimension: 3
+
+245.
+id: 4149678867
+ac -> de
+ab -> cde
+b -> e
+meet-irreducibles: ad cd ae bce ade bde acde bcde 
+max antichain: ad cd ae bce bde 
+dimension: 5
+
+246.
+id: 4286513173
+d -> e
+abc -> de
+bc -> e
+a -> e
+meet-irreducibles: b c abe ace bce abde acde bcde 
+max antichain: abe ace bce 
+dimension: 3
+
+247.
+id: 4151772423
+ad -> e
+c -> e
+ab -> cde
+meet-irreducibles: a bd ace bce ade bde acde bcde 
+max antichain: bd ace bce ade 
+dimension: 4
+
+248.
+id: 4149675349
+cd -> e
+ac -> de
+ab -> cde
+a -> e
+meet-irreducibles: bc bd ae bce ade bde acde bcde 
+max antichain: bc bd ae 
+dimension: 3
+
+249.
+id: 4285993233
+ab -> de
+b -> e
+a -> e
+meet-irreducibles: cd ace bce abde acde bcde 
+max antichain: cd ace bce abde 
+dimension: 4
+
+250.
+id: 4283761493
+cd -> e
+bd -> e
+ac -> de
+ab -> de
+a -> d
+meet-irreducibles: bc ad bce abde acde bcde 
+max antichain: bc abde acde 
+dimension: 3
+
+251.
+id: 4283891991
+cd -> e
+bd -> e
+ad -> e
+bc -> e
+ac -> de
+ab -> de
+meet-irreducibles: a b c d ae bce abde acde bcde 
+max antichain: a b c d 
+dimension: 4
+
+252.
+id: 4151771415
+cd -> e
+bd -> e
+ad -> e
+bc -> e
+ac -> e
+ab -> cde
+meet-irreducibles: a b c d ace bce ade bde acde bcde 
+max antichain: a b c d 
+dimension: 4
+
+253.
+id: 4149675783
+ac -> de
+c -> e
+ab -> cde
+meet-irreducibles: ad bd ae bce ade bde acde bcde 
+max antichain: ad bd ae bce 
+dimension: 4
+
+254.
+id: 4149544789
+cd -> e
+ac -> de
+ab -> cde
+a -> d
+meet-irreducibles: bc ad bd bce ade bde acde bcde 
+max antichain: bc ad bd 
+dimension: 3
+
+255.
+id: 4149675287
+cd -> e
+ad -> e
+bc -> e
+ac -> de
+ab -> cde
+meet-irreducibles: a c bd ae bce ade bde acde bcde 
+max antichain: a c bd 
+dimension: 3
+
+256.
+id: 4285990149
+c -> e
+ab -> de
+a -> e
+meet-irreducibles: bd ace bce abde acde bcde 
+max antichain: bd ace bce 
+dimension: 3
+
+257.
+id: 4283761431
+ae -> d
+cd -> e
+bd -> e
+bc -> e
+ac -> de
+ab -> de
+meet-irreducibles: a b c ad bce abde acde bcde 
+max antichain: a b c 
+dimension: 3
+
+258.
+id: 4149674775
+cd -> e
+bd -> e
+bc -> e
+ac -> de
+ab -> cde
+meet-irreducibles: b c ad ae bce ade bde acde bcde 
+max antichain: b c ad ae 
+dimension: 4
+
+259.
+id: 4116002101
+ae -> cd
+bc -> e
+ab -> cde
+a -> c
+meet-irreducibles: ac bd acd bce bde acde bcde 
+max antichain: ac bd bce 
+dimension: 3
+
+260.
+id: 4285989141
+cd -> e
+bd -> e
+bc -> e
+ab -> de
+a -> e
+meet-irreducibles: b c d ace bce abde acde bcde 
+max antichain: b c d 
+dimension: 3
+
+261.
+id: 4149544727
+ae -> d
+cd -> e
+bc -> e
+ac -> de
+ab -> cde
+meet-irreducibles: a c ad bd bce ade bde acde bcde 
+max antichain: a c bd 
+dimension: 3
+
+262.
+id: 4145481495
+cd -> e
+bc -> de
+ac -> de
+ab -> cde
+meet-irreducibles: c ad bd ae be ce ade bde acde bcde 
+max antichain: c ad bd ae be 
+dimension: 5
+
+263.
+id: 4283765077
+bd -> e
+a -> de
+meet-irreducibles: bc cd bce abde acde bcde 
+max antichain: bc cd abde 
+dimension: 3
+
+264.
+id: 4149678421
+bd -> e
+ac -> de
+ab -> cde
+a -> e
+meet-irreducibles: bc cd ae bce ade bde acde bcde 
+max antichain: bc cd ae bde 
+dimension: 4
+
+265.
+id: 4283773713
+ab -> de
+b -> e
+a -> d
+meet-irreducibles: acd bce abde acde bcde 
+max antichain: acd bce abde 
+dimension: 3
+
+266.
+id: 4151772437
+cd -> e
+bc -> e
+ab -> cde
+a -> e
+meet-irreducibles: c bd ace bce ade bde acde bcde 
+max antichain: bd ace bce ade 
+dimension: 4
+
+267.
+id: 4149548373
+bcd -> e
+ab -> cde
+a -> de
+meet-irreducibles: bc bd cd bce ade bde acde bcde 
+max antichain: bc bd cd ade 
+dimension: 4
+
+268.
+id: 4149547861
+bd -> e
+ac -> de
+ab -> cde
+a -> d
+meet-irreducibles: bc ad cd bce ade bde acde bcde 
+max antichain: bc ad cd bde 
+dimension: 4
+
+269.
+id: 4279701783
+bd -> e
+ad -> e
+bc -> de
+ac -> de
+ab -> de
+meet-irreducibles: a b cd ae be ce abde acde bcde 
+max antichain: a b cd ce 
+dimension: 4
+
+270.
+id: 4149678359
+bd -> e
+ad -> e
+bc -> e
+ac -> de
+ab -> cde
+meet-irreducibles: a b cd ae bce ade bde acde bcde 
+max antichain: a cd bce bde 
+dimension: 4
+
+271.
+id: 4116010325
+a -> cde
+meet-irreducibles: bcd bce bde acde bcde 
+max antichain: bcd bce bde acde 
+dimension: 4
+
+272.
+id: 4145485079
+ad -> e
+bc -> de
+ac -> de
+ab -> cde
+meet-irreducibles: a bd cd ae be ce ade bde acde bcde 
+max antichain: a bd cd be ce 
+dimension: 5
+
+273.
+id: 4114027799
+ad -> ce
+bc -> de
+ac -> e
+ab -> cde
+meet-irreducibles: a bd cd ae be ace bde acde bcde 
+max antichain: a bd cd be 
+dimension: 4
+
+274.
+id: 4116002133
+bcd -> e
+ab -> cde
+a -> cd
+meet-irreducibles: bc bd acd bce bde acde bcde 
+max antichain: bc bd acd 
+dimension: 3
+
+275.
+id: 4279571223
+ae -> d
+bd -> e
+bc -> de
+ac -> de
+ab -> de
+meet-irreducibles: a b ad cd be ce abde acde bcde 
+max antichain: a b cd ce 
+dimension: 4
+
+276.
+id: 4149547799
+ae -> d
+bd -> e
+bc -> e
+ac -> de
+ab -> cde
+meet-irreducibles: a b ad cd bce ade bde acde bcde 
+max antichain: a cd bce bde 
+dimension: 4
+
+277.
+id: 4283896085
+bd -> e
+bc -> e
+ac -> de
+ab -> de
+a -> e
+meet-irreducibles: b cd ae bce abde acde bcde 
+max antichain: b cd ae 
+dimension: 3
+
+278.
+id: 4151775509
+bd -> e
+bc -> e
+ab -> cde
+a -> e
+meet-irreducibles: b cd ace bce ade bde acde bcde 
+max antichain: cd ace bce ade bde 
+dimension: 5
+
+279.
+id: 4283766037
+bc -> e
+a -> de
+meet-irreducibles: bd cd bce abde acde bcde 
+max antichain: bd cd bce 
+dimension: 3
+
+280.
+id: 4279702805
+bc -> de
+ac -> de
+ab -> de
+a -> e
+meet-irreducibles: bd cd ae be ce abde acde bcde 
+max antichain: bd cd ae be ce 
+dimension: 5
+
+281.
+id: 4149679381
+bc -> e
+ac -> de
+ab -> cde
+a -> e
+meet-irreducibles: bd cd ae bce ade bde acde bcde 
+max antichain: bd cd ae bce 
+dimension: 4
+
+282.
+id: 4283765525
+bd -> e
+bc -> e
+ac -> de
+ab -> de
+a -> d
+meet-irreducibles: b ad cd bce abde acde bcde 
+max antichain: b ad cd 
+dimension: 3
+
+283.
+id: 4116001559
+ae -> cd
+bd -> e
+bc -> e
+ac -> d
+ab -> cde
+meet-irreducibles: a b ad acd bce bde acde bcde 
+max antichain: a bce bde 
+dimension: 3
+
+284.
+id: 4149548821
+bc -> e
+ac -> de
+ab -> cde
+a -> d
+meet-irreducibles: ad bd cd bce ade bde acde bcde 
+max antichain: ad bd cd bce 
+dimension: 4
+
+285.
+id: 4283891799
+d -> e
+ac -> de
+ab -> de
+meet-irreducibles: a bc ae bce abde acde bcde 
+max antichain: bc abde acde 
+dimension: 3
+
+286.
+id: 4294902017
+c -> e
+b -> e
+a -> e
+meet-irreducibles: d abce abde acde bcde 
+max antichain: abce abde acde bcde 
+dimension: 4
+
+287.
+id: 4116001587
+ae -> cd
+ab -> cde
+b -> e
+meet-irreducibles: ac ad acd bce bde acde bcde 
+max antichain: ac ad bce bde 
+dimension: 4
+
+288.
+id: 4114023735
+cd -> e
+ad -> ce
+bc -> de
+ab -> cde
+meet-irreducibles: ac bd ae be ace bde acde bcde 
+max antichain: ac bd ae be 
+dimension: 4
+
+289.
+id: 4149555989
+bd -> e
+bc -> e
+ab -> cde
+a -> d
+meet-irreducibles: b acd bce ade bde acde bcde 
+max antichain: acd bce ade bde 
+dimension: 4
+
+290.
+id: 4283761427
+ae -> d
+cd -> e
+ac -> de
+ab -> de
+b -> e
+meet-irreducibles: a c ad bce abde acde bcde 
+max antichain: bce abde acde 
+dimension: 3
+
+291.
+id: 4149674771
+cd -> e
+ac -> de
+ab -> cde
+b -> e
+meet-irreducibles: c ad ae bce ade bde acde bcde 
+max antichain: c ad ae bde 
+dimension: 4
+
+292.
+id: 4285989137
+cd -> e
+ab -> de
+b -> e
+a -> e
+meet-irreducibles: c d ace bce abde acde bcde 
+max antichain: d ace bce 
+dimension: 3
+
+293.
+id: 4285988871
+d -> e
+c -> e
+ab -> de
+meet-irreducibles: a b ace bce abde acde bcde 
+max antichain: ace bce abde 
+dimension: 3
+
+294.
+id: 4283891797
+d -> e
+ac -> de
+ab -> de
+a -> e
+meet-irreducibles: bc ae bce abde acde bcde 
+max antichain: bc abde acde 
+dimension: 3
+
+295.
+id: 4283891735
+d -> e
+bc -> e
+ac -> de
+ab -> de
+meet-irreducibles: a b c ae bce abde acde bcde 
+max antichain: a b c 
+dimension: 3
+
+296.
+id: 4113895735
+ae -> c
+bd -> e
+ad -> ce
+bc -> de
+ab -> cde
+meet-irreducibles: a b ac cd be ace bde acde bcde 
+max antichain: a b cd 
+dimension: 3
+
+297.
+id: 4149678355
+ad -> e
+ac -> de
+ab -> cde
+b -> e
+meet-irreducibles: a cd ae bce ade bde acde bcde 
+max antichain: a cd bce bde 
+dimension: 4
+
+298.
+id: 4113634615
+be -> d
+ae -> c
+ad -> ce
+bc -> de
+ab -> cde
+meet-irreducibles: a b ac bd cd ace bde acde bcde 
+max antichain: a b cd 
+dimension: 3
+
+299.
+id: 4151771399
+bd -> e
+ad -> e
+c -> e
+ab -> cde
+meet-irreducibles: a b d ace bce ade bde acde bcde 
+max antichain: ace bce ade bde 
+dimension: 4
+
+300.
+id: 4283760981
+cd -> e
+bd -> e
+a -> de
+meet-irreducibles: bc d bce abde acde bcde 
+max antichain: bc abde acde 
+dimension: 3
+
+301.
+id: 4149674325
+cd -> e
+bd -> e
+ac -> de
+ab -> cde
+a -> e
+meet-irreducibles: bc d ae bce ade bde acde bcde 
+max antichain: bc d ae 
+dimension: 3
+
+302.
+id: 4149547795
+ae -> d
+ac -> de
+ab -> cde
+b -> e
+meet-irreducibles: a ad cd bce ade bde acde bcde 
+max antichain: a cd bce bde 
+dimension: 4
+
+303.
+id: 4285988885
+d -> e
+bc -> e
+ab -> de
+a -> e
+meet-irreducibles: b c ace bce abde acde bcde 
+max antichain: ace bce abde 
+dimension: 3
+
+304.
+id: 4149675271
+ad -> e
+ac -> de
+c -> e
+ab -> cde
+meet-irreducibles: a bd ae bce ade bde acde bcde 
+max antichain: a bd bce 
+dimension: 3
+
+305.
+id: 4149544277
+cd -> e
+ab -> cde
+a -> de
+meet-irreducibles: bc bd bce ade bde acde bcde 
+max antichain: bc bd ade 
+dimension: 3
+
+306.
+id: 4283896081
+ac -> de
+ab -> de
+b -> e
+a -> e
+meet-irreducibles: cd ae bce abde acde bcde 
+max antichain: cd ae bce 
+dimension: 3
+
+307.
+id: 4151775505
+ab -> cde
+b -> e
+a -> e
+meet-irreducibles: cd ace bce ade bde acde bcde 
+max antichain: cd ace bce ade bde 
+dimension: 5
+
+308.
+id: 4113896757
+ad -> ce
+bc -> de
+ab -> cde
+a -> c
+meet-irreducibles: ac bd cd be ace bde acde bcde 
+max antichain: ac bd cd be 
+dimension: 4
+
+309.
+id: 4149674759
+bd -> e
+ac -> de
+c -> e
+ab -> cde
+meet-irreducibles: b ad ae bce ade bde acde bcde 
+max antichain: ad ae bce bde 
+dimension: 4
+
+310.
+id: 4149543765
+cd -> e
+bd -> e
+ac -> de
+ab -> cde
+a -> d
+meet-irreducibles: bc ad bce ade bde acde bcde 
+max antichain: bc ad bde 
+dimension: 3
+
+311.
+id: 4279697687
+cd -> e
+bd -> e
+ad -> e
+bc -> de
+ac -> de
+ab -> de
+meet-irreducibles: a b c d ae be ce abde acde bcde 
+max antichain: a b c d 
+dimension: 4
+
+312.
+id: 4149674263
+cd -> e
+bd -> e
+ad -> e
+bc -> e
+ac -> de
+ab -> cde
+meet-irreducibles: a b c d ae bce ade bde acde bcde 
+max antichain: a b c d 
+dimension: 4
+
+313.
+id: 4285989125
+bd -> e
+c -> e
+ab -> de
+a -> e
+meet-irreducibles: b d ace bce abde acde bcde 
+max antichain: b d ace 
+dimension: 3
+
+314.
+id: 4149544711
+ae -> d
+ac -> de
+c -> e
+ab -> cde
+meet-irreducibles: a ad bd bce ade bde acde bcde 
+max antichain: a bd bce 
+dimension: 3
+
+315.
+id: 4145481479
+bc -> de
+ac -> de
+c -> e
+ab -> cde
+meet-irreducibles: ad bd ae be ce ade bde acde bcde 
+max antichain: ad bd ae be ce 
+dimension: 5
+
+316.
+id: 4283765521
+ac -> de
+ab -> de
+b -> e
+a -> d
+meet-irreducibles: ad cd bce abde acde bcde 
+max antichain: ad cd bce 
+dimension: 3
+
+317.
+id: 4116001555
+ae -> cd
+ac -> d
+ab -> cde
+b -> e
+meet-irreducibles: a ad acd bce bde acde bcde 
+max antichain: a bce bde 
+dimension: 3
+
+318.
+id: 4145480983
+cd -> e
+ad -> e
+bc -> de
+ac -> de
+ab -> cde
+meet-irreducibles: a c bd ae be ce ade bde acde bcde 
+max antichain: a c bd be 
+dimension: 4
+
+319.
+id: 4114023703
+cd -> e
+ad -> ce
+bc -> de
+ac -> e
+ab -> cde
+meet-irreducibles: a c bd ae be ace bde acde bcde 
+max antichain: a c bd be 
+dimension: 4
+
+320.
+id: 4151772421
+c -> e
+ab -> cde
+a -> e
+meet-irreducibles: bd ace bce ade bde acde bcde 
+max antichain: bd ace bce ade 
+dimension: 4
+
+321.
+id: 4279567127
+ae -> d
+cd -> e
+bd -> e
+bc -> de
+ac -> de
+ab -> de
+meet-irreducibles: a b c ad be ce abde acde bcde 
+max antichain: a b c 
+dimension: 3
+
+322.
+id: 4149543703
+ae -> d
+cd -> e
+bd -> e
+bc -> e
+ac -> de
+ab -> cde
+meet-irreducibles: a b c ad bce ade bde acde bcde 
+max antichain: a b c 
+dimension: 3
+
+323.
+id: 4283891989
+cd -> e
+bd -> e
+bc -> e
+ac -> de
+ab -> de
+a -> e
+meet-irreducibles: b c d ae bce abde acde bcde 
+max antichain: b c d ae 
+dimension: 4
+
+324.
+id: 4151771413
+cd -> e
+bd -> e
+bc -> e
+ab -> cde
+a -> e
+meet-irreducibles: b c d ace bce ade bde acde bcde 
+max antichain: ace bce ade bde 
+dimension: 4
+
+325.
+id: 4145350423
+ae -> d
+cd -> e
+bc -> de
+ac -> de
+ab -> cde
+meet-irreducibles: a c ad bd be ce ade bde acde bcde 
+max antichain: a c bd be 
+dimension: 4
+
+326.
+id: 4149547349
+bd -> e
+ab -> cde
+a -> de
+meet-irreducibles: bc cd bce ade bde acde bcde 
+max antichain: bc cd ade bde 
+dimension: 4
+
+327.
+id: 4149555985
+ab -> cde
+b -> e
+a -> d
+meet-irreducibles: acd bce ade bde acde bcde 
+max antichain: acd bce ade bde 
+dimension: 4
+
+328.
+id: 4149675285
+cd -> e
+bc -> e
+ac -> de
+ab -> cde
+a -> e
+meet-irreducibles: c bd ae bce ade bde acde bcde 
+max antichain: c bd ae 
+dimension: 3
+
+329.
+id: 4115993941
+bcd -> e
+a -> cde
+meet-irreducibles: bc bd cd bce bde acde bcde 
+max antichain: bc bd cd 
+dimension: 3
+
+330.
+id: 4283761429
+cd -> e
+bd -> e
+bc -> e
+ac -> de
+ab -> de
+a -> d
+meet-irreducibles: b c ad bce abde acde bcde 
+max antichain: b c ad 
+dimension: 3
+
+331.
+id: 4145484055
+bd -> e
+ad -> e
+bc -> de
+ac -> de
+ab -> cde
+meet-irreducibles: a b cd ae be ce ade bde acde bcde 
+max antichain: a b cd ce 
+dimension: 4
+
+332.
+id: 4114026775
+bd -> e
+ad -> ce
+bc -> de
+ac -> e
+ab -> cde
+meet-irreducibles: a b cd ae be ace bde acde bcde 
+max antichain: a b cd 
+dimension: 3
+
+333.
+id: 4149544725
+cd -> e
+bc -> e
+ac -> de
+ab -> cde
+a -> d
+meet-irreducibles: c ad bd bce ade bde acde bcde 
+max antichain: c ad bd 
+dimension: 3
+
+334.
+id: 3579139413
+a -> bcde
+meet-irreducibles: bcd bce bde cde bcde 
+max antichain: bcd bce bde cde 
+dimension: 4
+
+335.
+id: 4145353495
+ae -> d
+bd -> e
+bc -> de
+ac -> de
+ab -> cde
+meet-irreducibles: a b ad cd be ce ade bde acde bcde 
+max antichain: a b cd ce 
+dimension: 4
+
+336.
+id: 4283765013
+bd -> e
+bc -> e
+a -> de
+meet-irreducibles: b cd bce abde acde bcde 
+max antichain: cd bce abde 
+dimension: 3
+
+337.
+id: 4279701781
+bd -> e
+bc -> de
+ac -> de
+ab -> de
+a -> e
+meet-irreducibles: b cd ae be ce abde acde bcde 
+max antichain: b cd ae ce 
+dimension: 4
+
+338.
+id: 4149678357
+bd -> e
+bc -> e
+ac -> de
+ab -> cde
+a -> e
+meet-irreducibles: b cd ae bce ade bde acde bcde 
+max antichain: cd ae bce bde 
+dimension: 4
+
+339.
+id: 4294901761
+d -> e
+c -> e
+b -> e
+a -> e
+meet-irreducibles: abce abde acde bcde 
+max antichain: abce abde acde bcde 
+dimension: 4
+
+340.
+id: 4279571733
+bc -> de
+a -> de
+meet-irreducibles: bd cd be ce abde acde bcde 
+max antichain: bd cd be ce 
+dimension: 4
+
+341.
+id: 4149548309
+bc -> e
+ab -> cde
+a -> de
+meet-irreducibles: bd cd bce ade bde acde bcde 
+max antichain: bd cd bce ade 
+dimension: 4
+
+342.
+id: 4145485077
+bc -> de
+ac -> de
+ab -> cde
+a -> e
+meet-irreducibles: bd cd ae be ce ade bde acde bcde 
+max antichain: bd cd ae be ce 
+dimension: 5
+
+343.
+id: 4114027797
+ad -> ce
+bc -> de
+ab -> cde
+a -> e
+meet-irreducibles: bd cd ae be ace bde acde bcde 
+max antichain: bd cd ae be 
+dimension: 4
+
+344.
+id: 4279571221
+bd -> e
+bc -> de
+ac -> de
+ab -> de
+a -> d
+meet-irreducibles: b ad cd be ce abde acde bcde 
+max antichain: b ad cd ce 
+dimension: 4
+
+345.
+id: 4149547797
+bd -> e
+bc -> e
+ac -> de
+ab -> cde
+a -> d
+meet-irreducibles: b ad cd bce ade bde acde bcde 
+max antichain: ad cd bce bde 
+dimension: 4
+
+346.
+id: 4286513169
+d -> e
+abc -> de
+b -> e
+a -> e
+meet-irreducibles: c abe ace bce abde acde bcde 
+max antichain: abe ace bce 
+dimension: 3
+
+347.
+id: 4283892483
+ac -> de
+c -> e
+ab -> de
+b -> e
+meet-irreducibles: ad ae bce abde acde bcde 
+max antichain: ad ae bce 
+dimension: 3
+
+348.
+id: 4116002069
+bc -> e
+ab -> cde
+a -> cd
+meet-irreducibles: bd acd bce bde acde bcde 
+max antichain: bd acd bce 
+dimension: 3
+
+349.
+id: 4283891987
+cd -> e
+ad -> e
+ac -> de
+ab -> de
+b -> e
+meet-irreducibles: a c d ae bce abde acde bcde 
+max antichain: a c d 
+dimension: 3
+
+350.
+id: 4149674071
+d -> e
+ac -> de
+ab -> cde
+meet-irreducibles: a bc ae bce ade bde acde bcde 
+max antichain: a bc bde 
+dimension: 3
+
+351.
+id: 4286513409
+abc -> de
+c -> e
+b -> e
+a -> e
+meet-irreducibles: d abe ace bce abde acde bcde 
+max antichain: d abe ace bce 
+dimension: 4
+
+352.
+id: 4113892663
+ae -> c
+cd -> e
+ad -> ce
+bc -> de
+ab -> cde
+meet-irreducibles: a ac bd be ace bde acde bcde 
+max antichain: a bd be 
+dimension: 3
+
+353.
+id: 4116001557
+ae -> cd
+bd -> e
+bc -> e
+ab -> cde
+a -> d
+meet-irreducibles: b ad acd bce bde acde bcde 
+max antichain: ad bce bde 
+dimension: 3
+
+354.
+id: 4279567123
+ae -> d
+cd -> e
+bc -> de
+ac -> de
+ab -> de
+b -> e
+meet-irreducibles: a c ad be ce abde acde bcde 
+max antichain: a c be 
+dimension: 3
+
+355.
+id: 4149543699
+ae -> d
+cd -> e
+ac -> de
+ab -> cde
+b -> e
+meet-irreducibles: a c ad bce ade bde acde bcde 
+max antichain: a c bde 
+dimension: 3
+
+356.
+id: 4283891985
+cd -> e
+ac -> de
+ab -> de
+b -> e
+a -> e
+meet-irreducibles: c d ae bce abde acde bcde 
+max antichain: c d ae 
+dimension: 3
+
+357.
+id: 4151771409
+cd -> e
+ab -> cde
+b -> e
+a -> e
+meet-irreducibles: c d ace bce ade bde acde bcde 
+max antichain: ace bce ade bde 
+dimension: 4
+
+358.
+id: 4151771143
+d -> e
+c -> e
+ab -> cde
+meet-irreducibles: a b ace bce ade bde acde bcde 
+max antichain: ace bce ade bde 
+dimension: 4
+
+359.
+id: 4283760725
+d -> e
+a -> de
+meet-irreducibles: bc bce abde acde bcde 
+max antichain: bc abde acde 
+dimension: 3
+
+360.
+id: 4149674069
+d -> e
+ac -> de
+ab -> cde
+a -> e
+meet-irreducibles: bc ae bce ade bde acde bcde 
+max antichain: bc ae bde 
+dimension: 3
+
+361.
+id: 4113892661
+cd -> e
+ad -> ce
+bc -> de
+ab -> cde
+a -> c
+meet-irreducibles: ac bd be ace bde acde bcde 
+max antichain: ac bd be 
+dimension: 3
+
+362.
+id: 4283761425
+cd -> e
+ac -> de
+ab -> de
+b -> e
+a -> d
+meet-irreducibles: c ad bce abde acde bcde 
+max antichain: bce abde acde 
+dimension: 3
+
+363.
+id: 4279697431
+d -> e
+bc -> de
+ac -> de
+ab -> de
+meet-irreducibles: a b c ae be ce abde acde bcde 
+max antichain: a b c 
+dimension: 3
+
+364.
+id: 4149674007
+d -> e
+bc -> e
+ac -> de
+ab -> cde
+meet-irreducibles: a b c ae bce ade bde acde bcde 
+max antichain: a b c 
+dimension: 3
+
+365.
+id: 4285988869
+d -> e
+c -> e
+ab -> de
+a -> e
+meet-irreducibles: b ace bce abde acde bcde 
+max antichain: ace bce abde 
+dimension: 3
+
+366.
+id: 4149674247
+bd -> e
+ad -> e
+ac -> de
+c -> e
+ab -> cde
+meet-irreducibles: a b d ae bce ade bde acde bcde 
+max antichain: a b d 
+dimension: 3
+
+367.
+id: 4149543253
+cd -> e
+bd -> e
+ab -> cde
+a -> de
+meet-irreducibles: bc d bce ade bde acde bcde 
+max antichain: bc ade bde 
+dimension: 3
+
+368.
+id: 4283891733
+d -> e
+bc -> e
+ac -> de
+ab -> de
+a -> e
+meet-irreducibles: b c ae bce abde acde bcde 
+max antichain: b c ae 
+dimension: 3
+
+369.
+id: 4113895733
+bd -> e
+ad -> ce
+bc -> de
+ab -> cde
+a -> c
+meet-irreducibles: b ac cd be ace bde acde bcde 
+max antichain: b ac cd 
+dimension: 3
+
+370.
+id: 4145480967
+ad -> e
+bc -> de
+ac -> de
+c -> e
+ab -> cde
+meet-irreducibles: a bd ae be ce ade bde acde bcde 
+max antichain: a bd be ce 
+dimension: 4
+
+371.
+id: 4114023687
+ad -> ce
+bc -> de
+c -> e
+ab -> cde
+meet-irreducibles: a bd ae be ace bde acde bcde 
+max antichain: a bd be 
+dimension: 3
+
+372.
+id: 4115989845
+cd -> e
+a -> cde
+meet-irreducibles: bc bd bce bde acde bcde 
+max antichain: bc bd acde 
+dimension: 3
+
+373.
+id: 4283765009
+b -> e
+a -> de
+meet-irreducibles: cd bce abde acde bcde 
+max antichain: cd bce abde 
+dimension: 3
+
+374.
+id: 4279701777
+bc -> de
+ac -> de
+ab -> de
+b -> e
+a -> e
+meet-irreducibles: cd ae be ce abde acde bcde 
+max antichain: cd ae be ce 
+dimension: 4
+
+375.
+id: 4149678353
+ac -> de
+ab -> cde
+b -> e
+a -> e
+meet-irreducibles: cd ae bce ade bde acde bcde 
+max antichain: cd ae bce bde 
+dimension: 4
+
+376.
+id: 4149543687
+ae -> d
+bd -> e
+ac -> de
+c -> e
+ab -> cde
+meet-irreducibles: a b ad bce ade bde acde bcde 
+max antichain: a bce bde 
+dimension: 3
+
+377.
+id: 4113634613
+be -> d
+ad -> ce
+bc -> de
+ab -> cde
+a -> c
+meet-irreducibles: b ac bd cd ace bde acde bcde 
+max antichain: b ac cd 
+dimension: 3
+
+378.
+id: 4145479959
+cd -> e
+bd -> e
+ad -> e
+bc -> de
+ac -> de
+ab -> cde
+meet-irreducibles: a b c d ae be ce ade bde acde bcde 
+max antichain: a b c d 
+dimension: 4
+
+379.
+id: 4114022679
+cd -> e
+bd -> e
+ad -> ce
+bc -> de
+ac -> e
+ab -> cde
+meet-irreducibles: a b c d ae be ace bde acde bcde 
+max antichain: a b c d 
+dimension: 4
+
+380.
+id: 4151771397
+bd -> e
+c -> e
+ab -> cde
+a -> e
+meet-irreducibles: b d ace bce ade bde acde bcde 
+max antichain: ace bce ade bde 
+dimension: 4
+
+381.
+id: 4145350407
+ae -> d
+bc -> de
+ac -> de
+c -> e
+ab -> cde
+meet-irreducibles: a ad bd be ce ade bde acde bcde 
+max antichain: a bd be ce 
+dimension: 4
+
+382.
+id: 4144432903
+c -> de
+ab -> cde
+meet-irreducibles: ad bd ae be ade bde acde bcde 
+max antichain: ad bd ae be 
+dimension: 4
+
+383.
+id: 4279571217
+bc -> de
+ac -> de
+ab -> de
+b -> e
+a -> d
+meet-irreducibles: ad cd be ce abde acde bcde 
+max antichain: ad cd be ce 
+dimension: 4
+
+384.
+id: 4149547793
+ac -> de
+ab -> cde
+b -> e
+a -> d
+meet-irreducibles: ad cd bce ade bde acde bcde 
+max antichain: ad cd bce bde 
+dimension: 4
+
+385.
+id: 4149675269
+ac -> de
+c -> e
+ab -> cde
+a -> e
+meet-irreducibles: bd ae bce ade bde acde bcde 
+max antichain: bd ae bce 
+dimension: 3
+
+386.
+id: 4145349399
+ae -> d
+cd -> e
+bd -> e
+bc -> de
+ac -> de
+ab -> cde
+meet-irreducibles: a b c ad be ce ade bde acde bcde 
+max antichain: a b c 
+dimension: 3
+
+387.
+id: 4283760917
+cd -> e
+bd -> e
+bc -> e
+a -> de
+meet-irreducibles: b c d bce abde acde bcde 
+max antichain: b c d 
+dimension: 3
+
+388.
+id: 4279697685
+cd -> e
+bd -> e
+bc -> de
+ac -> de
+ab -> de
+a -> e
+meet-irreducibles: b c d ae be ce abde acde bcde 
+max antichain: b c d ae 
+dimension: 4
+
+389.
+id: 4149674261
+cd -> e
+bd -> e
+bc -> e
+ac -> de
+ab -> cde
+a -> e
+meet-irreducibles: b c d ae bce ade bde acde bcde 
+max antichain: b c d ae 
+dimension: 4
+
+390.
+id: 4145088279
+be -> d
+ae -> d
+cd -> e
+bc -> de
+ac -> de
+ab -> cde
+meet-irreducibles: a b c ad bd ce ade bde acde bcde 
+max antichain: a b c 
+dimension: 3
+
+391.
+id: 4149544709
+ac -> de
+c -> e
+ab -> cde
+a -> d
+meet-irreducibles: ad bd bce ade bde acde bcde 
+max antichain: ad bd bce 
+dimension: 3
+
+392.
+id: 4149544213
+cd -> e
+bc -> e
+ab -> cde
+a -> de
+meet-irreducibles: c bd bce ade bde acde bcde 
+max antichain: c bd ade 
+dimension: 3
+
+393.
+id: 4116001553
+ae -> cd
+ab -> cde
+b -> e
+a -> d
+meet-irreducibles: ad acd bce bde acde bcde 
+max antichain: ad bce bde 
+dimension: 3
+
+394.
+id: 4145480981
+cd -> e
+bc -> de
+ac -> de
+ab -> cde
+a -> e
+meet-irreducibles: c bd ae be ce ade bde acde bcde 
+max antichain: c bd ae be 
+dimension: 4
+
+395.
+id: 4114023701
+cd -> e
+ad -> ce
+bc -> de
+ab -> cde
+a -> e
+meet-irreducibles: c bd ae be ace bde acde bcde 
+max antichain: c bd ae be 
+dimension: 4
+
+396.
+id: 3579123029
+bcd -> e
+a -> bcde
+meet-irreducibles: bc bd cd bce bde cde bcde 
+max antichain: bc bd cd 
+dimension: 3
+
+397.
+id: 4279567125
+cd -> e
+bd -> e
+bc -> de
+ac -> de
+ab -> de
+a -> d
+meet-irreducibles: b c ad be ce abde acde bcde 
+max antichain: b c ad 
+dimension: 3
+
+398.
+id: 4149543701
+cd -> e
+bd -> e
+bc -> e
+ac -> de
+ab -> cde
+a -> d
+meet-irreducibles: b c ad bce ade bde acde bcde 
+max antichain: b c ad 
+dimension: 3
+
+399.
+id: 4145350421
+cd -> e
+bc -> de
+ac -> de
+ab -> cde
+a -> d
+meet-irreducibles: c ad bd be ce ade bde acde bcde 
+max antichain: c ad bd be 
+dimension: 4
+
+400.
+id: 4283891731
+d -> e
+ac -> de
+ab -> de
+b -> e
+meet-irreducibles: a c ae bce abde acde bcde 
+max antichain: bce abde acde 
+dimension: 3
+
+401.
+id: 4113895731
+ae -> c
+ad -> ce
+bc -> de
+ab -> cde
+b -> e
+meet-irreducibles: a ac cd be ace bde acde bcde 
+max antichain: a cd be 
+dimension: 3
+
+402.
+id: 4279570709
+bd -> e
+bc -> de
+a -> de
+meet-irreducibles: b cd be ce abde acde bcde 
+max antichain: b cd ce 
+dimension: 3
+
+403.
+id: 4149547285
+bd -> e
+bc -> e
+ab -> cde
+a -> de
+meet-irreducibles: b cd bce ade bde acde bcde 
+max antichain: cd bce ade bde 
+dimension: 4
+
+404.
+id: 4145484053
+bd -> e
+bc -> de
+ac -> de
+ab -> cde
+a -> e
+meet-irreducibles: b cd ae be ce ade bde acde bcde 
+max antichain: b cd ae ce 
+dimension: 4
+
+405.
+id: 4114026773
+bd -> e
+ad -> ce
+bc -> de
+ab -> cde
+a -> e
+meet-irreducibles: b cd ae be ace bde acde bcde 
+max antichain: b cd ae 
+dimension: 3
+
+406.
+id: 4286513153
+d -> e
+abc -> de
+c -> e
+b -> e
+a -> e
+meet-irreducibles: abe ace bce abde acde bcde 
+max antichain: abe ace bce 
+dimension: 3
+
+407.
+id: 4145354005
+bc -> de
+ab -> cde
+a -> de
+meet-irreducibles: bd cd be ce ade bde acde bcde 
+max antichain: bd cd be ce ade 
+dimension: 5
+
+408.
+id: 4115993877
+bc -> e
+a -> cde
+meet-irreducibles: bd cd bce bde acde bcde 
+max antichain: bd cd bce 
+dimension: 3
+
+409.
+id: 4113896725
+bc -> de
+ab -> cde
+a -> ce
+meet-irreducibles: bd cd be ace bde acde bcde 
+max antichain: bd cd be ace 
+dimension: 4
+
+410.
+id: 4283891971
+ad -> e
+ac -> de
+c -> e
+ab -> de
+b -> e
+meet-irreducibles: a d ae bce abde acde bcde 
+max antichain: a d bce 
+dimension: 3
+
+411.
+id: 4145353493
+bd -> e
+bc -> de
+ac -> de
+ab -> cde
+a -> d
+meet-irreducibles: b ad cd be ce ade bde acde bcde 
+max antichain: b ad cd ce 
+dimension: 4
+
+412.
+id: 4285988881
+d -> e
+ab -> de
+b -> e
+a -> e
+meet-irreducibles: c ace bce abde acde bcde 
+max antichain: ace bce abde 
+dimension: 3
+
+413.
+id: 4116001045
+bd -> e
+bc -> e
+ab -> cde
+a -> cd
+meet-irreducibles: b acd bce bde acde bcde 
+max antichain: acd bce bde 
+dimension: 3
+
+414.
+id: 4283761411
+ae -> d
+ac -> de
+c -> e
+ab -> de
+b -> e
+meet-irreducibles: a ad bce abde acde bcde 
+max antichain: bce abde acde 
+dimension: 3
+
+415.
+id: 4113891639
+ae -> c
+cd -> e
+bd -> e
+ad -> ce
+bc -> de
+ab -> cde
+meet-irreducibles: a b ac d be ace bde acde bcde 
+max antichain: a b d 
+dimension: 3
+
+416.
+id: 4149674755
+ac -> de
+c -> e
+ab -> cde
+b -> e
+meet-irreducibles: ad ae bce ade bde acde bcde 
+max antichain: ad ae bce bde 
+dimension: 4
+
+417.
+id: 4149674259
+cd -> e
+ad -> e
+ac -> de
+ab -> cde
+b -> e
+meet-irreducibles: a c d ae bce ade bde acde bcde 
+max antichain: a c d 
+dimension: 3
+
+418.
+id: 4285989121
+c -> e
+ab -> de
+b -> e
+a -> e
+meet-irreducibles: d ace bce abde acde bcde 
+max antichain: d ace bce 
+dimension: 3
+
+419.
+id: 4113630519
+be -> d
+ae -> c
+cd -> e
+ad -> ce
+bc -> de
+ab -> cde
+meet-irreducibles: a b ac bd ace bde acde bcde 
+max antichain: a b 
+dimension: 2
+
+420.
+id: 4145349395
+ae -> d
+cd -> e
+bc -> de
+ac -> de
+ab -> cde
+b -> e
+meet-irreducibles: a c ad be ce ade bde acde bcde 
+max antichain: a c be 
+dimension: 3
+
+421.
+id: 4283761409
+ac -> de
+c -> e
+ab -> de
+b -> e
+a -> d
+meet-irreducibles: ad bce abde acde bcde 
+max antichain: bce abde acde 
+dimension: 3
+
+422.
+id: 4113891637
+cd -> e
+bd -> e
+ad -> ce
+bc -> de
+ab -> cde
+a -> c
+meet-irreducibles: b ac d be ace bde acde bcde 
+max antichain: b ac d 
+dimension: 3
+
+423.
+id: 4283760913
+cd -> e
+b -> e
+a -> de
+meet-irreducibles: c d bce abde acde bcde 
+max antichain: bce abde acde 
+dimension: 3
+
+424.
+id: 4279697681
+cd -> e
+bc -> de
+ac -> de
+ab -> de
+b -> e
+a -> e
+meet-irreducibles: c d ae be ce abde acde bcde 
+max antichain: c d ae be 
+dimension: 4
+
+425.
+id: 4149674257
+cd -> e
+ac -> de
+ab -> cde
+b -> e
+a -> e
+meet-irreducibles: c d ae bce ade bde acde bcde 
+max antichain: c d ae 
+dimension: 3
+
+426.
+id: 4149673991
+d -> e
+ac -> de
+c -> e
+ab -> cde
+meet-irreducibles: a b ae bce ade bde acde bcde 
+max antichain: a bce bde 
+dimension: 3
+
+427.
+id: 4149542997
+d -> e
+ab -> cde
+a -> de
+meet-irreducibles: bc bce ade bde acde bcde 
+max antichain: bc ade bde 
+dimension: 3
+
+428.
+id: 4113630517
+be -> d
+cd -> e
+ad -> ce
+bc -> de
+ab -> cde
+a -> c
+meet-irreducibles: b ac bd ace bde acde bcde 
+max antichain: b ac 
+dimension: 2
+
+429.
+id: 4279567121
+cd -> e
+bc -> de
+ac -> de
+ab -> de
+b -> e
+a -> d
+meet-irreducibles: c ad be ce abde acde bcde 
+max antichain: c ad be 
+dimension: 3
+
+430.
+id: 4149543697
+cd -> e
+ac -> de
+ab -> cde
+b -> e
+a -> d
+meet-irreducibles: c ad bce ade bde acde bcde 
+max antichain: c ad bde 
+dimension: 3
+
+431.
+id: 4145479703
+d -> e
+bc -> de
+ac -> de
+ab -> cde
+meet-irreducibles: a b c ae be ce ade bde acde bcde 
+max antichain: a b c 
+dimension: 3
+
+432.
+id: 4151771141
+d -> e
+c -> e
+ab -> cde
+a -> e
+meet-irreducibles: b ace bce ade bde acde bcde 
+max antichain: ace bce ade bde 
+dimension: 4
+
+433.
+id: 4145479943
+bd -> e
+ad -> e
+bc -> de
+ac -> de
+c -> e
+ab -> cde
+meet-irreducibles: a b d ae be ce ade bde acde bcde 
+max antichain: a b d ce 
+dimension: 4
+
+434.
+id: 4114022663
+bd -> e
+ad -> ce
+bc -> de
+c -> e
+ab -> cde
+meet-irreducibles: a b d ae be ace bde acde bcde 
+max antichain: a b d 
+dimension: 3
+
+435.
+id: 4283760661
+d -> e
+bc -> e
+a -> de
+meet-irreducibles: b c bce abde acde bcde 
+max antichain: bce abde acde 
+dimension: 3
+
+436.
+id: 4279697429
+d -> e
+bc -> de
+ac -> de
+ab -> de
+a -> e
+meet-irreducibles: b c ae be ce abde acde bcde 
+max antichain: b c ae 
+dimension: 3
+
+437.
+id: 4149674005
+d -> e
+bc -> e
+ac -> de
+ab -> cde
+a -> e
+meet-irreducibles: b c ae bce ade bde acde bcde 
+max antichain: b c ae 
+dimension: 3
+
+438.
+id: 4144432391
+ad -> e
+c -> de
+ab -> cde
+meet-irreducibles: a bd ae be ade bde acde bcde 
+max antichain: a bd be 
+dimension: 3
+
+439.
+id: 4279570705
+bc -> de
+b -> e
+a -> de
+meet-irreducibles: cd be ce abde acde bcde 
+max antichain: cd be ce 
+dimension: 3
+
+440.
+id: 4149547281
+ab -> cde
+b -> e
+a -> de
+meet-irreducibles: cd bce ade bde acde bcde 
+max antichain: cd bce ade bde 
+dimension: 4
+
+441.
+id: 4145484049
+bc -> de
+ac -> de
+ab -> cde
+b -> e
+a -> e
+meet-irreducibles: cd ae be ce ade bde acde bcde 
+max antichain: cd ae be ce 
+dimension: 4
+
+442.
+id: 4114026769
+ad -> ce
+bc -> de
+ab -> cde
+b -> e
+a -> e
+meet-irreducibles: cd ae be ace bde acde bcde 
+max antichain: cd ae be 
+dimension: 3
+
+443.
+id: 4145349383
+ae -> d
+bd -> e
+bc -> de
+ac -> de
+c -> e
+ab -> cde
+meet-irreducibles: a b ad be ce ade bde acde bcde 
+max antichain: a b ce 
+dimension: 3
+
+444.
+id: 4149674245
+bd -> e
+ac -> de
+c -> e
+ab -> cde
+a -> e
+meet-irreducibles: b d ae bce ade bde acde bcde 
+max antichain: b d ae 
+dimension: 3
+
+445.
+id: 4145088263
+be -> d
+ae -> d
+bc -> de
+ac -> de
+c -> e
+ab -> cde
+meet-irreducibles: a b ad bd ce ade bde acde bcde 
+max antichain: a b ce 
+dimension: 3
+
+446.
+id: 4145353489
+bc -> de
+ac -> de
+ab -> cde
+b -> e
+a -> d
+meet-irreducibles: ad cd be ce ade bde acde bcde 
+max antichain: ad cd be ce 
+dimension: 4
+
+447.
+id: 4149544197
+c -> e
+ab -> cde
+a -> de
+meet-irreducibles: bd bce ade bde acde bcde 
+max antichain: bd bce ade 
+dimension: 3
+
+448.
+id: 4145480965
+bc -> de
+ac -> de
+c -> e
+ab -> cde
+a -> e
+meet-irreducibles: bd ae be ce ade bde acde bcde 
+max antichain: bd ae be ce 
+dimension: 4
+
+449.
+id: 4114023685
+ad -> ce
+bc -> de
+c -> e
+ab -> cde
+a -> e
+meet-irreducibles: bd ae be ace bde acde bcde 
+max antichain: bd ae be 
+dimension: 3
+
+450.
+id: 4116001041
+ab -> cde
+b -> e
+a -> cd
+meet-irreducibles: acd bce bde acde bcde 
+max antichain: acd bce bde 
+dimension: 3
+
+451.
+id: 4149543685
+bd -> e
+ac -> de
+c -> e
+ab -> cde
+a -> d
+meet-irreducibles: b ad bce ade bde acde bcde 
+max antichain: ad bce bde 
+dimension: 3
+
+452.
+id: 4113891635
+ae -> c
+cd -> e
+ad -> ce
+bc -> de
+ab -> cde
+b -> e
+meet-irreducibles: a ac d be ace bde acde bcde 
+max antichain: a d be 
+dimension: 3
+
+453.
+id: 4279566613
+cd -> e
+bd -> e
+bc -> de
+a -> de
+meet-irreducibles: b c d be ce abde acde bcde 
+max antichain: b c d 
+dimension: 3
+
+454.
+id: 4149543189
+cd -> e
+bd -> e
+bc -> e
+ab -> cde
+a -> de
+meet-irreducibles: b c d bce ade bde acde bcde 
+max antichain: b c d 
+dimension: 3
+
+455.
+id: 4145479957
+cd -> e
+bd -> e
+bc -> de
+ac -> de
+ab -> cde
+a -> e
+meet-irreducibles: b c d ae be ce ade bde acde bcde 
+max antichain: b c d ae 
+dimension: 4
+
+456.
+id: 4114022677
+cd -> e
+bd -> e
+ad -> ce
+bc -> de
+ab -> cde
+a -> e
+meet-irreducibles: b c d ae be ace bde acde bcde 
+max antichain: b c d ae 
+dimension: 4
+
+457.
+id: 4145350405
+bc -> de
+ac -> de
+c -> e
+ab -> cde
+a -> d
+meet-irreducibles: ad bd be ce ade bde acde bcde 
+max antichain: ad bd be ce 
+dimension: 4
+
+458.
+id: 4279305493
+be -> d
+cd -> e
+bc -> de
+a -> de
+meet-irreducibles: b c bd ce abde acde bcde 
+max antichain: abde acde bcde 
+dimension: 3
+
+459.
+id: 4145349909
+cd -> e
+bc -> de
+ab -> cde
+a -> de
+meet-irreducibles: c bd be ce ade bde acde bcde 
+max antichain: c bd be ade 
+dimension: 4
+
+460.
+id: 4115989781
+cd -> e
+bc -> e
+a -> cde
+meet-irreducibles: c bd bce bde acde bcde 
+max antichain: bd bce acde 
+dimension: 3
+
+461.
+id: 4113892629
+cd -> e
+bc -> de
+ab -> cde
+a -> ce
+meet-irreducibles: c bd be ace bde acde bcde 
+max antichain: c bd be 
+dimension: 3
+
+462.
+id: 4145349397
+cd -> e
+bd -> e
+bc -> de
+ac -> de
+ab -> cde
+a -> d
+meet-irreducibles: b c ad be ce ade bde acde bcde 
+max antichain: b c ad 
+dimension: 3
+
+463.
+id: 4283891715
+d -> e
+ac -> de
+c -> e
+ab -> de
+b -> e
+meet-irreducibles: a ae bce abde acde bcde 
+max antichain: bce abde acde 
+dimension: 3
+
+464.
+id: 4145088277
+be -> d
+cd -> e
+bc -> de
+ac -> de
+ab -> cde
+a -> d
+meet-irreducibles: b c ad bd ce ade bde acde bcde 
+max antichain: b c ad 
+dimension: 3
+
+465.
+id: 4113891383
+ae -> c
+ad -> ce
+d -> e
+bc -> de
+ab -> cde
+meet-irreducibles: a b ac be ace bde acde bcde 
+max antichain: a b 
+dimension: 2
+
+466.
+id: 4149674003
+d -> e
+ac -> de
+ab -> cde
+b -> e
+meet-irreducibles: a c ae bce ade bde acde bcde 
+max antichain: a c bde 
+dimension: 3
+
+467.
+id: 4145352981
+bd -> e
+bc -> de
+ab -> cde
+a -> de
+meet-irreducibles: b cd be ce ade bde acde bcde 
+max antichain: b cd ce ade 
+dimension: 4
+
+468.
+id: 4115992853
+bd -> e
+bc -> e
+a -> cde
+meet-irreducibles: b cd bce bde acde bcde 
+max antichain: cd bce bde 
+dimension: 3
+
+469.
+id: 4113895701
+bd -> e
+bc -> de
+ab -> cde
+a -> ce
+meet-irreducibles: b cd be ace bde acde bcde 
+max antichain: b cd ace 
+dimension: 3
+
+470.
+id: 4285988865
+d -> e
+c -> e
+ab -> de
+b -> e
+a -> e
+meet-irreducibles: ace bce abde acde bcde 
+max antichain: ace bce abde 
+dimension: 3
+
+471.
+id: 4113634581
+be -> d
+bc -> de
+ab -> cde
+a -> ce
+meet-irreducibles: b bd cd ace bde acde bcde 
+max antichain: b cd ace 
+dimension: 3
+
+472.
+id: 4111799573
+bc -> de
+a -> cde
+meet-irreducibles: bd cd be ce bde acde bcde 
+max antichain: bd cd be ce 
+dimension: 4
+
+473.
+id: 3579122965
+bc -> e
+a -> bcde
+meet-irreducibles: bd cd bce bde cde bcde 
+max antichain: bd cd bce 
+dimension: 3
+
+474.
+id: 4149674243
+ad -> e
+ac -> de
+c -> e
+ab -> cde
+b -> e
+meet-irreducibles: a d ae bce ade bde acde bcde 
+max antichain: a d bce 
+dimension: 3
+
+475.
+id: 4283891729
+d -> e
+ac -> de
+ab -> de
+b -> e
+a -> e
+meet-irreducibles: c ae bce abde acde bcde 
+max antichain: bce abde acde 
+dimension: 3
+
+476.
+id: 4113895729
+ad -> ce
+bc -> de
+ab -> cde
+b -> e
+a -> c
+meet-irreducibles: ac cd be ace bde acde bcde 
+max antichain: ac cd be 
+dimension: 3
+
+477.
+id: 4279567107
+ae -> d
+bc -> de
+ac -> de
+c -> e
+ab -> de
+b -> e
+meet-irreducibles: a ad be ce abde acde bcde 
+max antichain: a be ce 
+dimension: 3
+
+478.
+id: 4149543683
+ae -> d
+ac -> de
+c -> e
+ab -> cde
+b -> e
+meet-irreducibles: a ad bce ade bde acde bcde 
+max antichain: a bce bde 
+dimension: 3
+
+479.
+id: 4113634609
+ad -> ce
+bc -> de
+ab -> cde
+b -> d
+a -> c
+meet-irreducibles: ac bd cd ace bde acde bcde 
+max antichain: ac bd cd 
+dimension: 3
+
+480.
+id: 4283891969
+ac -> de
+c -> e
+ab -> de
+b -> e
+a -> e
+meet-irreducibles: d ae bce abde acde bcde 
+max antichain: d ae bce 
+dimension: 3
+
+481.
+id: 4151771393
+c -> e
+ab -> cde
+b -> e
+a -> e
+meet-irreducibles: d ace bce ade bde acde bcde 
+max antichain: ace bce ade bde 
+dimension: 4
+
+482.
+id: 4279567105
+bc -> de
+ac -> de
+c -> e
+ab -> de
+b -> e
+a -> d
+meet-irreducibles: ad be ce abde acde bcde 
+max antichain: ad be ce 
+dimension: 3
+
+483.
+id: 4149543681
+ac -> de
+c -> e
+ab -> cde
+b -> e
+a -> d
+meet-irreducibles: ad bce ade bde acde bcde 
+max antichain: ad bce bde 
+dimension: 3
+
+484.
+id: 4279566609
+cd -> e
+bc -> de
+b -> e
+a -> de
+meet-irreducibles: c d be ce abde acde bcde 
+max antichain: c d be 
+dimension: 3
+
+485.
+id: 4149543185
+cd -> e
+ab -> cde
+b -> e
+a -> de
+meet-irreducibles: c d bce ade bde acde bcde 
+max antichain: c ade bde 
+dimension: 3
+
+486.
+id: 4145479953
+cd -> e
+bc -> de
+ac -> de
+ab -> cde
+b -> e
+a -> e
+meet-irreducibles: c d ae be ce ade bde acde bcde 
+max antichain: c d ae be 
+dimension: 4
+
+487.
+id: 4114022673
+cd -> e
+ad -> ce
+bc -> de
+ab -> cde
+b -> e
+a -> e
+meet-irreducibles: c d ae be ace bde acde bcde 
+max antichain: c d ae be 
+dimension: 4
+
+488.
+id: 4145479687
+d -> e
+bc -> de
+ac -> de
+c -> e
+ab -> cde
+meet-irreducibles: a b ae be ce ade bde acde bcde 
+max antichain: a b ce 
+dimension: 3
+
+489.
+id: 4114022407
+ad -> ce
+d -> e
+bc -> de
+c -> e
+ab -> cde
+meet-irreducibles: a b ae be ace bde acde bcde 
+max antichain: a b 
+dimension: 2
+
+490.
+id: 4279305489
+cd -> e
+bc -> de
+b -> d
+a -> de
+meet-irreducibles: c bd ce abde acde bcde 
+max antichain: abde acde bcde 
+dimension: 3
+
+491.
+id: 4145349393
+cd -> e
+bc -> de
+ac -> de
+ab -> cde
+b -> e
+a -> d
+meet-irreducibles: c ad be ce ade bde acde bcde 
+max antichain: c ad be 
+dimension: 3
+
+492.
+id: 4149673989
+d -> e
+ac -> de
+c -> e
+ab -> cde
+a -> e
+meet-irreducibles: b ae bce ade bde acde bcde 
+max antichain: ae bce bde 
+dimension: 3
+
+493.
+id: 4145088273
+cd -> e
+bc -> de
+ac -> de
+ab -> cde
+b -> d
+a -> d
+meet-irreducibles: c ad bd ce ade bde acde bcde 
+max antichain: c ad bd 
+dimension: 3
+
+494.
+id: 4144431367
+bd -> e
+ad -> e
+c -> de
+ab -> cde
+meet-irreducibles: a b d ae be ade bde acde bcde 
+max antichain: a b d 
+dimension: 3
+
+495.
+id: 4113891379
+ae -> c
+ad -> ce
+d -> e
+bc -> de
+ab -> cde
+b -> e
+meet-irreducibles: a ac be ace bde acde bcde 
+max antichain: a be 
+dimension: 2
+
+496.
+id: 4279566357
+d -> e
+bc -> de
+a -> de
+meet-irreducibles: b c be ce abde acde bcde 
+max antichain: abde acde bcde 
+dimension: 3
+
+497.
+id: 4149542933
+d -> e
+bc -> e
+ab -> cde
+a -> de
+meet-irreducibles: b c bce ade bde acde bcde 
+max antichain: b c ade 
+dimension: 3
+
+498.
+id: 4145479701
+d -> e
+bc -> de
+ac -> de
+ab -> cde
+a -> e
+meet-irreducibles: b c ae be ce ade bde acde bcde 
+max antichain: b c ae 
+dimension: 3
+
+499.
+id: 4279308561
+b -> de
+a -> de
+meet-irreducibles: cd ce abde acde bcde 
+max antichain: cd ce abde 
+dimension: 3
+
+500.
+id: 4145352977
+bc -> de
+ab -> cde
+b -> e
+a -> de
+meet-irreducibles: cd be ce ade bde acde bcde 
+max antichain: cd be ce ade 
+dimension: 4
+
+501.
+id: 4115992849
+b -> e
+a -> cde
+meet-irreducibles: cd bce bde acde bcde 
+max antichain: cd bce bde 
+dimension: 3
+
+502.
+id: 4113895697
+bc -> de
+ab -> cde
+b -> e
+a -> ce
+meet-irreducibles: cd be ace bde acde bcde 
+max antichain: cd be ace 
+dimension: 3
+
+503.
+id: 4144300807
+ae -> d
+bd -> e
+c -> de
+ab -> cde
+meet-irreducibles: a b ad be ade bde acde bcde 
+max antichain: a b 
+dimension: 2
+
+504.
+id: 4113634577
+bc -> de
+ab -> cde
+b -> d
+a -> ce
+meet-irreducibles: bd cd ace bde acde bcde 
+max antichain: bd cd ace 
+dimension: 3
+
+505.
+id: 4149543173
+bd -> e
+c -> e
+ab -> cde
+a -> de
+meet-irreducibles: b d bce ade bde acde bcde 
+max antichain: bce ade bde 
+dimension: 3
+
+506.
+id: 4145479941
+bd -> e
+bc -> de
+ac -> de
+c -> e
+ab -> cde
+a -> e
+meet-irreducibles: b d ae be ce ade bde acde bcde 
+max antichain: b d ae ce 
+dimension: 4
+
+507.
+id: 4114022661
+bd -> e
+ad -> ce
+bc -> de
+c -> e
+ab -> cde
+a -> e
+meet-irreducibles: b d ae be ace bde acde bcde 
+max antichain: b d ae 
+dimension: 3
+
+508.
+id: 4145349893
+bc -> de
+c -> e
+ab -> cde
+a -> de
+meet-irreducibles: bd be ce ade bde acde bcde 
+max antichain: bd be ce ade 
+dimension: 4
+
+509.
+id: 4115989765
+c -> e
+a -> cde
+meet-irreducibles: bd bce bde acde bcde 
+max antichain: bd bce acde 
+dimension: 3
+
+510.
+id: 4113892613
+bc -> de
+c -> e
+ab -> cde
+a -> ce
+meet-irreducibles: bd be ace bde acde bcde 
+max antichain: bd be ace 
+dimension: 3
+
+511.
+id: 4144432389
+c -> de
+ab -> cde
+a -> e
+meet-irreducibles: bd ae be ade bde acde bcde 
+max antichain: bd ae be 
+dimension: 3
+
+512.
+id: 4145349381
+bd -> e
+bc -> de
+ac -> de
+c -> e
+ab -> cde
+a -> d
+meet-irreducibles: b ad be ce ade bde acde bcde 
+max antichain: b ad ce 
+dimension: 3
+
+513.
+id: 4145348885
+cd -> e
+bd -> e
+bc -> de
+ab -> cde
+a -> de
+meet-irreducibles: b c d be ce ade bde acde bcde 
+max antichain: b c d 
+dimension: 3
+
+514.
+id: 4115988757
+cd -> e
+bd -> e
+bc -> e
+a -> cde
+meet-irreducibles: b c d bce bde acde bcde 
+max antichain: b c d 
+dimension: 3
+
+515.
+id: 4113891605
+cd -> e
+bd -> e
+bc -> de
+ab -> cde
+a -> ce
+meet-irreducibles: b c d be ace bde acde bcde 
+max antichain: b c d 
+dimension: 3
+
+516.
+id: 4145088261
+be -> d
+bc -> de
+ac -> de
+c -> e
+ab -> cde
+a -> d
+meet-irreducibles: b ad bd ce ade bde acde bcde 
+max antichain: b ad ce 
+dimension: 3
+
+517.
+id: 4145087765
+be -> d
+cd -> e
+bc -> de
+ab -> cde
+a -> de
+meet-irreducibles: b c bd ce ade bde acde bcde 
+max antichain: b c ade 
+dimension: 3
+
+518.
+id: 4113630485
+be -> d
+cd -> e
+bc -> de
+ab -> cde
+a -> ce
+meet-irreducibles: b c bd ace bde acde bcde 
+max antichain: b c 
+dimension: 2
+
+519.
+id: 4111795477
+cd -> e
+bc -> de
+a -> cde
+meet-irreducibles: c bd be ce bde acde bcde 
+max antichain: c bd be 
+dimension: 3
+
+520.
+id: 4113891633
+cd -> e
+ad -> ce
+bc -> de
+ab -> cde
+b -> e
+a -> c
+meet-irreducibles: ac d be ace bde acde bcde 
+max antichain: ac d be 
+dimension: 3
+
+521.
+id: 4149673987
+d -> e
+ac -> de
+c -> e
+ab -> cde
+b -> e
+meet-irreducibles: a ae bce ade bde acde bcde 
+max antichain: a bce bde 
+dimension: 3
+
+522.
+id: 4113630513
+cd -> e
+ad -> ce
+bc -> de
+ab -> cde
+b -> d
+a -> c
+meet-irreducibles: ac bd ace bde acde bcde 
+max antichain: ac bd 
+dimension: 2
+
+523.
+id: 4111798549
+bd -> e
+bc -> de
+a -> cde
+meet-irreducibles: b cd be ce bde acde bcde 
+max antichain: b cd ce 
+dimension: 3
+
+524.
+id: 3579121941
+bd -> e
+bc -> e
+a -> bcde
+meet-irreducibles: b cd bce bde cde bcde 
+max antichain: cd bce bde 
+dimension: 3
+
+525.
+id: 4283891713
+d -> e
+ac -> de
+c -> e
+ab -> de
+b -> e
+a -> e
+meet-irreducibles: ae bce abde acde bcde 
+max antichain: bce abde acde 
+dimension: 3
+
+526.
+id: 4151771137
+d -> e
+c -> e
+ab -> cde
+b -> e
+a -> e
+meet-irreducibles: ace bce ade bde acde bcde 
+max antichain: ace bce ade bde 
+dimension: 4
+
+527.
+id: 3574928661
+bc -> de
+a -> bcde
+meet-irreducibles: bd cd be ce bde cde bcde 
+max antichain: bd cd be ce 
+dimension: 4
+
+528.
+id: 4114022659
+ad -> ce
+bc -> de
+c -> e
+ab -> cde
+b -> e
+meet-irreducibles: a d ae be ace bde acde bcde 
+max antichain: a d be 
+dimension: 3
+
+529.
+id: 4113891381
+ad -> ce
+d -> e
+bc -> de
+ab -> cde
+a -> c
+meet-irreducibles: b ac be ace bde acde bcde 
+max antichain: b ac 
+dimension: 2
+
+530.
+id: 4283760657
+d -> e
+b -> e
+a -> de
+meet-irreducibles: c bce abde acde bcde 
+max antichain: bce abde acde 
+dimension: 3
+
+531.
+id: 4279697425
+d -> e
+bc -> de
+ac -> de
+ab -> de
+b -> e
+a -> e
+meet-irreducibles: c ae be ce abde acde bcde 
+max antichain: c ae be 
+dimension: 3
+
+532.
+id: 4149674001
+d -> e
+ac -> de
+ab -> cde
+b -> e
+a -> e
+meet-irreducibles: c ae bce ade bde acde bcde 
+max antichain: c ae bde 
+dimension: 3
+
+533.
+id: 4145349379
+ae -> d
+bc -> de
+ac -> de
+c -> e
+ab -> cde
+b -> e
+meet-irreducibles: a ad be ce ade bde acde bcde 
+max antichain: a be ce 
+dimension: 3
+
+534.
+id: 4283760897
+c -> e
+b -> e
+a -> de
+meet-irreducibles: d bce abde acde bcde 
+max antichain: bce abde acde 
+dimension: 3
+
+535.
+id: 4279697665
+bc -> de
+ac -> de
+c -> e
+ab -> de
+b -> e
+a -> e
+meet-irreducibles: d ae be ce abde acde bcde 
+max antichain: d ae be ce 
+dimension: 4
+
+536.
+id: 4149674241
+ac -> de
+c -> e
+ab -> cde
+b -> e
+a -> e
+meet-irreducibles: d ae bce ade bde acde bcde 
+max antichain: d ae bce 
+dimension: 3
+
+537.
+id: 4279305473
+bc -> de
+c -> e
+b -> d
+a -> de
+meet-irreducibles: bd ce abde acde bcde 
+max antichain: abde acde bcde 
+dimension: 3
+
+538.
+id: 4145349377
+bc -> de
+ac -> de
+c -> e
+ab -> cde
+b -> e
+a -> d
+meet-irreducibles: ad be ce ade bde acde bcde 
+max antichain: ad be ce 
+dimension: 3
+
+539.
+id: 4279304465
+cd -> e
+b -> de
+a -> de
+meet-irreducibles: c d ce abde acde bcde 
+max antichain: abde acde bcde 
+dimension: 3
+
+540.
+id: 4145348881
+cd -> e
+bc -> de
+ab -> cde
+b -> e
+a -> de
+meet-irreducibles: c d be ce ade bde acde bcde 
+max antichain: c d be 
+dimension: 3
+
+541.
+id: 4115988753
+cd -> e
+b -> e
+a -> cde
+meet-irreducibles: c d bce bde acde bcde 
+max antichain: bce bde acde 
+dimension: 3
+
+542.
+id: 4113891601
+cd -> e
+bc -> de
+ab -> cde
+b -> e
+a -> ce
+meet-irreducibles: c d be ace bde acde bcde 
+max antichain: c d be 
+dimension: 3
+
+543.
+id: 4144431111
+d -> e
+c -> de
+ab -> cde
+meet-irreducibles: a b ae be ade bde acde bcde 
+max antichain: a b 
+dimension: 2
+
+544.
+id: 4145088257
+bc -> de
+ac -> de
+c -> e
+ab -> cde
+b -> d
+a -> d
+meet-irreducibles: ad bd ce ade bde acde bcde 
+max antichain: ad bd ce 
+dimension: 3
+
+545.
+id: 4145087761
+cd -> e
+bc -> de
+ab -> cde
+b -> d
+a -> de
+meet-irreducibles: c bd ce ade bde acde bcde 
+max antichain: c bd ade 
+dimension: 3
+
+546.
+id: 4113630481
+cd -> e
+bc -> de
+ab -> cde
+b -> d
+a -> ce
+meet-irreducibles: c bd ace bde acde bcde 
+max antichain: c bd 
+dimension: 2
+
+547.
+id: 4149542917
+d -> e
+c -> e
+ab -> cde
+a -> de
+meet-irreducibles: b bce ade bde acde bcde 
+max antichain: bce ade bde 
+dimension: 3
+
+548.
+id: 4145479685
+d -> e
+bc -> de
+ac -> de
+c -> e
+ab -> cde
+a -> e
+meet-irreducibles: b ae be ce ade bde acde bcde 
+max antichain: b ae ce 
+dimension: 3
+
+549.
+id: 4114022405
+ad -> ce
+d -> e
+bc -> de
+c -> e
+ab -> cde
+a -> e
+meet-irreducibles: b ae be ace bde acde bcde 
+max antichain: b ae 
+dimension: 2
+
+550.
+id: 4145348629
+d -> e
+bc -> de
+ab -> cde
+a -> de
+meet-irreducibles: b c be ce ade bde acde bcde 
+max antichain: b c ade 
+dimension: 3
+
+551.
+id: 4113891349
+d -> e
+bc -> de
+ab -> cde
+a -> ce
+meet-irreducibles: b c be ace bde acde bcde 
+max antichain: b c 
+dimension: 2
+
+552.
+id: 4145090833
+ab -> cde
+b -> de
+a -> de
+meet-irreducibles: cd ce ade bde acde bcde 
+max antichain: cd ce ade bde 
+dimension: 4
+
+553.
+id: 4113633553
+ab -> cde
+b -> de
+a -> ce
+meet-irreducibles: cd ace bde acde bcde 
+max antichain: cd ace bde 
+dimension: 3
+
+554.
+id: 4111798545
+bc -> de
+b -> e
+a -> cde
+meet-irreducibles: cd be ce bde acde bcde 
+max antichain: cd be ce 
+dimension: 3
+
+555.
+id: 3579121937
+b -> e
+a -> bcde
+meet-irreducibles: cd bce bde cde bcde 
+max antichain: cd bce bde 
+dimension: 3
+
+556.
+id: 4145348869
+bd -> e
+bc -> de
+c -> e
+ab -> cde
+a -> de
+meet-irreducibles: b d be ce ade bde acde bcde 
+max antichain: b d ce 
+dimension: 3
+
+557.
+id: 4115988741
+bd -> e
+c -> e
+a -> cde
+meet-irreducibles: b d bce bde acde bcde 
+max antichain: bce bde acde 
+dimension: 3
+
+558.
+id: 4113891589
+bd -> e
+bc -> de
+c -> e
+ab -> cde
+a -> ce
+meet-irreducibles: b d be ace bde acde bcde 
+max antichain: b d ace 
+dimension: 3
+
+559.
+id: 4144431365
+bd -> e
+c -> de
+ab -> cde
+a -> e
+meet-irreducibles: b d ae be ade bde acde bcde 
+max antichain: b d ae 
+dimension: 3
+
+560.
+id: 4113891377
+ad -> ce
+d -> e
+bc -> de
+ab -> cde
+b -> e
+a -> c
+meet-irreducibles: ac be ace bde acde bcde 
+max antichain: ac be 
+dimension: 2
+
+561.
+id: 4145087749
+be -> d
+bc -> de
+c -> e
+ab -> cde
+a -> de
+meet-irreducibles: b bd ce ade bde acde bcde 
+max antichain: b ce ade 
+dimension: 3
+
+562.
+id: 4113630469
+be -> d
+bc -> de
+c -> e
+ab -> cde
+a -> ce
+meet-irreducibles: b bd ace bde acde bcde 
+max antichain: b ace 
+dimension: 2
+
+563.
+id: 4144301317
+c -> de
+ab -> cde
+a -> de
+meet-irreducibles: bd be ade bde acde bcde 
+max antichain: bd be ade 
+dimension: 3
+
+564.
+id: 4111795461
+bc -> de
+c -> e
+a -> cde
+meet-irreducibles: bd be ce bde acde bcde 
+max antichain: bd be ce 
+dimension: 3
+
+565.
+id: 4144300805
+bd -> e
+c -> de
+ab -> cde
+a -> d
+meet-irreducibles: b ad be ade bde acde bcde 
+max antichain: b ad 
+dimension: 2
+
+566.
+id: 4111794453
+cd -> e
+bd -> e
+bc -> de
+a -> cde
+meet-irreducibles: b c d be ce bde acde bcde 
+max antichain: b c d 
+dimension: 3
+
+567.
+id: 3579117845
+cd -> e
+bd -> e
+bc -> e
+a -> bcde
+meet-irreducibles: b c d bce bde cde bcde 
+max antichain: b c d 
+dimension: 3
+
+568.
+id: 4111533333
+be -> d
+cd -> e
+bc -> de
+a -> cde
+meet-irreducibles: b c bd ce bde acde bcde 
+max antichain: b c 
+dimension: 2
+
+569.
+id: 3574927637
+bd -> e
+bc -> de
+a -> bcde
+meet-irreducibles: b cd be ce bde cde bcde 
+max antichain: b cd ce 
+dimension: 3
+
+570.
+id: 4283760641
+d -> e
+c -> e
+b -> e
+a -> de
+meet-irreducibles: bce abde acde bcde 
+max antichain: bce abde acde 
+dimension: 3
+
+571.
+id: 4279697409
+d -> e
+bc -> de
+ac -> de
+c -> e
+ab -> de
+b -> e
+a -> e
+meet-irreducibles: ae be ce abde acde bcde 
+max antichain: ae be ce 
+dimension: 3
+
+572.
+id: 4149673985
+d -> e
+ac -> de
+c -> e
+ab -> cde
+b -> e
+a -> e
+meet-irreducibles: ae bce ade bde acde bcde 
+max antichain: ae bce bde 
+dimension: 3
+
+573.
+id: 4279566353
+d -> e
+bc -> de
+b -> e
+a -> de
+meet-irreducibles: c be ce abde acde bcde 
+max antichain: abde acde bcde 
+dimension: 3
+
+574.
+id: 4149542929
+d -> e
+ab -> cde
+b -> e
+a -> de
+meet-irreducibles: c bce ade bde acde bcde 
+max antichain: c ade bde 
+dimension: 3
+
+575.
+id: 4145479697
+d -> e
+bc -> de
+ac -> de
+ab -> cde
+b -> e
+a -> e
+meet-irreducibles: c ae be ce ade bde acde bcde 
+max antichain: c ae be 
+dimension: 3
+
+576.
+id: 4279566593
+bc -> de
+c -> e
+b -> e
+a -> de
+meet-irreducibles: d be ce abde acde bcde 
+max antichain: d be ce 
+dimension: 3
+
+577.
+id: 4149543169
+c -> e
+ab -> cde
+b -> e
+a -> de
+meet-irreducibles: d bce ade bde acde bcde 
+max antichain: bce ade bde 
+dimension: 3
+
+578.
+id: 4145479937
+bc -> de
+ac -> de
+c -> e
+ab -> cde
+b -> e
+a -> e
+meet-irreducibles: d ae be ce ade bde acde bcde 
+max antichain: d ae be ce 
+dimension: 4
+
+579.
+id: 4114022657
+ad -> ce
+bc -> de
+c -> e
+ab -> cde
+b -> e
+a -> e
+meet-irreducibles: d ae be ace bde acde bcde 
+max antichain: d ae be 
+dimension: 3
+
+580.
+id: 4145087745
+bc -> de
+c -> e
+ab -> cde
+b -> d
+a -> de
+meet-irreducibles: bd ce ade bde acde bcde 
+max antichain: bd ce ade 
+dimension: 3
+
+581.
+id: 4113630465
+bc -> de
+c -> e
+ab -> cde
+b -> d
+a -> ce
+meet-irreducibles: bd ace bde acde bcde 
+max antichain: bd ace 
+dimension: 2
+
+582.
+id: 4144300801
+c -> de
+ab -> cde
+b -> e
+a -> d
+meet-irreducibles: ad be ade bde acde bcde 
+max antichain: ad be 
+dimension: 2
+
+583.
+id: 4145086737
+cd -> e
+ab -> cde
+b -> de
+a -> de
+meet-irreducibles: c d ce ade bde acde bcde 
+max antichain: c ade bde 
+dimension: 3
+
+584.
+id: 4113629457
+cd -> e
+ab -> cde
+b -> de
+a -> ce
+meet-irreducibles: c d ace bde acde bcde 
+max antichain: c d 
+dimension: 2
+
+585.
+id: 4111794449
+cd -> e
+bc -> de
+b -> e
+a -> cde
+meet-irreducibles: c d be ce bde acde bcde 
+max antichain: c d be 
+dimension: 3
+
+586.
+id: 3579117841
+cd -> e
+b -> e
+a -> bcde
+meet-irreducibles: c d bce bde cde bcde 
+max antichain: bce bde cde 
+dimension: 3
+
+587.
+id: 4111533329
+cd -> e
+bc -> de
+b -> d
+a -> cde
+meet-irreducibles: c bd ce bde acde bcde 
+max antichain: c bd 
+dimension: 2
+
+588.
+id: 4145348613
+d -> e
+bc -> de
+c -> e
+ab -> cde
+a -> de
+meet-irreducibles: b be ce ade bde acde bcde 
+max antichain: b ce ade 
+dimension: 3
+
+589.
+id: 4115988485
+d -> e
+c -> e
+a -> cde
+meet-irreducibles: b bce bde acde bcde 
+max antichain: bce bde acde 
+dimension: 3
+
+590.
+id: 4113891333
+d -> e
+bc -> de
+c -> e
+ab -> cde
+a -> ce
+meet-irreducibles: b be ace bde acde bcde 
+max antichain: b ace 
+dimension: 2
+
+591.
+id: 4144431109
+d -> e
+c -> de
+ab -> cde
+a -> e
+meet-irreducibles: b ae be ade bde acde bcde 
+max antichain: b ae 
+dimension: 2
+
+592.
+id: 4111794197
+d -> e
+bc -> de
+a -> cde
+meet-irreducibles: b c be ce bde acde bcde 
+max antichain: b c 
+dimension: 2
+
+593.
+id: 4111536401
+b -> de
+a -> cde
+meet-irreducibles: cd ce bde acde bcde 
+max antichain: cd ce bde 
+dimension: 3
+
+594.
+id: 3574927633
+bc -> de
+b -> e
+a -> bcde
+meet-irreducibles: cd be ce bde cde bcde 
+max antichain: cd be ce 
+dimension: 3
+
+595.
+id: 4144300293
+bd -> e
+c -> de
+ab -> cde
+a -> de
+meet-irreducibles: b d be ade bde acde bcde 
+max antichain: b d 
+dimension: 2
+
+596.
+id: 4111794437
+bd -> e
+bc -> de
+c -> e
+a -> cde
+meet-irreducibles: b d be ce bde acde bcde 
+max antichain: b d ce 
+dimension: 3
+
+597.
+id: 4111533317
+be -> d
+bc -> de
+c -> e
+a -> cde
+meet-irreducibles: b bd ce bde acde bcde 
+max antichain: b ce 
+dimension: 2
+
+598.
+id: 4110746885
+c -> de
+a -> cde
+meet-irreducibles: bd be bde acde bcde 
+max antichain: bd be acde 
+dimension: 3
+
+599.
+id: 3574923541
+cd -> e
+bd -> e
+bc -> de
+a -> bcde
+meet-irreducibles: b c d be ce bde cde bcde 
+max antichain: b c d 
+dimension: 3
+
+600.
+id: 3574662421
+be -> d
+cd -> e
+bc -> de
+a -> bcde
+meet-irreducibles: b c bd ce bde cde bcde 
+max antichain: b c 
+dimension: 2
+
+601.
+id: 4279566337
+d -> e
+bc -> de
+c -> e
+b -> e
+a -> de
+meet-irreducibles: be ce abde acde bcde 
+max antichain: abde acde bcde 
+dimension: 3
+
+602.
+id: 4149542913
+d -> e
+c -> e
+ab -> cde
+b -> e
+a -> de
+meet-irreducibles: bce ade bde acde bcde 
+max antichain: bce ade bde 
+dimension: 3
+
+603.
+id: 4145479681
+d -> e
+bc -> de
+ac -> de
+c -> e
+ab -> cde
+b -> e
+a -> e
+meet-irreducibles: ae be ce ade bde acde bcde 
+max antichain: ae be ce 
+dimension: 3
+
+604.
+id: 4114022401
+ad -> ce
+d -> e
+bc -> de
+c -> e
+ab -> cde
+b -> e
+a -> e
+meet-irreducibles: ae be ace bde acde bcde 
+max antichain: ae be 
+dimension: 2
+
+605.
+id: 4279304209
+d -> e
+b -> de
+a -> de
+meet-irreducibles: c ce abde acde bcde 
+max antichain: abde acde bcde 
+dimension: 3
+
+606.
+id: 4145348625
+d -> e
+bc -> de
+ab -> cde
+b -> e
+a -> de
+meet-irreducibles: c be ce ade bde acde bcde 
+max antichain: c be ade 
+dimension: 3
+
+607.
+id: 4113891345
+d -> e
+bc -> de
+ab -> cde
+b -> e
+a -> ce
+meet-irreducibles: c be ace bde acde bcde 
+max antichain: c be 
+dimension: 2
+
+608.
+id: 4279304449
+c -> e
+b -> de
+a -> de
+meet-irreducibles: d ce abde acde bcde 
+max antichain: abde acde bcde 
+dimension: 3
+
+609.
+id: 4145348865
+bc -> de
+c -> e
+ab -> cde
+b -> e
+a -> de
+meet-irreducibles: d be ce ade bde acde bcde 
+max antichain: d be ce 
+dimension: 3
+
+610.
+id: 4115988737
+c -> e
+b -> e
+a -> cde
+meet-irreducibles: d bce bde acde bcde 
+max antichain: bce bde acde 
+dimension: 3
+
+611.
+id: 4113891585
+bc -> de
+c -> e
+ab -> cde
+b -> e
+a -> ce
+meet-irreducibles: d be ace bde acde bcde 
+max antichain: d be ace 
+dimension: 3
+
+612.
+id: 4144431361
+c -> de
+ab -> cde
+b -> e
+a -> e
+meet-irreducibles: d ae be ade bde acde bcde 
+max antichain: d ae be 
+dimension: 3
+
+613.
+id: 4111533313
+bc -> de
+c -> e
+b -> d
+a -> cde
+meet-irreducibles: bd ce bde acde bcde 
+max antichain: bd ce 
+dimension: 2
+
+614.
+id: 4111532305
+cd -> e
+b -> de
+a -> cde
+meet-irreducibles: c d ce bde acde bcde 
+max antichain: c d 
+dimension: 2
+
+615.
+id: 3574923537
+cd -> e
+bc -> de
+b -> e
+a -> bcde
+meet-irreducibles: c d be ce bde cde bcde 
+max antichain: c d be 
+dimension: 3
+
+616.
+id: 3574662417
+cd -> e
+bc -> de
+b -> d
+a -> bcde
+meet-irreducibles: c bd ce bde cde bcde 
+max antichain: c bd 
+dimension: 2
+
+617.
+id: 4144300037
+d -> e
+c -> de
+ab -> cde
+a -> de
+meet-irreducibles: b be ade bde acde bcde 
+max antichain: b ade 
+dimension: 2
+
+618.
+id: 4111794181
+d -> e
+bc -> de
+c -> e
+a -> cde
+meet-irreducibles: b be ce bde acde bcde 
+max antichain: b ce 
+dimension: 2
+
+619.
+id: 3574923285
+d -> e
+bc -> de
+a -> bcde
+meet-irreducibles: b c be ce bde cde bcde 
+max antichain: b c 
+dimension: 2
+
+620.
+id: 4044427537
+b -> cde
+a -> cde
+meet-irreducibles: cd ce de acde bcde 
+max antichain: cd ce de 
+dimension: 3
+
+621.
+id: 3574665489
+b -> de
+a -> bcde
+meet-irreducibles: cd ce bde cde bcde 
+max antichain: cd ce bde 
+dimension: 3
+
+622.
+id: 4110745861
+bd -> e
+c -> de
+a -> cde
+meet-irreducibles: b d be bde acde bcde 
+max antichain: b d 
+dimension: 2
+
+623.
+id: 4279304193
+d -> e
+c -> e
+b -> de
+a -> de
+meet-irreducibles: ce abde acde bcde 
+max antichain: abde acde bcde 
+dimension: 3
+
+624.
+id: 4145348609
+d -> e
+bc -> de
+c -> e
+ab -> cde
+b -> e
+a -> de
+meet-irreducibles: be ce ade bde acde bcde 
+max antichain: be ce ade 
+dimension: 3
+
+625.
+id: 4115988481
+d -> e
+c -> e
+b -> e
+a -> cde
+meet-irreducibles: bce bde acde bcde 
+max antichain: bce bde acde 
+dimension: 3
+
+626.
+id: 4113891329
+d -> e
+bc -> de
+c -> e
+ab -> cde
+b -> e
+a -> ce
+meet-irreducibles: be ace bde acde bcde 
+max antichain: be ace 
+dimension: 2
+
+627.
+id: 4144431105
+d -> e
+c -> de
+ab -> cde
+b -> e
+a -> e
+meet-irreducibles: ae be ade bde acde bcde 
+max antichain: ae be 
+dimension: 2
+
+628.
+id: 4145086481
+d -> e
+ab -> cde
+b -> de
+a -> de
+meet-irreducibles: c ce ade bde acde bcde 
+max antichain: c ade bde 
+dimension: 3
+
+629.
+id: 4111794193
+d -> e
+bc -> de
+b -> e
+a -> cde
+meet-irreducibles: c be ce bde acde bcde 
+max antichain: c be 
+dimension: 2
+
+630.
+id: 4278255873
+c -> de
+b -> de
+a -> de
+meet-irreducibles: d e abde acde bcde 
+max antichain: abde acde bcde 
+dimension: 3
+
+631.
+id: 4145086721
+c -> e
+ab -> cde
+b -> de
+a -> de
+meet-irreducibles: d ce ade bde acde bcde 
+max antichain: ce ade bde 
+dimension: 3
+
+632.
+id: 4113629441
+c -> e
+ab -> cde
+b -> de
+a -> ce
+meet-irreducibles: d ace bde acde bcde 
+max antichain: d ace 
+dimension: 2
+
+633.
+id: 4144300289
+c -> de
+ab -> cde
+b -> e
+a -> de
+meet-irreducibles: d be ade bde acde bcde 
+max antichain: d be 
+dimension: 2
+
+634.
+id: 4111794433
+bc -> de
+c -> e
+b -> e
+a -> cde
+meet-irreducibles: d be ce bde acde bcde 
+max antichain: d be ce 
+dimension: 3
+
+635.
+id: 3579117825
+c -> e
+b -> e
+a -> bcde
+meet-irreducibles: d bce bde cde bcde 
+max antichain: bce bde cde 
+dimension: 3
+
+636.
+id: 3574662401
+bc -> de
+c -> e
+b -> d
+a -> bcde
+meet-irreducibles: bd ce bde cde bcde 
+max antichain: bd ce 
+dimension: 2
+
+637.
+id: 4044423441
+cd -> e
+b -> cde
+a -> cde
+meet-irreducibles: c d ce de acde bcde 
+max antichain: c d 
+dimension: 2
+
+638.
+id: 3574661393
+cd -> e
+b -> de
+a -> bcde
+meet-irreducibles: c d ce bde cde bcde 
+max antichain: c d 
+dimension: 2
+
+639.
+id: 4110745605
+d -> e
+c -> de
+a -> cde
+meet-irreducibles: b be bde acde bcde 
+max antichain: b acde 
+dimension: 2
+
+640.
+id: 3507556625
+b -> cde
+a -> bcde
+meet-irreducibles: cd ce de cde bcde 
+max antichain: cd ce de 
+dimension: 3
+
+641.
+id: 4278255617
+d -> e
+c -> de
+b -> de
+a -> de
+meet-irreducibles: e abde acde bcde 
+max antichain: abde acde bcde 
+dimension: 3
+
+642.
+id: 4145086465
+d -> e
+c -> e
+ab -> cde
+b -> de
+a -> de
+meet-irreducibles: ce ade bde acde bcde 
+max antichain: ce ade bde 
+dimension: 3
+
+643.
+id: 4113629185
+d -> e
+c -> e
+ab -> cde
+b -> de
+a -> ce
+meet-irreducibles: ace bde acde bcde 
+max antichain: ace bde 
+dimension: 2
+
+644.
+id: 4144300033
+d -> e
+c -> de
+ab -> cde
+b -> e
+a -> de
+meet-irreducibles: be ade bde acde bcde 
+max antichain: be ade 
+dimension: 2
+
+645.
+id: 4111794177
+d -> e
+bc -> de
+c -> e
+b -> e
+a -> cde
+meet-irreducibles: be ce bde acde bcde 
+max antichain: be ce 
+dimension: 2
+
+646.
+id: 3579117569
+d -> e
+c -> e
+b -> e
+a -> bcde
+meet-irreducibles: bce bde cde bcde 
+max antichain: bce bde cde 
+dimension: 3
+
+647.
+id: 4111532049
+d -> e
+b -> de
+a -> cde
+meet-irreducibles: c ce bde acde bcde 
+max antichain: c bde 
+dimension: 2
+
+648.
+id: 3574923281
+d -> e
+bc -> de
+b -> e
+a -> bcde
+meet-irreducibles: c be ce bde cde bcde 
+max antichain: c be 
+dimension: 2
+
+649.
+id: 4144038145
+c -> de
+ab -> cde
+b -> de
+a -> de
+meet-irreducibles: d e ade bde acde bcde 
+max antichain: d e 
+dimension: 2
+
+650.
+id: 4111532289
+c -> e
+b -> de
+a -> cde
+meet-irreducibles: d ce bde acde bcde 
+max antichain: d ce 
+dimension: 2
+
+651.
+id: 4110745857
+c -> de
+b -> e
+a -> cde
+meet-irreducibles: d be bde acde bcde 
+max antichain: d be 
+dimension: 2
+
+652.
+id: 3574923521
+bc -> de
+c -> e
+b -> e
+a -> bcde
+meet-irreducibles: d be ce bde cde bcde 
+max antichain: d be ce 
+dimension: 3
+
+653.
+id: 3507552529
+cd -> e
+b -> cde
+a -> bcde
+meet-irreducibles: c d ce de cde bcde 
+max antichain: c d 
+dimension: 2
+
+654.
+id: 4144037889
+d -> e
+c -> de
+ab -> cde
+b -> de
+a -> de
+meet-irreducibles: e ade bde acde bcde 
+max antichain: ade bde 
+dimension: 2
+
+655.
+id: 4111532033
+d -> e
+c -> e
+b -> de
+a -> cde
+meet-irreducibles: ce bde acde bcde 
+max antichain: ce bde 
+dimension: 2
+
+656.
+id: 4110745601
+d -> e
+c -> de
+b -> e
+a -> cde
+meet-irreducibles: be bde acde bcde 
+max antichain: be acde 
+dimension: 2
+
+657.
+id: 3574923265
+d -> e
+bc -> de
+c -> e
+b -> e
+a -> bcde
+meet-irreducibles: be ce bde cde bcde 
+max antichain: be ce 
+dimension: 2
+
+658.
+id: 3574661137
+d -> e
+b -> de
+a -> bcde
+meet-irreducibles: c ce bde cde bcde 
+max antichain: c bde 
+dimension: 2
+
+659.
+id: 4110483713
+c -> de
+b -> de
+a -> cde
+meet-irreducibles: d e bde acde bcde 
+max antichain: d e 
+dimension: 2
+
+660.
+id: 4044423425
+c -> e
+b -> cde
+a -> cde
+meet-irreducibles: d ce de acde bcde 
+max antichain: d ce 
+dimension: 2
+
+661.
+id: 3574661377
+c -> e
+b -> de
+a -> bcde
+meet-irreducibles: d ce bde cde bcde 
+max antichain: d ce 
+dimension: 2
+
+662.
+id: 4110483457
+d -> e
+c -> de
+b -> de
+a -> cde
+meet-irreducibles: e bde acde bcde 
+max antichain: bde acde 
+dimension: 2
+
+663.
+id: 4044423169
+d -> e
+c -> e
+b -> cde
+a -> cde
+meet-irreducibles: ce de acde bcde 
+max antichain: ce de 
+dimension: 2
+
+664.
+id: 3574661121
+d -> e
+c -> e
+b -> de
+a -> bcde
+meet-irreducibles: ce bde cde bcde 
+max antichain: ce bde 
+dimension: 2
+
+665.
+id: 4043374849
+c -> de
+b -> cde
+a -> cde
+meet-irreducibles: d e de acde bcde 
+max antichain: d e 
+dimension: 2
+
+666.
+id: 3573612801
+c -> de
+b -> de
+a -> bcde
+meet-irreducibles: d e bde cde bcde 
+max antichain: d e 
+dimension: 2
+
+667.
+id: 3507552513
+c -> e
+b -> cde
+a -> bcde
+meet-irreducibles: d ce de cde bcde 
+max antichain: d ce 
+dimension: 2
+
+668.
+id: 4043374593
+d -> e
+c -> de
+b -> cde
+a -> cde
+meet-irreducibles: e de acde bcde 
+max antichain: acde bcde 
+dimension: 2
+
+669.
+id: 3573612545
+d -> e
+c -> de
+b -> de
+a -> bcde
+meet-irreducibles: e bde cde bcde 
+max antichain: bde cde 
+dimension: 2
+
+670.
+id: 3507552257
+d -> e
+c -> e
+b -> cde
+a -> bcde
+meet-irreducibles: ce de cde bcde 
+max antichain: ce de 
+dimension: 2
+
+671.
+id: 3506503937
+c -> de
+b -> cde
+a -> bcde
+meet-irreducibles: d e de cde bcde 
+max antichain: d e 
+dimension: 2
+
+672.
+id: 3506503681
+d -> e
+c -> de
+b -> cde
+a -> bcde
+meet-irreducibles: e de cde bcde 
+max antichain: e 
+dimension: 1
+Yay!
+59386 total convex geometries and 672 non-isomorphic geometries found!
+The largest meet-irreducible set was size 12
